@@ -1,0 +1,1507 @@
+<?xml version="1.0"?>
+<channels>
+<channel Country="United States" Channel="5 Star Max US" EPG_ID="5starmax.us"></channel>
+<channel Country="United States" Channel="A&amp;E US" EPG_ID="aande.us"></channel>
+<channel Country="United States" Channel="ABC 10 Miami US" EPG_ID="abc10wplg.us"></channel>
+<channel Country="United States" Channel="ABC 11 Louisville US" EPG_ID="abc11whas.us"></channel>
+<channel Country="United States" Channel="ABC 13 Houston US" EPG_ID="abc13ktrktv.us"></channel>
+<channel Country="United States" Channel="ABC 13 Alaska US" EPG_ID="abc13kyur.us"></channel>
+<channel Country="United States" Channel="ABC Tampa Bay US" EPG_ID="abc28wfts.us"></channel>
+<channel Country="United States" Channel="ABC 5 Puerto Rico US" EPG_ID="abc5wora.us"></channel>
+<channel Country="United States" Channel="ABC 7 LA US" EPG_ID="abc7kabctv.us"></channel>
+<channel Country="United States" Channel="ABC 7 Denver US" EPG_ID="abc7kmghtv.us"></channel>
+<channel Country="United States" Channel="ABC 7 Chicago US" EPG_ID="abc7wlstv.us"></channel>
+<channel Country="United States" Channel="ABC 7 Detroit US" EPG_ID="abc7wxyz.us"></channel>
+<channel Country="United States" Channel="ABC 8 Dallas US" EPG_ID="abc8wfaa.us"></channel>
+<channel Country="United States" Channel="ABC 9 Kansas City US" EPG_ID="abc9kmbc.us"></channel>
+<channel Country="United States" Channel="ABC San Francisco US" EPG_ID="abckgo.us"></channel>
+<channel Country="United States" Channel="ABC San Diego US" EPG_ID="abckgtv.us"></channel>
+<channel Country="United States" Channel="ABC Honolulu US" EPG_ID="abckitv.us"></channel>
+<channel Country="United States" Channel="ABC Grand Junction US" EPG_ID="abckjct.us"></channel>
+<channel Country="United States" Channel="ABC Seattle US" EPG_ID="abckomo.us"></channel>
+<channel Country="United States" Channel="ABC San Antonio US" EPG_ID="abcksat.us"></channel>
+<channel Country="United States" Channel="ABC Minneapolis US" EPG_ID="abckstp.us"></channel>
+<channel Country="United States" Channel="ABC Las Vegas US" EPG_ID="abcktnv.us"></channel>
+<channel Country="United States" Channel="ABC Sacramento US" EPG_ID="abckxtv.us"></channel>
+<channel Country="United States" Channel="ABC NY US" EPG_ID="abcwabc.us"></channel>
+<channel Country="United States" Channel="ABC Green Bay US" EPG_ID="abcwbay.us"></channel>
+<channel Country="United States" Channel="ABC Bowling Green US" EPG_ID="abcwbko.us"></channel>
+<channel Country="United States" Channel="ABC Baton Rouge US" EPG_ID="abcwbrz.us"></channel>
+<channel Country="United States" Channel="ABC Cincinatti US" EPG_ID="abcwcpo.us"></channel>
+<channel Country="United States" Channel="ABC Boston US" EPG_ID="abcwcvb.us"></channel>
+<channel Country="United States" Channel="ABC Cleveland US" EPG_ID="abcwews.us"></channel>
+<channel Country="United States" Channel="ABC Orlando US" EPG_ID="abcwftv.us"></channel>
+<channel Country="United States" Channel="ABC Milwaukee US" EPG_ID="abcwisn.us"></channel>
+<channel Country="United States" Channel="ABC Washington DC US" EPG_ID="abcwjla.us"></channel>
+<channel Country="United States" Channel="ABC Nashville US" EPG_ID="abcwkrn.us"></channel>
+<channel Country="United States" Channel="ABC Baltimore US" EPG_ID="abcwmar.us"></channel>
+<channel Country="United States" Channel="ABC Auburn US" EPG_ID="abcwmtw.us"></channel>
+<channel Country="United States" Channel="ABC Philadelphia US" EPG_ID="abcwpvi.us"></channel>
+<channel Country="United States" Channel="ABC Atlanta US" EPG_ID="abcwsb.us"></channel>
+<channel Country="United States" Channel="ABC Charlotte US" EPG_ID="abcwsoc.us"></channel>
+<channel Country="United States" Channel="ABC Columbus US" EPG_ID="abcwsyx.us"></channel>
+<channel Country="United States" Channel="ABC Toledo US" EPG_ID="abcwtvg.us"></channel>
+<channel Country="United States" Channel="ABC 7 Sarasota US" EPG_ID="abcwwsb.us"></channel>
+<channel Country="United States" Channel="Action Max US" EPG_ID="actionmax.us"></channel>
+<channel Country="United States" Channel="Adult Swim US" EPG_ID="adultswim.us"></channel>
+<channel Country="United States" Channel="ALTPBA Atlanta US" EPG_ID="altpbawpba.us"></channel>
+<channel Country="United States" Channel="AMC US" EPG_ID="amc.us"></channel>
+<channel Country="United States" Channel="American Heroes Channel US" EPG_ID="americanheroeschannel.us"></channel>
+<channel Country="United States" Channel="AMG TV US" EPG_ID="amgtv.us"></channel>
+<channel Country="United States" Channel="Animal Planet US" EPG_ID="animalplanet.us"></channel>
+<channel Country="United States" Channel="AntennaTV US" EPG_ID="antennatv.us"></channel>
+<channel Country="United States" Channel="AXS UK" EPG_ID="axstv.us"></channel>
+<channel Country="United States" Channel="Azteca US" EPG_ID="azteca.us"></channel>
+<channel Country="United States" Channel="Baby First US" EPG_ID="babyfirsttv.us"></channel>
+<channel Country="United States" Channel="Bandamax US" EPG_ID="bandamax.us"></channel>
+<channel Country="United States" Channel="BBC America US" EPG_ID="bbcamerica.us"></channel>
+<channel Country="United States" Channel="Beauty IQ US" EPG_ID="beautyiq.us"></channel>
+<channel Country="United States" Channel="beIN Sport en Espanol US" EPG_ID="beinsportespanol.us"></channel>
+<channel Country="United States" Channel="beIN Sports US" EPG_ID="beinsports.us"></channel>
+<channel Country="United States" Channel="beIN Sports 2 US" EPG_ID="beinsports2.us"></channel>
+<channel Country="United States" Channel="beIN Sports 3 US" EPG_ID="beinsports3.us"></channel>
+<channel Country="United States" Channel="beIN Sports 4 US" EPG_ID="beinsports4.us"></channel>
+<channel Country="United States" Channel="beIN Sports 5 US" EPG_ID="beinsports5.us"></channel>
+<channel Country="United States" Channel="beIN Sports 6 US" EPG_ID="beinsports6.us"></channel>
+<channel Country="United States" Channel="beIN Sports 7 US" EPG_ID="beinsports7.us"></channel>
+<channel Country="United States" Channel="beIN Sports 8 US" EPG_ID="beinsports8.us"></channel>
+<channel Country="United States" Channel="beIN Sports 9 US" EPG_ID="beinsports9.us"></channel>
+<channel Country="United States" Channel="beIN Sports 10 US" EPG_ID="beinsports10.us"></channel>
+<channel Country="United States" Channel="BET US" EPG_ID="bet.us"></channel>
+<channel Country="United States" Channel="BET Her US" EPG_ID="bether.us"></channel>
+<channel Country="United States" Channel="BET Jams US" EPG_ID="betjams.us"></channel>
+<channel Country="United States" Channel="Big Ten Network US" EPG_ID="bigtennetwork.us"></channel>
+<channel Country="United States" Channel="Blaze TV US" EPG_ID="blazetv.us"></channel>
+<channel Country="United States" Channel="Bloomberg TV US" EPG_ID="bloombergtv.us"></channel>
+<channel Country="United States" Channel="Boomerang US" EPG_ID="boomerang.us"></channel>
+<channel Country="United States" Channel="Bounce TV US" EPG_ID="bouncetv.us"></channel>
+<channel Country="United States" Channel="Bravo US" EPG_ID="bravo.us"></channel>
+<channel Country="United States" Channel="KBYU Brigham Young University US" EPG_ID="brighamyounguniversity.us"></channel>
+<channel Country="United States" Channel="Buzzer TV US" EPG_ID="buzzertv.us"></channel>
+<channel Country="United States" Channel="Cartoon Network US" EPG_ID="cartoonnetwork.us"></channel>
+<channel Country="United States" Channel="Catholic TV US" EPG_ID="catholictv.us"></channel>
+<channel Country="United States" Channel="CBS 11 Alaska US" EPG_ID="cbs11ktva.us"></channel>
+<channel Country="United States" Channel="CBS 11 Toledo US" EPG_ID="cbs11wtol.us"></channel>
+<channel Country="United States" Channel="CBS 17 Carolina US" EPG_ID="cbs17wncn.us"></channel>
+<channel Country="United States" Channel="CBS 21 Central PA US" EPG_ID="cbs21whp.us"></channel>
+<channel Country="United States" Channel="CBS 2 Pittsburgh US" EPG_ID="cbs2kdka.us"></channel>
+<channel Country="United States" Channel="CBS 32 Louisville US" EPG_ID="cbs32wlky.us"></channel>
+<channel Country="United States" Channel="CBS 3 Madison US" EPG_ID="cbs3wisc.us"></channel>
+<channel Country="United States" Channel="CBS 46 Atlanta US" EPG_ID="cbs46wgcltv.us"></channel>
+<channel Country="United States" Channel="CBS 4 Denver US" EPG_ID="cbs4kcnctv.us"></channel>
+<channel Country="United States" Channel="CBS 4 New Orleans US" EPG_ID="cbs4wwl.us"></channel>
+<channel Country="United States" Channel="CBS 5 Kansas City US" EPG_ID="cbs5kctv.us"></channel>
+<channel Country="United States" Channel="CBS 62 Detroit US" EPG_ID="cbs62wwjtv.us"></channel>
+<channel Country="United States" Channel="CBS 7 Dayton US" EPG_ID="cbs7whio.us"></channel>
+<channel Country="United States" Channel="CBS LA US" EPG_ID="cbskcbs.us"></channel>
+<channel Country="United States" Channel="CBS San Diego US" EPG_ID="cbskfmb.us"></channel>
+<channel Country="United States" Channel="CBS Honolulu US" EPG_ID="cbskgmb.us"></channel>
+<channel Country="United States" Channel="CBS Houston US" EPG_ID="cbskhou.us"></channel>
+<channel Country="United States" Channel="CBS Seattle US" EPG_ID="cbskiro.us"></channel>
+<channel Country="United States" Channel="CBS Las Vegas US" EPG_ID="cbsklas.us"></channel>
+<channel Country="United States" Channel="CBS Tulsa US" EPG_ID="cbskotv.us"></channel>
+<channel Country="United States" Channel="CBS Sacramento US" EPG_ID="cbskovr.us"></channel>
+<channel Country="United States" Channel="CBS 5 Phoenix US" EPG_ID="cbskpho.us"></channel>
+<channel Country="United States" Channel="CBS Grand Junction US" EPG_ID="cbskrex.us"></channel>
+<channel Country="United States" Channel="CBS Philadelphia US" EPG_ID="cbskyw.us"></channel>
+<channel Country="United States" Channel="CBS Sports Network US" EPG_ID="cbssportsnetwork.us"></channel>
+<channel Country="United States" Channel="CBS Bangor US" EPG_ID="cbswabi.us"></channel>
+<channel Country="United States" Channel="CBS Baton Rouge US" EPG_ID="cbswafb.us"></channel>
+<channel Country="United States" Channel="CBS Chicago US" EPG_ID="cbswbbmtv.us"></channel>
+<channel Country="United States" Channel="CBS Columbus US" EPG_ID="cbswbns.us"></channel>
+<channel Country="United States" Channel="CBS Charlotte US" EPG_ID="cbswbtv.us"></channel>
+<channel Country="United States" Channel="CBS Boston US" EPG_ID="cbswbz.us"></channel>
+<channel Country="United States" Channel="CBS NY US" EPG_ID="cbswcbs.us"></channel>
+<channel Country="United States" Channel="CBS Minneapolis US" EPG_ID="cbswcco.us"></channel>
+<channel Country="United States" Channel="CBS Milwaukee US" EPG_ID="cbswdjt.us"></channel>
+<channel Country="United States" Channel="CBS Miami US" EPG_ID="cbswfor.us"></channel>
+<channel Country="United States" Channel="CBS Portland US" EPG_ID="cbswgme.us"></channel>
+<channel Country="United States" Channel="CBS Wink News US" EPG_ID="cbswinknews.us"></channel>
+<channel Country="United States" Channel="CBS Baltimore US" EPG_ID="cbswjz.us"></channel>
+<channel Country="United States" Channel="CBS Orlando US" EPG_ID="cbswkmg.us"></channel>
+<channel Country="United States" Channel="CBS Lexington US" EPG_ID="cbswkyt.us"></channel>
+<channel Country="United States" Channel="CBS Cleveland US" EPG_ID="cbswoio.us"></channel>
+<channel Country="United States" Channel="CBS Wausau US" EPG_ID="cbswsaw.us"></channel>
+<channel Country="United States" Channel="CBS Tampa Bay US" EPG_ID="cbswtsp.us"></channel>
+<channel Country="United States" Channel="CBS Nashville US" EPG_ID="cbswtvf.us"></channel>
+<channel Country="United States" Channel="CBS Washington DC US" EPG_ID="cbswusa.us"></channel>
+<channel Country="United States" Channel="CBS Hazard US" EPG_ID="cbswymt.us"></channel>
+<channel Country="United States" Channel="Cine Latino US" EPG_ID="cinelatino.us"></channel>
+<channel Country="United States" Channel="Cinema Screening Room US" EPG_ID="cinemascreeningroom.us"></channel>
+<channel Country="United States" Channel="Cinema Screening Room 100 US" EPG_ID="cinemascreeningroom100.us"></channel>
+<channel Country="United States" Channel="Cinema Screening Room 200 US" EPG_ID="cinemascreeningroom200.us"></channel>
+<channel Country="United States" Channel="Cinema Screening Room 201 US" EPG_ID="cinemascreeningroom201.us"></channel>
+<channel Country="United States" Channel="Cinemax US" EPG_ID="cinemax.us"></channel>
+<channel Country="United States" Channel="Cine Sony US" EPG_ID="cinesony.us"></channel>
+<channel Country="United States" Channel="CMT US" EPG_ID="cmt.us"></channel>
+<channel Country="United States" Channel="CNBC US" EPG_ID="cnbc.us"></channel>
+<channel Country="United States" Channel="CNBC World US" EPG_ID="cnbcworld.us"></channel>
+<channel Country="United States" Channel="CNN US" EPG_ID="cnn.us"></channel>
+<channel Country="United States" Channel="CNN Espanol US" EPG_ID="cnnespanol.us"></channel>
+<channel Country="United States" Channel="Comcast Sportsnet US" EPG_ID="comcastsportsnet.us"></channel>
+<channel Country="United States" Channel="Comcast SportsNet Bay Area US" EPG_ID="comcastsportsnetbayarea.us"></channel>
+<channel Country="United States" Channel="Comcast SportsNet California US" EPG_ID="comcastsportsnetcaliforniaplus.us"></channel>
+<channel Country="United States" Channel="Comcast SportsNet Chicago US" EPG_ID="comcastsportsnetchicago.us"></channel>
+<channel Country="United States" Channel="Comcast Sportsnet New England US" EPG_ID="comcastsportsnetnewengland.us"></channel>
+<channel Country="United States" Channel="Comcast SportsNet Philadelphia" EPG_ID="comcastsportsnetphiladelphia.us"></channel>
+<channel Country="United States" Channel="Comedy Central US" EPG_ID="comedycentral.us"></channel>
+<channel Country="United States" Channel="ComedyTV US" EPG_ID="comedytv.us"></channel>
+<channel Country="United States" Channel="Comet US" EPG_ID="comet.us"></channel>
+<channel Country="United States" Channel="Cooking Channel US" EPG_ID="cookingchannel.us"></channel>
+<channel Country="United States" Channel="Cornerstone Television US" EPG_ID="cornerstonetelevision.us"></channel>
+<channel Country="United States" Channel="Cozi TV US" EPG_ID="cozitv.us"></channel>
+<channel Country="United States" Channel="CreateTV US" EPG_ID="createtv.us"></channel>
+<channel Country="United States" Channel="Crime and Investigation US" EPG_ID="crimeinvestigation.us"></channel>
+<channel Country="United States" Channel="CSPAN US" EPG_ID="cspan.us"></channel>
+<channel Country="United States" Channel="CSPAN 2 US" EPG_ID="cspan2.us"></channel>
+<channel Country="United States" Channel="CSPAN 3 US" EPG_ID="cspan3.us"></channel>
+<channel Country="United States" Channel="CW US" EPG_ID="cw.us"></channel>
+<channel Country="United States" Channel="CW50 Chicago US" EPG_ID="cw50wpwr.us"></channel>
+<channel Country="United States" Channel="CW 57 Philadelphia US" EPG_ID="cw57wpsg.us"></channel>
+<channel Country="United States" Channel="CW Central PA US" EPG_ID="cwcentralpawhp.us"></channel>
+<channel Country="United States" Channel="CW Sacramento US" EPG_ID="cwkmax.us"></channel>
+<channel Country="United States" Channel="CW Las Vegas US" EPG_ID="cwkvcw.us"></channel>
+<channel Country="United States" Channel="CW Baltimore US" EPG_ID="cwwnuv.us"></channel>
+<channel Country="United States" Channel="Daystar US" EPG_ID="daystar.us"></channel>
+<channel Country="United States" Channel="Decades US" EPG_ID="decades.us"></channel>
+<channel Country="United States" Channel="Destination America US" EPG_ID="destinationamerica.us"></channel>
+<channel Country="United States" Channel="Discovery Channel US" EPG_ID="discoverychannel.us"></channel>
+<channel Country="United States" Channel="Discovery en Espanol US" EPG_ID="discoveryespanol.us"></channel>
+<channel Country="United States" Channel="Discovery Family Channel US" EPG_ID="discoveryfamily.us"></channel>
+<channel Country="United States" Channel="Discovery Life US" EPG_ID="discoverylife.us"></channel>
+<channel Country="United States" Channel="Discovery Science US" EPG_ID="discoveryscience.us"></channel>
+<channel Country="United States" Channel="Disney US" EPG_ID="disneychannel.us"></channel>
+<channel Country="United States" Channel="Disney Junior US" EPG_ID="disneyjunior.us"></channel>
+<channel Country="United States" Channel="Disney XD US" EPG_ID="disneyxd.us"></channel>
+<channel Country="United States" Channel="Do it Yourself Network US" EPG_ID="doityourselfnetwork.us"></channel>
+<channel Country="United States" Channel="Dog TV US" EPG_ID="dogtv.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 119 US" EPG_ID="dtvcinema119.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 120 US" EPG_ID="dtvcinema120.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 121 US" EPG_ID="dtvcinema121.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 122 US" EPG_ID="dtvcinema122.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 123 US" EPG_ID="dtvcinema123.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 124 US" EPG_ID="dtvcinema124.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 126 US" EPG_ID="dtvcinema126.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 127 US" EPG_ID="dtvcinema127.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 128 US" EPG_ID="dtvcinema128.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 129 US" EPG_ID="dtvcinema129.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 130 US" EPG_ID="dtvcinema130.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 131 US" EPG_ID="dtvcinema131.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 135 US" EPG_ID="dtvcinema135.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 136 US" EPG_ID="dtvcinema136.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 138 US" EPG_ID="dtvcinema138.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 139 US" EPG_ID="dtvcinema139.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 140 US" EPG_ID="dtvcinema140.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 141 US" EPG_ID="dtvcinema141.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 142 US" EPG_ID="dtvcinema142.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 143 US" EPG_ID="dtvcinema143.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 144 US" EPG_ID="dtvcinema144.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 145 US" EPG_ID="dtvcinema145.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 147 US" EPG_ID="dtvcinema147.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 148 US" EPG_ID="dtvcinema148.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 149 US" EPG_ID="dtvcinema149.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 150 US" EPG_ID="dtvcinema150.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 151 US" EPG_ID="dtvcinema151.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 152 US" EPG_ID="dtvcinema152.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 153 US" EPG_ID="dtvcinema153.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 154 US" EPG_ID="dtvcinema154.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 155 US" EPG_ID="dtvcinema155.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 156 US" EPG_ID="dtvcinema156.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 157 US" EPG_ID="dtvcinema157.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 158 US" EPG_ID="dtvcinema158.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 159 US" EPG_ID="dtvcinema159.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 166 US" EPG_ID="dtvcinema166.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 168 US" EPG_ID="dtvcinema168.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 169 US" EPG_ID="dtvcinema169.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 173 US" EPG_ID="dtvcinema173.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 174 US" EPG_ID="dtvcinema174.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 175 US" EPG_ID="dtvcinema175.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 176 US" EPG_ID="dtvcinema176.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 177 US" EPG_ID="dtvcinema177.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 178 US" EPG_ID="dtvcinema178.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 179 US" EPG_ID="dtvcinema179.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 180 US" EPG_ID="dtvcinema180.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 181 US" EPG_ID="dtvcinema181.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 182 US" EPG_ID="dtvcinema182.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 183 US" EPG_ID="dtvcinema183.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 184 US" EPG_ID="dtvcinema184.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 185 US" EPG_ID="dtvcinema185.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 186 US" EPG_ID="dtvcinema186.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 187 US" EPG_ID="dtvcinema187.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 188 US" EPG_ID="dtvcinema188.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 189 US" EPG_ID="dtvcinema189.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 190 US" EPG_ID="dtvcinema190.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 191 US" EPG_ID="dtvcinema191.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 192 US" EPG_ID="dtvcinema192.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 193 US" EPG_ID="dtvcinema193.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 194 US" EPG_ID="dtvcinema194.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 195 US" EPG_ID="dtvcinema195.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 196 US" EPG_ID="dtvcinema196.us"></channel>
+<channel Country="United States" Channel="E! Entertainment US" EPG_ID="eentertainment.us"></channel>
+<channel Country="United States" Channel="Eleven Sports US" EPG_ID="elevensports.us"></channel>
+<channel Country="United States" Channel="El Rey US" EPG_ID="elrey.us"></channel>
+<channel Country="United States" Channel="Enlace US" EPG_ID="enlace.us"></channel>
+<channel Country="United States" Channel="EPIX US" EPG_ID="epix.us"></channel>
+<channel Country="United States" Channel="EPIX2 US" EPG_ID="epix2.us"></channel>
+<channel Country="United States" Channel="EPIX Hits US" EPG_ID="epixhits.us"></channel>
+<channel Country="United States" Channel="Epix DriveIn US" EPG_ID="epixdrivein.us"></channel>
+<channel Country="United States" Channel="Escape US" EPG_ID="escape.us"></channel>
+<channel Country="United States" Channel="ESPN US" EPG_ID="espn.us"></channel>
+<channel Country="United States" Channel="ESPN2 US" EPG_ID="espn2.us"></channel>
+<channel Country="United States" Channel="ESPN Classic US" EPG_ID="espnclassics.us"></channel>
+<channel Country="United States" Channel="ESPN Deportes US" EPG_ID="espndeportes.us"></channel>
+<channel Country="United States" Channel="ESPN News US" EPG_ID="espnnews.us"></channel>
+<channel Country="United States" Channel="ESPN U US" EPG_ID="espnu.us"></channel>
+<channel Country="United States" Channel="ESPN College Extra 1 US" EPG_ID="espncollegeextra1.us"></channel>
+<channel Country="United States" Channel="ESPN College Extra 2 US" EPG_ID="espncollegeextra2.us"></channel>
+<channel Country="United States" Channel="ESPN College Extra 3 US" EPG_ID="espncollegeextra3.us"></channel>
+<channel Country="United States" Channel="ESPN College Extra 4 US" EPG_ID="espncollegeextra4.us"></channel>
+<channel Country="United States" Channel="ESPN College Extra 5 US" EPG_ID="espncollegeextra5.us"></channel>
+<channel Country="United States" Channel="ESPN College Extra 6 US" EPG_ID="espncollegeextra6.us"></channel>
+<channel Country="United States" Channel="ESPN College Extra 7 US" EPG_ID="espncollegeextra7.us"></channel>
+<channel Country="United States" Channel="ESPN College Extra 8 US" EPG_ID="espncollegeextra8.us"></channel>
+<channel Country="United States" Channel="Estrella US" EPG_ID="estrella.us"></channel>
+<channel Country="United States" Channel="EVINE US" EPG_ID="evine.us"></channel>
+<channel Country="United States" Channel="EWTN US" EPG_ID="ewtn.us"></channel>
+<channel Country="United States" Channel="EWTN Espanol US" EPG_ID="ewtnespanol.us"></channel>
+<channel Country="United States" Channel="FOX College Sports Pacific US" EPG_ID="foxcollegesportspacific.us"></channel>
+<channel Country="United States" Channel="FOX College Sports Atlantic US" EPG_ID="foxcollegesportsatlantic.us"></channel>
+<channel Country="United States" Channel="FOX College Sports Central US" EPG_ID="foxcollegesportscentral.us"></channel>
+<channel Country="United States" Channel="Flix US" EPG_ID="flix.us"></channel>
+<channel Country="United States" Channel="Food Network US" EPG_ID="foodnetwork.us"></channel>
+<channel Country="United States" Channel="Fox 10 Phoenix US" EPG_ID="fox10ksaz.us"></channel>
+<channel Country="United States" Channel="Fox 10 Extra Phoenix US" EPG_ID="fox10kutp.us"></channel>
+<channel Country="United States" Channel="Fox 11 LA US" EPG_ID="fox11kttv.us"></channel>
+<channel Country="United States" Channel="FOX 25 Boston US" EPG_ID="fox25wfxt.us"></channel>
+<channel Country="United States" Channel="Fox 28 Columbus US" EPG_ID="fox28wtte.us"></channel>
+<channel Country="United States" Channel="FOX 2 St. Louis US" EPG_ID="fox2ktvi.us"></channel>
+<channel Country="United States" Channel="Fox 30 Jacksonville US" EPG_ID="fox30wfox.us"></channel>
+<channel Country="United States" Channel="FOX 31 Denver US" EPG_ID="fox31kdvr.us"></channel>
+<channel Country="United States" Channel="FOX 32 Chicago US" EPG_ID="fox32wfld.us"></channel>
+<channel Country="United States" Channel="Fox 36 Toledo US" EPG_ID="fox36wupw.us"></channel>
+<channel Country="United States" Channel="FOX 41 Louisville US" EPG_ID="fox41wdrb.us"></channel>
+<channel Country="United States" Channel="Fox 4 Alaska US" EPG_ID="fox4ktby.us"></channel>
+<channel Country="United States" Channel="FOX 4 Kansas City US" EPG_ID="fox4wdaf.us"></channel>
+<channel Country="United States" Channel="FOX NY US" EPG_ID="fox.us"></channel>
+<channel Country="United States" Channel="Fox Business US" EPG_ID="foxbusiness.us"></channel>
+<channel Country="United States" Channel="Fox Deportes Espanol US" EPG_ID="foxdeportes.us"></channel>
+<channel Country="United States" Channel="Fox San Antonio US" EPG_ID="foxkabb.us"></channel>
+<channel Country="United States" Channel="FOX Tacoma US" EPG_ID="foxkcpq.us"></channel>
+<channel Country="United States" Channel="FOX Dallas US" EPG_ID="foxkdfw.us"></channel>
+<channel Country="United States" Channel="FOX Grand Junction US" EPG_ID="foxkfqx.us"></channel>
+<channel Country="United States" Channel="FOX Cedar Rapids US" EPG_ID="foxkfxa.us"></channel>
+<channel Country="United States" Channel="FOX Honolulu US" EPG_ID="foxkhon.us"></channel>
+<channel Country="United States" Channel="FOX 9 Minneapolis US" EPG_ID="foxkmsp.us"></channel>
+<channel Country="United States" Channel="Fox Tulsa US" EPG_ID="foxkoki.us"></channel>
+<channel Country="United States" Channel="FOX Houston US" EPG_ID="foxkriv.us"></channel>
+<channel Country="United States" Channel="FOX San Diego US" EPG_ID="foxkswb.us"></channel>
+<channel Country="United States" Channel="FOX Sacramento US" EPG_ID="foxktxl.us"></channel>
+<channel Country="United States" Channel="FOX Las Vegas US" EPG_ID="foxkvvu.us"></channel>
+<channel Country="United States" Channel="Fox Life US" EPG_ID="foxlife.us"></channel>
+<channel Country="United States" Channel="FOX Sports Midwest Kansas City US" EPG_ID="foxmidwestkansascity.us"></channel>
+<channel Country="United States" Channel="Fox News US" EPG_ID="foxnews.us"></channel>
+<channel Country="United States" Channel="Fox Soccer Plus US" EPG_ID="foxsoccerplus.us"></channel>
+<channel Country="United States" Channel="Fox Sports West US" EPG_ID="foxsportswest.us"></channel>
+<channel Country="United States" Channel="Fox Sports 1 US" EPG_ID="foxsports1.us"></channel>
+<channel Country="United States" Channel="Fox Sports 2 US" EPG_ID="foxsports2.us"></channel>
+<channel Country="United States" Channel="Fox Sports Arizona US" EPG_ID="foxsportsarizona.us"></channel>
+<channel Country="United States" Channel="FOX Sports South Carolinas US" EPG_ID="foxsportscarolinas.us"></channel>
+<channel Country="United States" Channel="Fox Sports Detroit US" EPG_ID="foxsportsdetroit.us"></channel>
+<channel Country="United States" Channel="Fox Sports Florida US" EPG_ID="foxsportsflorida.us"></channel>
+<channel Country="United States" Channel="FOX Sports Indiana US" EPG_ID="foxsportsindiana.us"></channel>
+<channel Country="United States" Channel="Fox Sports Midwest US" EPG_ID="foxsportsmidwest.us"></channel>
+<channel Country="United States" Channel="FOX Sports Midwest Indiana US" EPG_ID="foxsportsmidwestindiana.us"></channel>
+<channel Country="United States" Channel="FOX Sports Midwest St. Louis US" EPG_ID="foxsportsmidweststlouis.us"></channel>
+<channel Country="United States" Channel="FOX Sports New Orleans US" EPG_ID="foxsportsneworleans.us"></channel>
+<channel Country="United States" Channel="Fox Sports North US" EPG_ID="foxsportsnorth.us"></channel>
+<channel Country="United States" Channel="Fox Sports Cincinnati US" EPG_ID="foxsportsohiocincinnati.us"></channel>
+<channel Country="United States" Channel="Fox Sports Cleveland US" EPG_ID="foxsportsohiocleveland.us"></channel>
+<channel Country="United States" Channel="FOX Sports Oklahoma US" EPG_ID="foxsportsoklahoma.us"></channel>
+<channel Country="United States" Channel="Fox Sports Prime Ticket US" EPG_ID="foxsportsprimeticket.us"></channel>
+<channel Country="United States" Channel="Fox Sports San Diego US" EPG_ID="foxsportssandiego.us"></channel>
+<channel Country="United States" Channel="Fox Sports South US" EPG_ID="foxsportssouth.us"></channel>
+<channel Country="United States" Channel="Fox Sports Southeast US" EPG_ID="foxsportssoutheast.us"></channel>
+<channel Country="United States" Channel="FOX Sports South Nashville US" EPG_ID="foxsportssouthnashville.us"></channel>
+<channel Country="United States" Channel="Fox Sports Southwest US" EPG_ID="foxsportssouthwest.us"></channel>
+<channel Country="United States" Channel="Fox Sports Sun US" EPG_ID="foxsportssun.us"></channel>
+<channel Country="United States" Channel="Fox Sports Wisconsin US" EPG_ID="foxsportswisconsin.us"></channel>
+<channel Country="United States" Channel="FOX Atlanta US" EPG_ID="foxwaga.us"></channel>
+<channel Country="United States" Channel="FOX Baltimore US" EPG_ID="foxwbff.us"></channel>
+<channel Country="United States" Channel="FOX Milwaukee US" EPG_ID="foxwiti.us"></channel>
+<channel Country="United States" Channel="Fox 2 Detroit US" EPG_ID="foxwjbk.us"></channel>
+<channel Country="United States" Channel="FOX 8 Cleveland US" EPG_ID="foxwjw.us"></channel>
+<channel Country="United States" Channel="FOX Charlotte US" EPG_ID="foxwjzy.us"></channel>
+<channel Country="United States" Channel="FOX NY US" EPG_ID="foxwnyw.us"></channel>
+<channel Country="United States" Channel="FOX Orlando US" EPG_ID="foxwofl.us"></channel>
+<channel Country="United States" Channel="FOX Washington DC US" EPG_ID="foxwttg.us"></channel>
+<channel Country="United States" Channel="FOX Tampa Bay US" EPG_ID="foxwtvt.us"></channel>
+<channel Country="United States" Channel="Fox Philadelphia US" EPG_ID="foxwtxf.us"></channel>
+<channel Country="United States" Channel="Fox Bangor US" EPG_ID="foxwvii.us"></channel>
+<channel Country="United States" Channel="Fox New Orleans US" EPG_ID="foxwvue.us"></channel>
+<channel Country="United States" Channel="Fox Cincinnaty US" EPG_ID="foxwxix.us"></channel>
+<channel Country="United States" Channel="FOX Nashville US" EPG_ID="foxwztv.us"></channel>
+<channel Country="United States" Channel="Freeform US" EPG_ID="freeform.us"></channel>
+<channel Country="United States" Channel="Fuse US" EPG_ID="fusetv.us"></channel>
+<channel Country="United States" Channel="Fusion US" EPG_ID="fusion.us"></channel>
+<channel Country="United States" Channel="FX US" EPG_ID="fx.us"></channel>
+<channel Country="United States" Channel="FX Movie Channel US" EPG_ID="fxmoviechannel.us"></channel>
+<channel Country="United States" Channel="FXX US" EPG_ID="fxx.us"></channel>
+<channel Country="United States" Channel="FYI US" EPG_ID="fyi.us"></channel>
+<channel Country="United States" Channel="Galavision US" EPG_ID="galavision.us"></channel>
+<channel Country="United States" Channel="Game Show Network US" EPG_ID="gameshownetwork.us"></channel>
+<channel Country="United States" Channel="Gem Shopping Network US" EPG_ID="gemshoppingnetwork.us"></channel>
+<channel Country="United States" Channel="Get TV US" EPG_ID="gettv.us"></channel>
+<channel Country="United States" Channel="God\&apos;s Learning Channel US" EPG_ID="godslearningchannel.us"></channel>
+<channel Country="United States" Channel="God TV US" EPG_ID="godtv.us"></channel>
+<channel Country="United States" Channel="The Golf Channel US" EPG_ID="golfchannel.us"></channel>
+<channel Country="United States" Channel="Gol TV US" EPG_ID="goltv.us"></channel>
+<channel Country="United States" Channel="Gol TV ES US" EPG_ID="goltvspanish.us"></channel>
+<channel Country="United States" Channel="Great American Country US" EPG_ID="greatamericancountry.us"></channel>
+<channel Country="United States" Channel="Grit US" EPG_ID="grit.us"></channel>
+<channel Country="United States" Channel="Hallmark Channel US" EPG_ID="hallmark.us"></channel>
+<channel Country="United States" Channel="Hallmark Drama US" EPG_ID="hallmarkdrama.us"></channel>
+<channel Country="United States" Channel="Hallmark Movies and Mysteries US" EPG_ID="hallmarkmoviesmysteries.us"></channel>
+<channel Country="United States" Channel="HBO US" EPG_ID="hbo.us"></channel>
+<channel Country="United States" Channel="HBO 2 US" EPG_ID="hbo2.us"></channel>
+<channel Country="United States" Channel="HBO Comedy US" EPG_ID="hbocomedy.us"></channel>
+<channel Country="United States" Channel="HBO Family US" EPG_ID="hbofamily.us"></channel>
+<channel Country="United States" Channel="HBO Latino US" EPG_ID="hbolatino.us"></channel>
+<channel Country="United States" Channel="HBO Max US" EPG_ID="hbomax.us"></channel>
+<channel Country="United States" Channel="HBO Max Prime US" EPG_ID="hbomaxprime.us"></channel>
+<channel Country="United States" Channel="HBO Max Up US" EPG_ID="hbomaxup.us"></channel>
+<channel Country="United States" Channel="HBO Signature US" EPG_ID="hbosignature.us"></channel>
+<channel Country="United States" Channel="HBO Zone US" EPG_ID="hbozone.us"></channel>
+<channel Country="United States" Channel="HDNet Movies US" EPG_ID="hdnetmovies.us"></channel>
+<channel Country="United States" Channel="Heroes And Icons TV US" EPG_ID="heroesandiconstv.us"></channel>
+<channel Country="United States" Channel="HGTV US" EPG_ID="hgtv.us"></channel>
+<channel Country="United States" Channel="Hillsong US" EPG_ID="hillsong.us"></channel>
+<channel Country="United States" Channel="History Channel US" EPG_ID="historychannel.us"></channel>
+<channel Country="United States" Channel="History en Espanol US" EPG_ID="historyenespanol.us"></channel>
+<channel Country="United States" Channel="HLN US" EPG_ID="hln.us"></channel>
+<channel Country="United States" Channel="Hola TV US" EPG_ID="holatv.us"></channel>
+<channel Country="United States" Channel="Home Shopping Network US" EPG_ID="homeshoppingnetwork.us"></channel>
+<channel Country="United States" Channel="Hope Channel US" EPG_ID="hopechannel.us"></channel>
+<channel Country="United States" Channel="HSN2 US" EPG_ID="hsn2.us"></channel>
+<channel Country="United States" Channel="IMPACT US" EPG_ID="impact.us"></channel>
+<channel Country="United States" Channel="Independent Film Channel US" EPG_ID="independentfilmchannel.us"></channel>
+<channel Country="United States" Channel="IndiePlex US" EPG_ID="indieplex.us"></channel>
+<channel Country="United States" Channel="INSP US" EPG_ID="insp.us"></channel>
+<channel Country="United States" Channel="Investigation Discovery US" EPG_ID="investigationdiscovery.us"></channel>
+<channel Country="United States" Channel="ION US" EPG_ID="ion.us"></channel>
+<channel Country="United States" Channel="ION Life US" EPG_ID="ionlife.us"></channel>
+<channel Country="United States" Channel="Jewelry Television US" EPG_ID="jewelrytelevision.us"></channel>
+<channel Country="United States" Channel="Jewish Life US" EPG_ID="jewishlifetv.us"></channel>
+<channel Country="United States" Channel="Justice Central US" EPG_ID="justicecentral.us"></channel>
+<channel Country="United States" Channel="KCAL US" EPG_ID="kcal.us"></channel>
+<channel Country="United States" Channel="KCET US" EPG_ID="kcet.us"></channel>
+<channel Country="United States" Channel="KTLA US" EPG_ID="ktla.us"></channel>
+<channel Country="United States" Channel="KGBY Cozi US" EPG_ID="kgbycozi.us"></channel>
+<channel Country="United States" Channel="KUBE Houston US" EPG_ID="kube.us"></channel>
+<channel Country="United States" Channel="Laff TV US" EPG_ID="lafftv.us"></channel>
+<channel Country="United States" Channel="Lifetime Movies US" EPG_ID="lifetimemovies.us"></channel>
+<channel Country="United States" Channel="Lifetime Network US" EPG_ID="lifetimenetwork.us"></channel>
+<channel Country="United States" Channel="LMN US" EPG_ID="lmn.us"></channel>
+<channel Country="United States" Channel="LOGO US" EPG_ID="logo.us"></channel>
+<channel Country="United States" Channel="Longhorn Network US" EPG_ID="thelonghonrnetwork.us"></channel>
+<channel Country="United States" Channel="MSG US" EPG_ID="madisonsquaregarden.us"></channel>
+<channel Country="United States" Channel="MSG Plus US" EPG_ID="madisonsquaregardenplus.us"></channel>
+<channel Country="United States" Channel="MavTV US" EPG_ID="mavtv.us"></channel>
+<channel Country="United States" Channel="Mega TV US" EPG_ID="megatv.us"></channel>
+<channel Country="United States" Channel="MeTV New Jersey US" EPG_ID="metvwjlp.us"></channel>
+<channel Country="United States" Channel="Mexicanal US" EPG_ID="mexicanal.us"></channel>
+<channel Country="United States" Channel="MGM US" EPG_ID="mgm.us"></channel>
+<channel Country="United States" Channel="Military History US" EPG_ID="militaryhistory.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 720 US" EPG_ID="mlbextrainnings720.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 721 US" EPG_ID="mlbextrainnings721.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 722 US" EPG_ID="mlbextrainnings722.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 723 US" EPG_ID="mlbextrainnings723.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 724 US" EPG_ID="mlbextrainnings724.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 725 US" EPG_ID="mlbextrainnings725.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 726 US" EPG_ID="mlbextrainnings726.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 727 US" EPG_ID="mlbextrainnings727.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 728 US" EPG_ID="mlbextrainnings728.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 729 US" EPG_ID="mlbextrainnings729.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 731 US" EPG_ID="mlbextrainnings730.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 731 US" EPG_ID="mlbextrainnings731.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 732 US" EPG_ID="mlbextrainnings732.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 733 US" EPG_ID="mlbextrainnings733.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 734 US" EPG_ID="mlbextrainnings734.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 735 US" EPG_ID="mlbextrainnings735.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 736 US" EPG_ID="mlbextrainnings736.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 737 US" EPG_ID="mlbextrainnings737.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 738 US" EPG_ID="mlbextrainnings738.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 739 US" EPG_ID="mlbextrainnings739.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 740 US" EPG_ID="mlbextrainnings740.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 741 US" EPG_ID="mlbextrainnings741.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 742 US" EPG_ID="mlbextrainnings742.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 743 US" EPG_ID="mlbextrainnings743.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 744 US" EPG_ID="mlbextrainnings744.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 745 US" EPG_ID="mlbextrainnings745.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 746 US" EPG_ID="mlbextrainnings746.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 747 US" EPG_ID="mlbextrainnings747.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 748 US" EPG_ID="mlbextrainnings748.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 749 US" EPG_ID="mlbextrainnings749.us"></channel>
+<channel Country="United States" Channel="MLB Network US" EPG_ID="mlbnetwork.us"></channel>
+<channel Country="United States" Channel="More Max US" EPG_ID="moremax.us"></channel>
+<channel Country="United States" Channel="Motor Trend US" EPG_ID="motortrend.us"></channel>
+<channel Country="United States" Channel="MOVIEMAX US" EPG_ID="moviemax.us"></channel>
+<channel Country="United States" Channel="MoviePlex US" EPG_ID="movieplex.us"></channel>
+<channel Country="United States" Channel="MSNBC US" EPG_ID="msnbc.us"></channel>
+<channel Country="United States" Channel="MTV US" EPG_ID="mtv.us"></channel>
+<channel Country="United States" Channel="MTV2 US" EPG_ID="mtv2.us"></channel>
+<channel Country="United States" Channel="MTV Classic US" EPG_ID="mtvclassic.us"></channel>
+<channel Country="United States" Channel="MTV Live US" EPG_ID="mtvlive.us"></channel>
+<channel Country="United States" Channel="MY13 Los Angeles US" EPG_ID="my13kcop.us"></channel>
+<channel Country="United States" Channel="MY20 Houston US" EPG_ID="my20ktxh.us"></channel>
+<channel Country="United States" Channel="MY 24 Milwaukee US" EPG_ID="my24wvtv.us"></channel>
+<channel Country="United States" Channel="My38 Boston US" EPG_ID="my38wsbk.us"></channel>
+<channel Country="United States" Channel="MY65 Orlando US" EPG_ID="my65wrbw.us"></channel>
+<channel Country="United States" Channel="My9 New York US" EPG_ID="my9wwor.us"></channel>
+<channel Country="United States" Channel="NASA Channel US" EPG_ID="nasachannel.us"></channel>
+<channel Country="United States" Channel="National Geographic Wild US" EPG_ID="natgeowild.us"></channel>
+<channel Country="United States" Channel="National Geographic US" EPG_ID="natgeo.us"></channel>
+<channel Country="United States" Channel="NatGeo Mundo US" EPG_ID="natgeomundo.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 1 US" EPG_ID="nbaleaguepass1.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 2 US" EPG_ID="nbaleaguepass2.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 3 US" EPG_ID="nbaleaguepass3.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 4 US" EPG_ID="nbaleaguepass4.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 5 US" EPG_ID="nbaleaguepass5.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 6 US" EPG_ID="nbaleaguepass6.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 7 US" EPG_ID="nbaleaguepass7.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 8 US" EPG_ID="nbaleaguepass8.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 9 US" EPG_ID="nbaleaguepass9.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 10 US" EPG_ID="nbaleaguepass10.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 750 US" EPG_ID="nbaleaguepass750.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 751 US" EPG_ID="nbaleaguepass751.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 752 US" EPG_ID="nbaleaguepass752.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 753 US" EPG_ID="nbaleaguepass753.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 754 US" EPG_ID="nbaleaguepass754.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 755 US" EPG_ID="nbaleaguepass755.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 756 US" EPG_ID="nbaleaguepass756.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 757 US" EPG_ID="nbaleaguepass757.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 758 US" EPG_ID="nbaleaguepass758.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 759 US" EPG_ID="nbaleaguepass759.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 760 US" EPG_ID="nbaleaguepass760.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 761 US" EPG_ID="nbaleaguepass761.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 762 US" EPG_ID="nbaleaguepass762.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 763 US" EPG_ID="nbaleaguepass763.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 764 US" EPG_ID="nbaleaguepass764.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 765 US" EPG_ID="nbaleaguepass765.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 766 US" EPG_ID="nbaleaguepass766.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 767 US" EPG_ID="nbaleaguepass767.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 768 US" EPG_ID="nbaleaguepass768.us"></channel>
+<channel Country="United States" Channel="NBA TV US" EPG_ID="nbatv.us"></channel>
+<channel Country="United States" Channel="NBC 10 Philadelphia US" EPG_ID="nbc10wcau.us"></channel>
+<channel Country="United States" Channel="NBC 15 Madison US" EPG_ID="nbc15wmtv.us"></channel>
+<channel Country="United States" Channel="NBC 2 Alaska US" EPG_ID="nbc2ktuu.us"></channel>
+<channel Country="United States" Channel="NBC 41 Kansas City US" EPG_ID="nbc41kshb.us"></channel>
+<channel Country="United States" Channel="NBC 4 LA US" EPG_ID="nbc4knbc.us"></channel>
+<channel Country="United States" Channel="NBC 4 Columbus US" EPG_ID="nbc4wcmh.us"></channel>
+<channel Country="United States" Channel="NBC 5 St. Louis US" EPG_ID="nbc5ksdk.us"></channel>
+<channel Country="United States" Channel="NBC 5 Chicago US" EPG_ID="nbc5wmaq.us"></channel>
+<channel Country="United States" Channel="NBC 6 Miami US" EPG_ID="nbc6wtvj.us"></channel>
+<channel Country="United States" Channel="NBC 9 Denver US" EPG_ID="nbc9kusa.us"></channel>
+<channel Country="United States" Channel="NBC Boston US" EPG_ID="nbcwbts.us"></channel>
+<channel Country="United States" Channel="NBC Kare 11 Minneapolis US" EPG_ID="nbckare.us"></channel>
+<channel Country="United States" Channel="NBC Sacramento US" EPG_ID="nbckcra.us"></channel>
+<channel Country="United States" Channel="CBS Honolulu US" EPG_ID="nbckhnl.us"></channel>
+<channel Country="United States" Channel="NBC Seattle US" EPG_ID="nbcking.us"></channel>
+<channel Country="United States" Channel="NBC Tulsa US" EPG_ID="nbckjrh.us"></channel>
+<channel Country="United States" Channel="NBC Grand Junction US" EPG_ID="nbckkco.us"></channel>
+<channel Country="United States" Channel="NBC San Diego US" EPG_ID="nbcknsd.us"></channel>
+<channel Country="United States" Channel="NBC Houston US" EPG_ID="nbckprc.us"></channel>
+<channel Country="United States" Channel="NBC Las Vegas US" EPG_ID="nbcksnv.us"></channel>
+<channel Country="United States" Channel="NBC Fort Worth US" EPG_ID="nbckxas.us"></channel>
+<channel Country="United States" Channel="NBCSN Washington US" EPG_ID="nbcsnwashington.us"></channel>
+<channel Country="United States" Channel="NBC Sports Bay Area US" EPG_ID="nbcsportsbayarea.us"></channel>
+<channel Country="United States" Channel="NBC Sports Boston US" EPG_ID="nbcsportsboston.us"></channel>
+<channel Country="United States" Channel="NBC Sports California US" EPG_ID="nbcsportscalifornia.us"></channel>
+<channel Country="United States" Channel="NBC Sports Chicago US" EPG_ID="nbcsportschicago.us"></channel>
+<channel Country="United States" Channel="NBC Sports Chicago Plus US" EPG_ID="nbcsportschicagoplus.us"></channel>
+<channel Country="United States" Channel="NBC Sports Network US" EPG_ID="nbcsportsnetwork.us"></channel>
+<channel Country="United States" Channel="NBC Sports Northwest US" EPG_ID="nbcsportsnorthwest.us"></channel>
+<channel Country="United States" Channel="NBC Sports Philadelphia US" EPG_ID="nbcsportsphiladelphia.us"></channel>
+<channel Country="United States" Channel="NBC Sports Philadelphia Plus US" EPG_ID="nbcsportsphiladelphiaplus.us"></channel>
+<channel Country="United States" Channel="NBC Universo US" EPG_ID="nbcuniverso.us"></channel>
+<channel Country="United States" Channel="Wave 3 Louisville US" EPG_ID="nbcwave.us"></channel>
+<channel Country="United States" Channel="NBC Baltimore US" EPG_ID="nbcwbal.us"></channel>
+<channel Country="United States" Channel="NBC Charlotte US" EPG_ID="nbcwcnc.us"></channel>
+<channel Country="United States" Channel="NBC Portland US" EPG_ID="nbcwcsh.us"></channel>
+<channel Country="United States" Channel="NBC Detroit US" EPG_ID="nbcwdiv.us"></channel>
+<channel Country="United States" Channel="NBC New Orleans US" EPG_ID="nbcwdsu.us"></channel>
+<channel Country="United States" Channel="ABC Eau Claire US" EPG_ID="nbcweau.us"></channel>
+<channel Country="United States" Channel="NBC Orlando US" EPG_ID="nbcwesh.us"></channel>
+<channel Country="United States" Channel="NBC Tampa Bay US" EPG_ID="nbcwfla.us"></channel>
+<channel Country="United States" Channel="NBC Zanesville US" EPG_ID="nbcwhiz.us"></channel>
+<channel Country="United States" Channel="NBC Wausau US" EPG_ID="nbcwjfw.us"></channel>
+<channel Country="United States" Channel="NBC Cleveland US" EPG_ID="nbcwkyc.us"></channel>
+<channel Country="United States" Channel="NBC Lima US" EPG_ID="nbcwlio.us"></channel>
+<channel Country="United States" Channel="NBC Marquette US" EPG_ID="nbcwluc.us"></channel>
+<channel Country="United States" Channel="NBC NY US" EPG_ID="nbcwnbc.us"></channel>
+<channel Country="United States" Channel="NBC San Antonio US" EPG_ID="nbcwoai.us"></channel>
+<channel Country="United States" Channel="NBC Plattsburg US" EPG_ID="nbcwptz.us"></channel>
+<channel Country="United States" Channel="NBC Washington DC US" EPG_ID="nbcwrc.us"></channel>
+<channel Country="United States" Channel="NBC Huntington US" EPG_ID="nbcwsaz.us"></channel>
+<channel Country="United States" Channel="NBC Nashville US" EPG_ID="nbcwsmw.us"></channel>
+<channel Country="United States" Channel="NBC Milwaukee US" EPG_ID="nbcwtmj.us"></channel>
+<channel Country="United States" Channel="NBC Atlanta US" EPG_ID="nbcwxia.us"></channel>
+<channel Country="United States" Channel="NECN US" EPG_ID="newenglandcablenews.us"></channel>
+<channel Country="United States" Channel="New England Sports Network US" EPG_ID="newenglandsportsnetwork.us"></channel>
+<channel Country="United States" Channel="NESN+ US" EPG_ID="newenglandsportsnetworkplus.us"></channel>
+<channel Country="United States" Channel="Newsmax US" EPG_ID="newsmax.us"></channel>
+<channel Country="United States" Channel="Newsy US" EPG_ID="newsy.us"></channel>
+<channel Country="United States" Channel="NFL Fantasy Zone US" EPG_ID="nflfantasyzone.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket Mix 1 US" EPG_ID="nflsundaymixchannel.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket Mix 2 US" EPG_ID="nfl2sundaymixchannel.us"></channel>
+<channel Country="United States" Channel="NFL Network US" EPG_ID="nflnetwork.us"></channel>
+<channel Country="United States" Channel="NFL Red Zone US" EPG_ID="nflredzone.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 705 US" EPG_ID="nflsundayticket705.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 706 US" EPG_ID="nflsundayticket706.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 707 US" EPG_ID="nflsundayticket707.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 708 US" EPG_ID="nflsundayticket708.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 709 US" EPG_ID="nflsundayticket709.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 710 US" EPG_ID="nflsundayticket710.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 711 US" EPG_ID="nflsundayticket711.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 712 US" EPG_ID="nflsundayticket712.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 713 US" EPG_ID="nflsundayticket713.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 714 US" EPG_ID="nflsundayticket714.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 715 US" EPG_ID="nflsundayticket715.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 716 US" EPG_ID="nflsundayticket716.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 717 US" EPG_ID="nflsundayticket717.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 718 US" EPG_ID="nflsundayticket718.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 719 US" EPG_ID="nflsundayticket719.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 1 US" EPG_ID="nhlcenterice1.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 2 US" EPG_ID="nhlcenterice2.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 3 US" EPG_ID="nhlcenterice3.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 4 US" EPG_ID="nhlcenterice4.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 5 US" EPG_ID="nhlcenterice5.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 6 US" EPG_ID="nhlcenterice6.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 7 US" EPG_ID="nhlcenterice7.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 8 US" EPG_ID="nhlcenterice8.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 9 US" EPG_ID="nhlcenterice9.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 10 US" EPG_ID="nhlcenterice10.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 11 US" EPG_ID="nhlcenterice11.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 12 US" EPG_ID="nhlcenterice12.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 13 US" EPG_ID="nhlcenterice13.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 14 US" EPG_ID="nhlcenterice14.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 769 US" EPG_ID="nhlcenterice769.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 770 US" EPG_ID="nhlcenterice770.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 771 US" EPG_ID="nhlcenterice771.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 772 US" EPG_ID="nhlcenterice772.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 773 US" EPG_ID="nhlcenterice773.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 774 US" EPG_ID="nhlcenterice774.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 775 US" EPG_ID="nhlcenterice775.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 776 US" EPG_ID="nhlcenterice776.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 777 US" EPG_ID="nhlcenterice777.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 778 US" EPG_ID="nhlcenterice778.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 779 US" EPG_ID="nhlcenterice779.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 780 US" EPG_ID="nhlcenterice780.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 781 US" EPG_ID="nhlcenterice781.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 782 US" EPG_ID="nhlcenterice782.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 783 US" EPG_ID="nhlcenterice783.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 784 US" EPG_ID="nhlcenterice784.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 785 US" EPG_ID="nhlcenterice785.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 786 US" EPG_ID="nhlcenterice786.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 787 US" EPG_ID="nhlcenterice787.us"></channel>
+<channel Country="United States" Channel="NHL Network US" EPG_ID="nhlnetwork.us"></channel>
+<channel Country="United States" Channel="Nickelodeon US" EPG_ID="nickelodeon.us"></channel>
+<channel Country="United States" Channel="Nick Jr. US" EPG_ID="nickjr.us"></channel>
+<channel Country="United States" Channel="Nicktoons US" EPG_ID="nicktoons.us"></channel>
+<channel Country="United States" Channel="NickMusic US" EPG_ID="nickmusic.us"></channel>
+<channel Country="United States" Channel="NYC Life US" EPG_ID="nyclifewnye.us"></channel>
+<channel Country="United States" Channel="Olympic Channel US" EPG_ID="olympicchannel.us"></channel>
+<channel Country="United States" Channel="One America News US" EPG_ID="oneamericanews.us"></channel>
+<channel Country="United States" Channel="The Oprah Winfrey Network US" EPG_ID="oprahwinfreynetwork.us"></channel>
+<channel Country="United States" Channel="Outdoor Channel US" EPG_ID="outdoorchannel.us"></channel>
+<channel Country="United States" Channel="Outer Max US" EPG_ID="outermax.us"></channel>
+<channel Country="United States" Channel="OutsideTV US" EPG_ID="outsidetv.us"></channel>
+<channel Country="United States" Channel="Ovation US" EPG_ID="ovation.us"></channel>
+<channel Country="United States" Channel="Oxygen US" EPG_ID="oxygen.us"></channel>
+<channel Country="United States" Channel="PAC-12 Bay Area US" EPG_ID="pac12bayarea.us"></channel>
+<channel Country="United States" Channel="PAC-12 Los Angeles US" EPG_ID="pac12losangeles.us"></channel>
+<channel Country="United States" Channel="PAC-12 Mountain US" EPG_ID="pac12mountain.us"></channel>
+<channel Country="United States" Channel="Pac-12 Network US" EPG_ID="pac12network.us"></channel>
+<channel Country="United States" Channel="PAC-12 Oregon US" EPG_ID="pac12oregon.us"></channel>
+<channel Country="United States" Channel="PAC-12 Washington US" EPG_ID="pac12washington.us"></channel>
+<channel Country="United States" Channel="Paramount Network US" EPG_ID="paramountnetwork.us"></channel>
+<channel Country="United States" Channel="Pasiones US" EPG_ID="pasiones.us"></channel>
+<channel Country="United States" Channel="PBS Boston US" EPG_ID="pbswgbh.us"></channel>
+<channel Country="United States" Channel="PBS Denver US" EPG_ID="pbskbdi.us"></channel>
+<channel Country="United States" Channel="PBS Seattle US" EPG_ID="pbskcts.us"></channel>
+<channel Country="United States" Channel="PBS Kids US" EPG_ID="pbskids.us"></channel>
+<channel Country="United States" Channel="PBS Las Vegas US" EPG_ID="pbsklvx.us"></channel>
+<channel Country="United States" Channel="PBS New Jersey US" EPG_ID="pbsnjtv.us"></channel>
+<channel Country="United States" Channel="PBS Thirteen US" EPG_ID="pbsthirteen.us"></channel>
+<channel Country="United States" Channel="PBS Vermont US" EPG_ID="pbsvermontvpbs.us"></channel>
+<channel Country="United States" Channel="PBS Vermont Plus US" EPG_ID="pbsvpbsdt2.us"></channel>
+<channel Country="United States" Channel="PBS Vermont US" EPG_ID="pbswetk.us"></channel>
+<channel Country="United States" Channel="PBS SW Florida US" EPG_ID="pbswgcu.us"></channel>
+<channel Country="United States" Channel="PBS Miamo FL US" EPG_ID="pbswlrn.us"></channel>
+<channel Country="United States" Channel="PBS Atlanta US" EPG_ID="pbswgtv.us"></channel>
+<channel Country="United States" Channel="PBS 21 Garden City US" EPG_ID="pbswliw21.us"></channel>
+<channel Country="United States" Channel="PBS South Florida US" EPG_ID="pbswpbt.us"></channel>
+<channel Country="United States" Channel="PBS Pennsylvania US" EPG_ID="pbswpsu.us"></channel>
+<channel Country="United States" Channel="PBS Chicago US" EPG_ID="pbswttw.us"></channel>
+<channel Country="United States" Channel="Playboy US" EPG_ID="playboy.us"></channel>
+<channel Country="United States" Channel="Playboy 2 US" EPG_ID="playboy2.us"></channel>
+<channel Country="United States" Channel="PopTV US" EPG_ID="poptv.us"></channel>
+<channel Country="United States" Channel="Premier League Extra Time 1 US" EPG_ID="premierleagueextra1.us"></channel>
+<channel Country="United States" Channel="Premier League Extra Time 2 US" EPG_ID="premierleagueextra2.us"></channel>
+<channel Country="United States" Channel="Premier League Extra Time 3 US" EPG_ID="premierleagueextra3.us"></channel>
+<channel Country="United States" Channel="Premier League Extra Time 4 US" EPG_ID="premierleagueextra4.us"></channel>
+<channel Country="United States" Channel="Premier League Extra Time 5 US" EPG_ID="premierleagueextra5.us"></channel>
+<channel Country="United States" Channel="Pursuit Channel US" EPG_ID="pursuitchannel.us"></channel>
+<channel Country="United States" Channel="QVC US" EPG_ID="qvc.us"></channel>
+<channel Country="United States" Channel="QVC Plus US" EPG_ID="qvcplus.us"></channel>
+<channel Country="United States" Channel="Reelz Channel US" EPG_ID="reelzchannel.us"></channel>
+<channel Country="United States" Channel="RetroPlex US" EPG_ID="retroplex.us"></channel>
+<channel Country="United States" Channel="Retro TV US" EPG_ID="retrotv.us"></channel>
+<channel Country="United States" Channel="Revn US" EPG_ID="revn.us"></channel>
+<channel Country="United States" Channel="RFD TV US" EPG_ID="rfdtv.us"></channel>
+<channel Country="United States" Channel="SEC Network US" EPG_ID="secnetwork.us"></channel>
+<channel Country="United States" Channel="Seven News Miami US" EPG_ID="sevennewswsvn.us"></channel>
+<channel Country="United States" Channel="Showtime US" EPG_ID="showtime.us"></channel>
+<channel Country="United States" Channel="Showtime 2 US" EPG_ID="showtime2.us"></channel>
+<channel Country="United States" Channel="Showtime Showcase US" EPG_ID="showtimeshowcase.us"></channel>
+<channel Country="United States" Channel="Showtime Extreme US" EPG_ID="showtimeextreme.us"></channel>
+<channel Country="United States" Channel="Showtime Beyond US" EPG_ID="showtimebeyond.us"></channel>
+<channel Country="United States" Channel="Showtime Next US" EPG_ID="showtimenext.us"></channel>
+<channel Country="United States" Channel="Showtime Women US" EPG_ID="showtimewomen.us"></channel>
+<channel Country="United States" Channel="Showtime Family Zone US" EPG_ID="rshowtimefamilyzone.us"></channel>
+<channel Country="United States" Channel="Smithsonian Channel US" EPG_ID="smithsonianchannel.us"></channel>
+<channel Country="United States" Channel="SonLife Network US" EPG_ID="sonlifenetwork.us"></channel>
+<channel Country="United States" Channel="Sony US" EPG_ID="sony.us"></channel>
+<channel Country="United States" Channel="Spectrum Deportes US" EPG_ID="spectrumdeportes.us"></channel>
+<channel Country="United States" Channel="Spectrum SportsNet US" EPG_ID="spectrumsportsnet.us"></channel>
+<channel Country="United States" Channel="Spectrum SportsNet LA US" EPG_ID="spectrumsportsnetla.us"></channel>
+<channel Country="United States" Channel="Sportsman Channel US" EPG_ID="sportsmanchannel.us"></channel>
+<channel Country="United States" Channel="SportsNet New York US" EPG_ID="sportsnetnewyork.us"></channel>
+<channel Country="United States" Channel="SportsTime Ohio US" EPG_ID="sportstimeohio.us"></channel>
+<channel Country="United States" Channel="Sprout US" EPG_ID="sprout.us"></channel>
+<channel Country="United States" Channel="Starz US" EPG_ID="starz.us"></channel>
+<channel Country="United States" Channel="Starz Cinema US" EPG_ID="starzcinema.us"></channel>
+<channel Country="United States" Channel="Starz Comedy US" EPG_ID="starzcomedy.us"></channel>
+<channel Country="United States" Channel="Starz Edge US" EPG_ID="starzedge.us"></channel>
+<channel Country="United States" Channel="Starz Encore US" EPG_ID="starzencore.us"></channel>
+<channel Country="United States" Channel="Starz Encore Action US" EPG_ID="starzencoreaction.us"></channel>
+<channel Country="United States" Channel="Starz Encore Black US" EPG_ID="starzencoreblack.us"></channel>
+<channel Country="United States" Channel="Starz Encore Classics US" EPG_ID="starzencoreclassics.us"></channel>
+<channel Country="United States" Channel="Starz Encore Family US" EPG_ID="starzencorefamily.us"></channel>
+<channel Country="United States" Channel="Starz Encore Suspense US" EPG_ID="starzencoresuspense.us"></channel>
+<channel Country="United States" Channel="Starz Encore Westerns US" EPG_ID="starzencorewesterns.us"></channel>
+<channel Country="United States" Channel="Starz In Black US" EPG_ID="starzinblack.us"></channel>
+<channel Country="United States" Channel="Starz Kids &amp; Family US" EPG_ID="starzkidsfamily.us"></channel>
+<channel Country="United States" Channel="Starz West US" EPG_ID="starzwest.us"></channel>
+<channel Country="United States" Channel="SundanceTV US" EPG_ID="sundancetv.us"></channel>
+<channel Country="United States" Channel="Syfy US" EPG_ID="syfy.us"></channel>
+<channel Country="United States" Channel="TBD TV US" EPG_ID="tbdtv.us"></channel>
+<channel Country="United States" Channel="TBS US" EPG_ID="tbs.us"></channel>
+<channel Country="United States" Channel="The Country Network US" EPG_ID="tcnksaodt7.us"></channel>
+<channel Country="United States" Channel="TeenNick US" EPG_ID="teennick.us"></channel>
+<channel Country="United States" Channel="Telemundo US" EPG_ID="telemundo.us"></channel>
+<channel Country="United States" Channel="Telemundo 51 US" EPG_ID="telemundo51wscv.us"></channel>
+<channel Country="United States" Channel="Telemundo San Antonio US" EPG_ID="telemundokvda.us"></channel>
+<channel Country="United States" Channel="Telemundo 52 L.A. US" EPG_ID="telemundokvea.us"></channel>
+<channel Country="United States" Channel="Tennis Channel US" EPG_ID="tennischannel.us"></channel>
+<channel Country="United States" Channel="Cowboy Channel US" EPG_ID="thecowboychannel.us"></channel>
+<channel Country="United States" Channel="The Word Network US" EPG_ID="thewordnetwork.us"></channel>
+<channel Country="United States" Channel="ThrillerMAX US" EPG_ID="thrillermax.us"></channel>
+<channel Country="United States" Channel="TLC US" EPG_ID="tlc.us"></channel>
+<channel Country="United States" Channel="The Movie Channel US" EPG_ID="tmc.us"></channel>
+<channel Country="United States" Channel="The Movie Channel Xtra US" EPG_ID="tmcxtra.us"></channel>
+<channel Country="United States" Channel="TNT US" EPG_ID="tnt.us"></channel>
+<channel Country="United States" Channel="Travel Channel US" EPG_ID="travelchannel.us"></channel>
+<channel Country="United States" Channel="Trinity Broadcasting Network US" EPG_ID="trinitybroadcastingnetwork.us"></channel>
+<channel Country="United States" Channel="truTV US" EPG_ID="trutv.us"></channel>
+<channel Country="United States" Channel="Turner Classic Movies US" EPG_ID="turnerclassicmovies.us"></channel>
+<channel Country="United States" Channel="TV5 Monde US" EPG_ID="tv5monde.us"></channel>
+<channel Country="United States" Channel="TVG US" EPG_ID="tvg.us"></channel>
+<channel Country="United States" Channel="TVG 2 US" EPG_ID="tvg2.us"></channel>
+<channel Country="United States" Channel="TV Land US" EPG_ID="tvlandeast.us"></channel>
+<channel Country="United States" Channel="TV Land West US" EPG_ID="tvlandwest.us"></channel>
+<channel Country="United States" Channel="TV One US" EPG_ID="tvone.us"></channel>
+<channel Country="United States" Channel="UniMas US" EPG_ID="unimas.us"></channel>
+<channel Country="United States" Channel="Universal Kids US" EPG_ID="universalkids.us"></channel>
+<channel Country="United States" Channel="Univisión Network US" EPG_ID="univision.us"></channel>
+<channel Country="United States" Channel="Univision 23 Miami US" EPG_ID="univision23wltv.us"></channel>
+<channel Country="United States" Channel="Univision Deportes US" EPG_ID="univisiondeportes.us"></channel>
+<channel Country="United States" Channel="Univision San Antonio US" EPG_ID="univisionkwex.us"></channel>
+<channel Country="United States" Channel="Univision Puerto Rico US" EPG_ID="univisionwlii.us"></channel>
+<channel Country="United States" Channel="Uplifting Entertainment US" EPG_ID="upliftingentertainment.us"></channel>
+<channel Country="United States" Channel="USA Network US" EPG_ID="usanetwork.us"></channel>
+<channel Country="United States" Channel="US Armenia US" EPG_ID="usarmenia.us"></channel>
+<channel Country="United States" Channel="Valu TV US" EPG_ID="valutv.us"></channel>
+<channel Country="United States" Channel="VH1 US" EPG_ID="vh1.us"></channel>
+<channel Country="United States" Channel="Viceland US" EPG_ID="viceland.us"></channel>
+<channel Country="United States" Channel="V-Me Television US" EPG_ID="vmetelevision.us"></channel>
+<channel Country="United States" Channel="WAPA 2 Deportes US" EPG_ID="wapa2deportes.us"></channel>
+<channel Country="United States" Channel="Wapa América US" EPG_ID="wapaamerica.us"></channel>
+<channel Country="United States" Channel="WAPA US" EPG_ID="wapatv.us"></channel>
+<channel Country="United States" Channel="WCIU The U Chicago US" EPG_ID="wciu.us"></channel>
+<channel Country="United States" Channel="Weather Channel US" EPG_ID="weatherchannel.us"></channel>
+<channel Country="United States" Channel="Weather Nation US" EPG_ID="weathernation.us"></channel>
+<channel Country="United States" Channel="We TV US" EPG_ID="wetv.us"></channel>
+<channel Country="United States" Channel="WGN9 Chicago US" EPG_ID="wgn9chicago.us"></channel>
+<channel Country="United States" Channel="WGN America US" EPG_ID="wgnamerica.us"></channel>
+<channel Country="United States" Channel="Willow Cricket US" EPG_ID="willowcricket.us"></channel>
+<channel Country="United States" Channel="Women\&apos;s Entertainment US" EPG_ID="womensentertainment.us"></channel>
+<channel Country="United States" Channel="WLNY TV10/55 US" EPG_ID="wlnytv1055.us"></channel>
+<channel Country="United States" Channel="WMEU The U Too Chicago US" EPG_ID="wmeuchicago.us"></channel>
+<channel Country="United States" Channel="CW 23 US" EPG_ID="wnlo.us"></channel>
+<channel Country="United States" Channel="WFN US" EPG_ID="worldfishingnetwork.us"></channel>
+<channel Country="United States" Channel="Pix 11 US" EPG_ID="wpix.us"></channel>
+<channel Country="United States" Channel="WWE US" EPG_ID="wwe.us"></channel>
+<channel Country="United States" Channel="YES Network US" EPG_ID="yesnetwork.us"></channel>
+<channel Country="United States" Channel="5 Star Max US" EPG_ID="5starmax.us"></channel>
+<channel Country="United States" Channel="A&amp;E US" EPG_ID="aande.us"></channel>
+<channel Country="United States" Channel="ABC 10 Miami US" EPG_ID="abc10wplg.us"></channel>
+<channel Country="United States" Channel="ABC 11 Louisville US" EPG_ID="abc11whas.us"></channel>
+<channel Country="United States" Channel="ABC 13 Houston US" EPG_ID="abc13ktrktv.us"></channel>
+<channel Country="United States" Channel="ABC 13 Alaska US" EPG_ID="abc13kyur.us"></channel>
+<channel Country="United States" Channel="ABC Tampa Bay US" EPG_ID="abc28wfts.us"></channel>
+<channel Country="United States" Channel="ABC 5 Puerto Rico US" EPG_ID="abc5wora.us"></channel>
+<channel Country="United States" Channel="ABC 7 LA US" EPG_ID="abc7kabctv.us"></channel>
+<channel Country="United States" Channel="ABC 7 Denver US" EPG_ID="abc7kmghtv.us"></channel>
+<channel Country="United States" Channel="ABC 7 Chicago US" EPG_ID="abc7wlstv.us"></channel>
+<channel Country="United States" Channel="ABC 7 Detroit US" EPG_ID="abc7wxyz.us"></channel>
+<channel Country="United States" Channel="ABC 8 Dallas US" EPG_ID="abc8wfaa.us"></channel>
+<channel Country="United States" Channel="ABC 9 Kansas City US" EPG_ID="abc9kmbc.us"></channel>
+<channel Country="United States" Channel="ABC San Francisco US" EPG_ID="abckgo.us"></channel>
+<channel Country="United States" Channel="ABC San Diego US" EPG_ID="abckgtv.us"></channel>
+<channel Country="United States" Channel="ABC Honolulu US" EPG_ID="abckitv.us"></channel>
+<channel Country="United States" Channel="ABC Grand Junction US" EPG_ID="abckjct.us"></channel>
+<channel Country="United States" Channel="ABC Seattle US" EPG_ID="abckomo.us"></channel>
+<channel Country="United States" Channel="ABC San Antonio US" EPG_ID="abcksat.us"></channel>
+<channel Country="United States" Channel="ABC Minneapolis US" EPG_ID="abckstp.us"></channel>
+<channel Country="United States" Channel="ABC Las Vegas US" EPG_ID="abcktnv.us"></channel>
+<channel Country="United States" Channel="ABC Sacramento US" EPG_ID="abckxtv.us"></channel>
+<channel Country="United States" Channel="ABC NY US" EPG_ID="abcwabc.us"></channel>
+<channel Country="United States" Channel="ABC Green Bay US" EPG_ID="abcwbay.us"></channel>
+<channel Country="United States" Channel="ABC Bowling Green US" EPG_ID="abcwbko.us"></channel>
+<channel Country="United States" Channel="ABC Baton Rouge US" EPG_ID="abcwbrz.us"></channel>
+<channel Country="United States" Channel="ABC Cincinatti US" EPG_ID="abcwcpo.us"></channel>
+<channel Country="United States" Channel="ABC Boston US" EPG_ID="abcwcvb.us"></channel>
+<channel Country="United States" Channel="ABC Cleveland US" EPG_ID="abcwews.us"></channel>
+<channel Country="United States" Channel="ABC Orlando US" EPG_ID="abcwftv.us"></channel>
+<channel Country="United States" Channel="ABC Milwaukee US" EPG_ID="abcwisn.us"></channel>
+<channel Country="United States" Channel="ABC Washington DC US" EPG_ID="abcwjla.us"></channel>
+<channel Country="United States" Channel="ABC Nashville US" EPG_ID="abcwkrn.us"></channel>
+<channel Country="United States" Channel="ABC Baltimore US" EPG_ID="abcwmar.us"></channel>
+<channel Country="United States" Channel="ABC Auburn US" EPG_ID="abcwmtw.us"></channel>
+<channel Country="United States" Channel="ABC Philadelphia US" EPG_ID="abcwpvi.us"></channel>
+<channel Country="United States" Channel="ABC Atlanta US" EPG_ID="abcwsb.us"></channel>
+<channel Country="United States" Channel="ABC Charlotte US" EPG_ID="abcwsoc.us"></channel>
+<channel Country="United States" Channel="ABC Columbus US" EPG_ID="abcwsyx.us"></channel>
+<channel Country="United States" Channel="ABC Toledo US" EPG_ID="abcwtvg.us"></channel>
+<channel Country="United States" Channel="ABC 7 Sarasota US" EPG_ID="abcwwsb.us"></channel>
+<channel Country="United States" Channel="Action Max US" EPG_ID="actionmax.us"></channel>
+<channel Country="United States" Channel="Adult Swim US" EPG_ID="adultswim.us"></channel>
+<channel Country="United States" Channel="ALTPBA Atlanta US" EPG_ID="altpbawpba.us"></channel>
+<channel Country="United States" Channel="AMC US" EPG_ID="amc.us"></channel>
+<channel Country="United States" Channel="American Heroes Channel US" EPG_ID="americanheroeschannel.us"></channel>
+<channel Country="United States" Channel="AMG TV US" EPG_ID="amgtv.us"></channel>
+<channel Country="United States" Channel="Animal Planet US" EPG_ID="animalplanet.us"></channel>
+<channel Country="United States" Channel="AntennaTV US" EPG_ID="antennatv.us"></channel>
+<channel Country="United States" Channel="AXS UK" EPG_ID="axstv.us"></channel>
+<channel Country="United States" Channel="Azteca US" EPG_ID="azteca.us"></channel>
+<channel Country="United States" Channel="Baby First US" EPG_ID="babyfirsttv.us"></channel>
+<channel Country="United States" Channel="Bandamax US" EPG_ID="bandamax.us"></channel>
+<channel Country="United States" Channel="BBC America US" EPG_ID="bbcamerica.us"></channel>
+<channel Country="United States" Channel="Beauty IQ US" EPG_ID="beautyiq.us"></channel>
+<channel Country="United States" Channel="beIN Sport en Espanol US" EPG_ID="beinsportespanol.us"></channel>
+<channel Country="United States" Channel="beIN Sports US" EPG_ID="beinsports.us"></channel>
+<channel Country="United States" Channel="beIN Sports 2 US" EPG_ID="beinsports2.us"></channel>
+<channel Country="United States" Channel="beIN Sports 3 US" EPG_ID="beinsports3.us"></channel>
+<channel Country="United States" Channel="beIN Sports 4 US" EPG_ID="beinsports4.us"></channel>
+<channel Country="United States" Channel="beIN Sports 5 US" EPG_ID="beinsports5.us"></channel>
+<channel Country="United States" Channel="beIN Sports 6 US" EPG_ID="beinsports6.us"></channel>
+<channel Country="United States" Channel="beIN Sports 7 US" EPG_ID="beinsports7.us"></channel>
+<channel Country="United States" Channel="beIN Sports 8 US" EPG_ID="beinsports8.us"></channel>
+<channel Country="United States" Channel="beIN Sports 9 US" EPG_ID="beinsports9.us"></channel>
+<channel Country="United States" Channel="beIN Sports 10 US" EPG_ID="beinsports10.us"></channel>
+<channel Country="United States" Channel="BET US" EPG_ID="bet.us"></channel>
+<channel Country="United States" Channel="BET Her US" EPG_ID="bether.us"></channel>
+<channel Country="United States" Channel="BET Jams US" EPG_ID="betjams.us"></channel>
+<channel Country="United States" Channel="Big Ten Network US" EPG_ID="bigtennetwork.us"></channel>
+<channel Country="United States" Channel="Blaze TV US" EPG_ID="blazetv.us"></channel>
+<channel Country="United States" Channel="Bloomberg TV US" EPG_ID="bloombergtv.us"></channel>
+<channel Country="United States" Channel="Boomerang US" EPG_ID="boomerang.us"></channel>
+<channel Country="United States" Channel="Bounce TV US" EPG_ID="bouncetv.us"></channel>
+<channel Country="United States" Channel="Bravo US" EPG_ID="bravo.us"></channel>
+<channel Country="United States" Channel="KBYU Brigham Young University US" EPG_ID="brighamyounguniversity.us"></channel>
+<channel Country="United States" Channel="Buzzer TV US" EPG_ID="buzzertv.us"></channel>
+<channel Country="United States" Channel="Cartoon Network US" EPG_ID="cartoonnetwork.us"></channel>
+<channel Country="United States" Channel="Catholic TV US" EPG_ID="catholictv.us"></channel>
+<channel Country="United States" Channel="CBS 11 Alaska US" EPG_ID="cbs11ktva.us"></channel>
+<channel Country="United States" Channel="CBS 11 Toledo US" EPG_ID="cbs11wtol.us"></channel>
+<channel Country="United States" Channel="CBS 17 Carolina US" EPG_ID="cbs17wncn.us"></channel>
+<channel Country="United States" Channel="CBS 21 Central PA US" EPG_ID="cbs21whp.us"></channel>
+<channel Country="United States" Channel="CBS 2 Pittsburgh US" EPG_ID="cbs2kdka.us"></channel>
+<channel Country="United States" Channel="CBS 32 Louisville US" EPG_ID="cbs32wlky.us"></channel>
+<channel Country="United States" Channel="CBS 3 Madison US" EPG_ID="cbs3wisc.us"></channel>
+<channel Country="United States" Channel="CBS 46 Atlanta US" EPG_ID="cbs46wgcltv.us"></channel>
+<channel Country="United States" Channel="CBS 4 Denver US" EPG_ID="cbs4kcnctv.us"></channel>
+<channel Country="United States" Channel="CBS 4 New Orleans US" EPG_ID="cbs4wwl.us"></channel>
+<channel Country="United States" Channel="CBS 5 Kansas City US" EPG_ID="cbs5kctv.us"></channel>
+<channel Country="United States" Channel="CBS 62 Detroit US" EPG_ID="cbs62wwjtv.us"></channel>
+<channel Country="United States" Channel="CBS 7 Dayton US" EPG_ID="cbs7whio.us"></channel>
+<channel Country="United States" Channel="CBS LA US" EPG_ID="cbskcbs.us"></channel>
+<channel Country="United States" Channel="CBS San Diego US" EPG_ID="cbskfmb.us"></channel>
+<channel Country="United States" Channel="CBS Honolulu US" EPG_ID="cbskgmb.us"></channel>
+<channel Country="United States" Channel="CBS Houston US" EPG_ID="cbskhou.us"></channel>
+<channel Country="United States" Channel="CBS Seattle US" EPG_ID="cbskiro.us"></channel>
+<channel Country="United States" Channel="CBS Las Vegas US" EPG_ID="cbsklas.us"></channel>
+<channel Country="United States" Channel="CBS Tulsa US" EPG_ID="cbskotv.us"></channel>
+<channel Country="United States" Channel="CBS Sacramento US" EPG_ID="cbskovr.us"></channel>
+<channel Country="United States" Channel="CBS 5 Phoenix US" EPG_ID="cbskpho.us"></channel>
+<channel Country="United States" Channel="CBS Grand Junction US" EPG_ID="cbskrex.us"></channel>
+<channel Country="United States" Channel="CBS Philadelphia US" EPG_ID="cbskyw.us"></channel>
+<channel Country="United States" Channel="CBS Sports Network US" EPG_ID="cbssportsnetwork.us"></channel>
+<channel Country="United States" Channel="CBS Bangor US" EPG_ID="cbswabi.us"></channel>
+<channel Country="United States" Channel="CBS Baton Rouge US" EPG_ID="cbswafb.us"></channel>
+<channel Country="United States" Channel="CBS Chicago US" EPG_ID="cbswbbmtv.us"></channel>
+<channel Country="United States" Channel="CBS Columbus US" EPG_ID="cbswbns.us"></channel>
+<channel Country="United States" Channel="CBS Charlotte US" EPG_ID="cbswbtv.us"></channel>
+<channel Country="United States" Channel="CBS Boston US" EPG_ID="cbswbz.us"></channel>
+<channel Country="United States" Channel="CBS NY US" EPG_ID="cbswcbs.us"></channel>
+<channel Country="United States" Channel="CBS Minneapolis US" EPG_ID="cbswcco.us"></channel>
+<channel Country="United States" Channel="CBS Milwaukee US" EPG_ID="cbswdjt.us"></channel>
+<channel Country="United States" Channel="CBS Miami US" EPG_ID="cbswfor.us"></channel>
+<channel Country="United States" Channel="CBS Portland US" EPG_ID="cbswgme.us"></channel>
+<channel Country="United States" Channel="CBS Wink News US" EPG_ID="cbswinknews.us"></channel>
+<channel Country="United States" Channel="CBS Baltimore US" EPG_ID="cbswjz.us"></channel>
+<channel Country="United States" Channel="CBS Orlando US" EPG_ID="cbswkmg.us"></channel>
+<channel Country="United States" Channel="CBS Lexington US" EPG_ID="cbswkyt.us"></channel>
+<channel Country="United States" Channel="CBS Cleveland US" EPG_ID="cbswoio.us"></channel>
+<channel Country="United States" Channel="CBS Wausau US" EPG_ID="cbswsaw.us"></channel>
+<channel Country="United States" Channel="CBS Tampa Bay US" EPG_ID="cbswtsp.us"></channel>
+<channel Country="United States" Channel="CBS Nashville US" EPG_ID="cbswtvf.us"></channel>
+<channel Country="United States" Channel="CBS Washington DC US" EPG_ID="cbswusa.us"></channel>
+<channel Country="United States" Channel="CBS Hazard US" EPG_ID="cbswymt.us"></channel>
+<channel Country="United States" Channel="Cine Latino US" EPG_ID="cinelatino.us"></channel>
+<channel Country="United States" Channel="Cinema Screening Room US" EPG_ID="cinemascreeningroom.us"></channel>
+<channel Country="United States" Channel="Cinema Screening Room 100 US" EPG_ID="cinemascreeningroom100.us"></channel>
+<channel Country="United States" Channel="Cinema Screening Room 200 US" EPG_ID="cinemascreeningroom200.us"></channel>
+<channel Country="United States" Channel="Cinema Screening Room 201 US" EPG_ID="cinemascreeningroom201.us"></channel>
+<channel Country="United States" Channel="Cinemax US" EPG_ID="cinemax.us"></channel>
+<channel Country="United States" Channel="Cine Sony US" EPG_ID="cinesony.us"></channel>
+<channel Country="United States" Channel="CMT US" EPG_ID="cmt.us"></channel>
+<channel Country="United States" Channel="CNBC US" EPG_ID="cnbc.us"></channel>
+<channel Country="United States" Channel="CNBC World US" EPG_ID="cnbcworld.us"></channel>
+<channel Country="United States" Channel="CNN US" EPG_ID="cnn.us"></channel>
+<channel Country="United States" Channel="CNN Espanol US" EPG_ID="cnnespanol.us"></channel>
+<channel Country="United States" Channel="Comcast Sportsnet US" EPG_ID="comcastsportsnet.us"></channel>
+<channel Country="United States" Channel="Comcast SportsNet Bay Area US" EPG_ID="comcastsportsnetbayarea.us"></channel>
+<channel Country="United States" Channel="Comcast SportsNet California US" EPG_ID="comcastsportsnetcaliforniaplus.us"></channel>
+<channel Country="United States" Channel="Comcast SportsNet Chicago US" EPG_ID="comcastsportsnetchicago.us"></channel>
+<channel Country="United States" Channel="Comcast Sportsnet New England US" EPG_ID="comcastsportsnetnewengland.us"></channel>
+<channel Country="United States" Channel="Comcast SportsNet Philadelphia" EPG_ID="comcastsportsnetphiladelphia.us"></channel>
+<channel Country="United States" Channel="Comedy Central US" EPG_ID="comedycentral.us"></channel>
+<channel Country="United States" Channel="ComedyTV US" EPG_ID="comedytv.us"></channel>
+<channel Country="United States" Channel="Comet US" EPG_ID="comet.us"></channel>
+<channel Country="United States" Channel="Cooking Channel US" EPG_ID="cookingchannel.us"></channel>
+<channel Country="United States" Channel="Cornerstone Television US" EPG_ID="cornerstonetelevision.us"></channel>
+<channel Country="United States" Channel="Cozi TV US" EPG_ID="cozitv.us"></channel>
+<channel Country="United States" Channel="CreateTV US" EPG_ID="createtv.us"></channel>
+<channel Country="United States" Channel="Crime and Investigation US" EPG_ID="crimeinvestigation.us"></channel>
+<channel Country="United States" Channel="CSPAN US" EPG_ID="cspan.us"></channel>
+<channel Country="United States" Channel="CSPAN 2 US" EPG_ID="cspan2.us"></channel>
+<channel Country="United States" Channel="CSPAN 3 US" EPG_ID="cspan3.us"></channel>
+<channel Country="United States" Channel="CW US" EPG_ID="cw.us"></channel>
+<channel Country="United States" Channel="CW50 Chicago US" EPG_ID="cw50wpwr.us"></channel>
+<channel Country="United States" Channel="CW 57 Philadelphia US" EPG_ID="cw57wpsg.us"></channel>
+<channel Country="United States" Channel="CW Central PA US" EPG_ID="cwcentralpawhp.us"></channel>
+<channel Country="United States" Channel="CW Sacramento US" EPG_ID="cwkmax.us"></channel>
+<channel Country="United States" Channel="CW Las Vegas US" EPG_ID="cwkvcw.us"></channel>
+<channel Country="United States" Channel="CW Baltimore US" EPG_ID="cwwnuv.us"></channel>
+<channel Country="United States" Channel="Daystar US" EPG_ID="daystar.us"></channel>
+<channel Country="United States" Channel="Decades US" EPG_ID="decades.us"></channel>
+<channel Country="United States" Channel="Destination America US" EPG_ID="destinationamerica.us"></channel>
+<channel Country="United States" Channel="Discovery Channel US" EPG_ID="discoverychannel.us"></channel>
+<channel Country="United States" Channel="Discovery en Espanol US" EPG_ID="discoveryespanol.us"></channel>
+<channel Country="United States" Channel="Discovery Family Channel US" EPG_ID="discoveryfamily.us"></channel>
+<channel Country="United States" Channel="Discovery Life US" EPG_ID="discoverylife.us"></channel>
+<channel Country="United States" Channel="Discovery Science US" EPG_ID="discoveryscience.us"></channel>
+<channel Country="United States" Channel="Disney US" EPG_ID="disneychannel.us"></channel>
+<channel Country="United States" Channel="Disney Junior US" EPG_ID="disneyjunior.us"></channel>
+<channel Country="United States" Channel="Disney XD US" EPG_ID="disneyxd.us"></channel>
+<channel Country="United States" Channel="Do it Yourself Network US" EPG_ID="doityourselfnetwork.us"></channel>
+<channel Country="United States" Channel="Dog TV US" EPG_ID="dogtv.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 119 US" EPG_ID="dtvcinema119.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 120 US" EPG_ID="dtvcinema120.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 121 US" EPG_ID="dtvcinema121.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 122 US" EPG_ID="dtvcinema122.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 123 US" EPG_ID="dtvcinema123.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 124 US" EPG_ID="dtvcinema124.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 126 US" EPG_ID="dtvcinema126.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 127 US" EPG_ID="dtvcinema127.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 128 US" EPG_ID="dtvcinema128.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 129 US" EPG_ID="dtvcinema129.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 130 US" EPG_ID="dtvcinema130.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 131 US" EPG_ID="dtvcinema131.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 135 US" EPG_ID="dtvcinema135.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 136 US" EPG_ID="dtvcinema136.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 138 US" EPG_ID="dtvcinema138.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 139 US" EPG_ID="dtvcinema139.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 140 US" EPG_ID="dtvcinema140.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 141 US" EPG_ID="dtvcinema141.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 142 US" EPG_ID="dtvcinema142.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 143 US" EPG_ID="dtvcinema143.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 144 US" EPG_ID="dtvcinema144.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 145 US" EPG_ID="dtvcinema145.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 147 US" EPG_ID="dtvcinema147.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 148 US" EPG_ID="dtvcinema148.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 149 US" EPG_ID="dtvcinema149.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 150 US" EPG_ID="dtvcinema150.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 151 US" EPG_ID="dtvcinema151.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 152 US" EPG_ID="dtvcinema152.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 153 US" EPG_ID="dtvcinema153.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 154 US" EPG_ID="dtvcinema154.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 155 US" EPG_ID="dtvcinema155.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 156 US" EPG_ID="dtvcinema156.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 157 US" EPG_ID="dtvcinema157.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 158 US" EPG_ID="dtvcinema158.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 159 US" EPG_ID="dtvcinema159.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 166 US" EPG_ID="dtvcinema166.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 168 US" EPG_ID="dtvcinema168.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 169 US" EPG_ID="dtvcinema169.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 173 US" EPG_ID="dtvcinema173.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 174 US" EPG_ID="dtvcinema174.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 175 US" EPG_ID="dtvcinema175.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 176 US" EPG_ID="dtvcinema176.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 177 US" EPG_ID="dtvcinema177.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 178 US" EPG_ID="dtvcinema178.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 179 US" EPG_ID="dtvcinema179.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 180 US" EPG_ID="dtvcinema180.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 181 US" EPG_ID="dtvcinema181.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 182 US" EPG_ID="dtvcinema182.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 183 US" EPG_ID="dtvcinema183.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 184 US" EPG_ID="dtvcinema184.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 185 US" EPG_ID="dtvcinema185.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 186 US" EPG_ID="dtvcinema186.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 187 US" EPG_ID="dtvcinema187.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 188 US" EPG_ID="dtvcinema188.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 189 US" EPG_ID="dtvcinema189.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 190 US" EPG_ID="dtvcinema190.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 191 US" EPG_ID="dtvcinema191.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 192 US" EPG_ID="dtvcinema192.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 193 US" EPG_ID="dtvcinema193.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 194 US" EPG_ID="dtvcinema194.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 195 US" EPG_ID="dtvcinema195.us"></channel>
+<channel Country="United States" Channel="DTV Cinema 196 US" EPG_ID="dtvcinema196.us"></channel>
+<channel Country="United States" Channel="E! Entertainment US" EPG_ID="eentertainment.us"></channel>
+<channel Country="United States" Channel="Eleven Sports US" EPG_ID="elevensports.us"></channel>
+<channel Country="United States" Channel="El Rey US" EPG_ID="elrey.us"></channel>
+<channel Country="United States" Channel="Enlace US" EPG_ID="enlace.us"></channel>
+<channel Country="United States" Channel="EPIX US" EPG_ID="epix.us"></channel>
+<channel Country="United States" Channel="EPIX2 US" EPG_ID="epix2.us"></channel>
+<channel Country="United States" Channel="EPIX Hits US" EPG_ID="epixhits.us"></channel>
+<channel Country="United States" Channel="Epix DriveIn US" EPG_ID="epixdrivein.us"></channel>
+<channel Country="United States" Channel="Escape US" EPG_ID="escape.us"></channel>
+<channel Country="United States" Channel="ESPN US" EPG_ID="espn.us"></channel>
+<channel Country="United States" Channel="ESPN2 US" EPG_ID="espn2.us"></channel>
+<channel Country="United States" Channel="ESPN Classic US" EPG_ID="espnclassics.us"></channel>
+<channel Country="United States" Channel="ESPN Deportes US" EPG_ID="espndeportes.us"></channel>
+<channel Country="United States" Channel="ESPN News US" EPG_ID="espnnews.us"></channel>
+<channel Country="United States" Channel="ESPN U US" EPG_ID="espnu.us"></channel>
+<channel Country="United States" Channel="ESPN College Extra 1 US" EPG_ID="espncollegeextra1.us"></channel>
+<channel Country="United States" Channel="ESPN College Extra 2 US" EPG_ID="espncollegeextra2.us"></channel>
+<channel Country="United States" Channel="ESPN College Extra 3 US" EPG_ID="espncollegeextra3.us"></channel>
+<channel Country="United States" Channel="ESPN College Extra 4 US" EPG_ID="espncollegeextra4.us"></channel>
+<channel Country="United States" Channel="ESPN College Extra 5 US" EPG_ID="espncollegeextra5.us"></channel>
+<channel Country="United States" Channel="ESPN College Extra 6 US" EPG_ID="espncollegeextra6.us"></channel>
+<channel Country="United States" Channel="ESPN College Extra 7 US" EPG_ID="espncollegeextra7.us"></channel>
+<channel Country="United States" Channel="ESPN College Extra 8 US" EPG_ID="espncollegeextra8.us"></channel>
+<channel Country="United States" Channel="Estrella US" EPG_ID="estrella.us"></channel>
+<channel Country="United States" Channel="EVINE US" EPG_ID="evine.us"></channel>
+<channel Country="United States" Channel="EWTN US" EPG_ID="ewtn.us"></channel>
+<channel Country="United States" Channel="EWTN Espanol US" EPG_ID="ewtnespanol.us"></channel>
+<channel Country="United States" Channel="FOX College Sports Pacific US" EPG_ID="foxcollegesportspacific.us"></channel>
+<channel Country="United States" Channel="FOX College Sports Atlantic US" EPG_ID="foxcollegesportsatlantic.us"></channel>
+<channel Country="United States" Channel="FOX College Sports Central US" EPG_ID="foxcollegesportscentral.us"></channel>
+<channel Country="United States" Channel="Flix US" EPG_ID="flix.us"></channel>
+<channel Country="United States" Channel="Food Network US" EPG_ID="foodnetwork.us"></channel>
+<channel Country="United States" Channel="Fox 10 Phoenix US" EPG_ID="fox10ksaz.us"></channel>
+<channel Country="United States" Channel="Fox 10 Extra Phoenix US" EPG_ID="fox10kutp.us"></channel>
+<channel Country="United States" Channel="Fox 11 LA US" EPG_ID="fox11kttv.us"></channel>
+<channel Country="United States" Channel="FOX 25 Boston US" EPG_ID="fox25wfxt.us"></channel>
+<channel Country="United States" Channel="Fox 28 Columbus US" EPG_ID="fox28wtte.us"></channel>
+<channel Country="United States" Channel="FOX 2 St. Louis US" EPG_ID="fox2ktvi.us"></channel>
+<channel Country="United States" Channel="Fox 30 Jacksonville US" EPG_ID="fox30wfox.us"></channel>
+<channel Country="United States" Channel="FOX 31 Denver US" EPG_ID="fox31kdvr.us"></channel>
+<channel Country="United States" Channel="FOX 32 Chicago US" EPG_ID="fox32wfld.us"></channel>
+<channel Country="United States" Channel="Fox 36 Toledo US" EPG_ID="fox36wupw.us"></channel>
+<channel Country="United States" Channel="FOX 41 Louisville US" EPG_ID="fox41wdrb.us"></channel>
+<channel Country="United States" Channel="Fox 4 Alaska US" EPG_ID="fox4ktby.us"></channel>
+<channel Country="United States" Channel="FOX 4 Kansas City US" EPG_ID="fox4wdaf.us"></channel>
+<channel Country="United States" Channel="FOX NY US" EPG_ID="fox.us"></channel>
+<channel Country="United States" Channel="Fox Business US" EPG_ID="foxbusiness.us"></channel>
+<channel Country="United States" Channel="Fox Deportes Espanol US" EPG_ID="foxdeportes.us"></channel>
+<channel Country="United States" Channel="Fox San Antonio US" EPG_ID="foxkabb.us"></channel>
+<channel Country="United States" Channel="FOX Tacoma US" EPG_ID="foxkcpq.us"></channel>
+<channel Country="United States" Channel="FOX Dallas US" EPG_ID="foxkdfw.us"></channel>
+<channel Country="United States" Channel="FOX Grand Junction US" EPG_ID="foxkfqx.us"></channel>
+<channel Country="United States" Channel="FOX Cedar Rapids US" EPG_ID="foxkfxa.us"></channel>
+<channel Country="United States" Channel="FOX Honolulu US" EPG_ID="foxkhon.us"></channel>
+<channel Country="United States" Channel="FOX 9 Minneapolis US" EPG_ID="foxkmsp.us"></channel>
+<channel Country="United States" Channel="Fox Tulsa US" EPG_ID="foxkoki.us"></channel>
+<channel Country="United States" Channel="FOX Houston US" EPG_ID="foxkriv.us"></channel>
+<channel Country="United States" Channel="FOX San Diego US" EPG_ID="foxkswb.us"></channel>
+<channel Country="United States" Channel="FOX Sacramento US" EPG_ID="foxktxl.us"></channel>
+<channel Country="United States" Channel="FOX Las Vegas US" EPG_ID="foxkvvu.us"></channel>
+<channel Country="United States" Channel="Fox Life US" EPG_ID="foxlife.us"></channel>
+<channel Country="United States" Channel="FOX Sports Midwest Kansas City US" EPG_ID="foxmidwestkansascity.us"></channel>
+<channel Country="United States" Channel="Fox News US" EPG_ID="foxnews.us"></channel>
+<channel Country="United States" Channel="Fox Soccer Plus US" EPG_ID="foxsoccerplus.us"></channel>
+<channel Country="United States" Channel="Fox Sports West US" EPG_ID="foxsportswest.us"></channel>
+<channel Country="United States" Channel="Fox Sports 1 US" EPG_ID="foxsports1.us"></channel>
+<channel Country="United States" Channel="Fox Sports 2 US" EPG_ID="foxsports2.us"></channel>
+<channel Country="United States" Channel="Fox Sports Arizona US" EPG_ID="foxsportsarizona.us"></channel>
+<channel Country="United States" Channel="FOX Sports South Carolinas US" EPG_ID="foxsportscarolinas.us"></channel>
+<channel Country="United States" Channel="Fox Sports Detroit US" EPG_ID="foxsportsdetroit.us"></channel>
+<channel Country="United States" Channel="Fox Sports Florida US" EPG_ID="foxsportsflorida.us"></channel>
+<channel Country="United States" Channel="FOX Sports Indiana US" EPG_ID="foxsportsindiana.us"></channel>
+<channel Country="United States" Channel="Fox Sports Midwest US" EPG_ID="foxsportsmidwest.us"></channel>
+<channel Country="United States" Channel="FOX Sports Midwest Indiana US" EPG_ID="foxsportsmidwestindiana.us"></channel>
+<channel Country="United States" Channel="FOX Sports Midwest St. Louis US" EPG_ID="foxsportsmidweststlouis.us"></channel>
+<channel Country="United States" Channel="FOX Sports New Orleans US" EPG_ID="foxsportsneworleans.us"></channel>
+<channel Country="United States" Channel="Fox Sports North US" EPG_ID="foxsportsnorth.us"></channel>
+<channel Country="United States" Channel="Fox Sports Cincinnati US" EPG_ID="foxsportsohiocincinnati.us"></channel>
+<channel Country="United States" Channel="Fox Sports Cleveland US" EPG_ID="foxsportsohiocleveland.us"></channel>
+<channel Country="United States" Channel="FOX Sports Oklahoma US" EPG_ID="foxsportsoklahoma.us"></channel>
+<channel Country="United States" Channel="Fox Sports Prime Ticket US" EPG_ID="foxsportsprimeticket.us"></channel>
+<channel Country="United States" Channel="Fox Sports San Diego US" EPG_ID="foxsportssandiego.us"></channel>
+<channel Country="United States" Channel="Fox Sports South US" EPG_ID="foxsportssouth.us"></channel>
+<channel Country="United States" Channel="Fox Sports Southeast US" EPG_ID="foxsportssoutheast.us"></channel>
+<channel Country="United States" Channel="FOX Sports South Nashville US" EPG_ID="foxsportssouthnashville.us"></channel>
+<channel Country="United States" Channel="Fox Sports Southwest US" EPG_ID="foxsportssouthwest.us"></channel>
+<channel Country="United States" Channel="Fox Sports Sun US" EPG_ID="foxsportssun.us"></channel>
+<channel Country="United States" Channel="Fox Sports Wisconsin US" EPG_ID="foxsportswisconsin.us"></channel>
+<channel Country="United States" Channel="FOX Atlanta US" EPG_ID="foxwaga.us"></channel>
+<channel Country="United States" Channel="FOX Baltimore US" EPG_ID="foxwbff.us"></channel>
+<channel Country="United States" Channel="FOX Milwaukee US" EPG_ID="foxwiti.us"></channel>
+<channel Country="United States" Channel="Fox 2 Detroit US" EPG_ID="foxwjbk.us"></channel>
+<channel Country="United States" Channel="FOX 8 Cleveland US" EPG_ID="foxwjw.us"></channel>
+<channel Country="United States" Channel="FOX Charlotte US" EPG_ID="foxwjzy.us"></channel>
+<channel Country="United States" Channel="FOX NY US" EPG_ID="foxwnyw.us"></channel>
+<channel Country="United States" Channel="FOX Orlando US" EPG_ID="foxwofl.us"></channel>
+<channel Country="United States" Channel="FOX Washington DC US" EPG_ID="foxwttg.us"></channel>
+<channel Country="United States" Channel="FOX Tampa Bay US" EPG_ID="foxwtvt.us"></channel>
+<channel Country="United States" Channel="Fox Philadelphia US" EPG_ID="foxwtxf.us"></channel>
+<channel Country="United States" Channel="Fox Bangor US" EPG_ID="foxwvii.us"></channel>
+<channel Country="United States" Channel="Fox New Orleans US" EPG_ID="foxwvue.us"></channel>
+<channel Country="United States" Channel="Fox Cincinnaty US" EPG_ID="foxwxix.us"></channel>
+<channel Country="United States" Channel="FOX Nashville US" EPG_ID="foxwztv.us"></channel>
+<channel Country="United States" Channel="Freeform US" EPG_ID="freeform.us"></channel>
+<channel Country="United States" Channel="Fuse US" EPG_ID="fusetv.us"></channel>
+<channel Country="United States" Channel="Fusion US" EPG_ID="fusion.us"></channel>
+<channel Country="United States" Channel="FX US" EPG_ID="fx.us"></channel>
+<channel Country="United States" Channel="FX Movie Channel US" EPG_ID="fxmoviechannel.us"></channel>
+<channel Country="United States" Channel="FXX US" EPG_ID="fxx.us"></channel>
+<channel Country="United States" Channel="FYI US" EPG_ID="fyi.us"></channel>
+<channel Country="United States" Channel="Galavision US" EPG_ID="galavision.us"></channel>
+<channel Country="United States" Channel="Game Show Network US" EPG_ID="gameshownetwork.us"></channel>
+<channel Country="United States" Channel="Gem Shopping Network US" EPG_ID="gemshoppingnetwork.us"></channel>
+<channel Country="United States" Channel="Get TV US" EPG_ID="gettv.us"></channel>
+<channel Country="United States" Channel="God\&apos;s Learning Channel US" EPG_ID="godslearningchannel.us"></channel>
+<channel Country="United States" Channel="God TV US" EPG_ID="godtv.us"></channel>
+<channel Country="United States" Channel="The Golf Channel US" EPG_ID="golfchannel.us"></channel>
+<channel Country="United States" Channel="Gol TV US" EPG_ID="goltv.us"></channel>
+<channel Country="United States" Channel="Gol TV ES US" EPG_ID="goltvspanish.us"></channel>
+<channel Country="United States" Channel="Great American Country US" EPG_ID="greatamericancountry.us"></channel>
+<channel Country="United States" Channel="Grit US" EPG_ID="grit.us"></channel>
+<channel Country="United States" Channel="Hallmark Channel US" EPG_ID="hallmark.us"></channel>
+<channel Country="United States" Channel="Hallmark Drama US" EPG_ID="hallmarkdrama.us"></channel>
+<channel Country="United States" Channel="Hallmark Movies and Mysteries US" EPG_ID="hallmarkmoviesmysteries.us"></channel>
+<channel Country="United States" Channel="HBO US" EPG_ID="hbo.us"></channel>
+<channel Country="United States" Channel="HBO 2 US" EPG_ID="hbo2.us"></channel>
+<channel Country="United States" Channel="HBO Comedy US" EPG_ID="hbocomedy.us"></channel>
+<channel Country="United States" Channel="HBO Family US" EPG_ID="hbofamily.us"></channel>
+<channel Country="United States" Channel="HBO Latino US" EPG_ID="hbolatino.us"></channel>
+<channel Country="United States" Channel="HBO Max US" EPG_ID="hbomax.us"></channel>
+<channel Country="United States" Channel="HBO Max Prime US" EPG_ID="hbomaxprime.us"></channel>
+<channel Country="United States" Channel="HBO Max Up US" EPG_ID="hbomaxup.us"></channel>
+<channel Country="United States" Channel="HBO Signature US" EPG_ID="hbosignature.us"></channel>
+<channel Country="United States" Channel="HBO Zone US" EPG_ID="hbozone.us"></channel>
+<channel Country="United States" Channel="HDNet Movies US" EPG_ID="hdnetmovies.us"></channel>
+<channel Country="United States" Channel="Heroes And Icons TV US" EPG_ID="heroesandiconstv.us"></channel>
+<channel Country="United States" Channel="HGTV US" EPG_ID="hgtv.us"></channel>
+<channel Country="United States" Channel="Hillsong US" EPG_ID="hillsong.us"></channel>
+<channel Country="United States" Channel="History Channel US" EPG_ID="historychannel.us"></channel>
+<channel Country="United States" Channel="History en Espanol US" EPG_ID="historyenespanol.us"></channel>
+<channel Country="United States" Channel="HLN US" EPG_ID="hln.us"></channel>
+<channel Country="United States" Channel="Hola TV US" EPG_ID="holatv.us"></channel>
+<channel Country="United States" Channel="Home Shopping Network US" EPG_ID="homeshoppingnetwork.us"></channel>
+<channel Country="United States" Channel="Hope Channel US" EPG_ID="hopechannel.us"></channel>
+<channel Country="United States" Channel="HSN2 US" EPG_ID="hsn2.us"></channel>
+<channel Country="United States" Channel="IMPACT US" EPG_ID="impact.us"></channel>
+<channel Country="United States" Channel="Independent Film Channel US" EPG_ID="independentfilmchannel.us"></channel>
+<channel Country="United States" Channel="IndiePlex US" EPG_ID="indieplex.us"></channel>
+<channel Country="United States" Channel="INSP US" EPG_ID="insp.us"></channel>
+<channel Country="United States" Channel="Investigation Discovery US" EPG_ID="investigationdiscovery.us"></channel>
+<channel Country="United States" Channel="ION US" EPG_ID="ion.us"></channel>
+<channel Country="United States" Channel="ION Life US" EPG_ID="ionlife.us"></channel>
+<channel Country="United States" Channel="Jewelry Television US" EPG_ID="jewelrytelevision.us"></channel>
+<channel Country="United States" Channel="Jewish Life US" EPG_ID="jewishlifetv.us"></channel>
+<channel Country="United States" Channel="Justice Central US" EPG_ID="justicecentral.us"></channel>
+<channel Country="United States" Channel="KCAL US" EPG_ID="kcal.us"></channel>
+<channel Country="United States" Channel="KCET US" EPG_ID="kcet.us"></channel>
+<channel Country="United States" Channel="KTLA US" EPG_ID="ktla.us"></channel>
+<channel Country="United States" Channel="KGBY Cozi US" EPG_ID="kgbycozi.us"></channel>
+<channel Country="United States" Channel="KUBE Houston US" EPG_ID="kube.us"></channel>
+<channel Country="United States" Channel="Laff TV US" EPG_ID="lafftv.us"></channel>
+<channel Country="United States" Channel="Lifetime Movies US" EPG_ID="lifetimemovies.us"></channel>
+<channel Country="United States" Channel="Lifetime Network US" EPG_ID="lifetimenetwork.us"></channel>
+<channel Country="United States" Channel="LMN US" EPG_ID="lmn.us"></channel>
+<channel Country="United States" Channel="LOGO US" EPG_ID="logo.us"></channel>
+<channel Country="United States" Channel="Longhorn Network US" EPG_ID="thelonghonrnetwork.us"></channel>
+<channel Country="United States" Channel="MSG US" EPG_ID="madisonsquaregarden.us"></channel>
+<channel Country="United States" Channel="MSG Plus US" EPG_ID="madisonsquaregardenplus.us"></channel>
+<channel Country="United States" Channel="MavTV US" EPG_ID="mavtv.us"></channel>
+<channel Country="United States" Channel="Mega TV US" EPG_ID="megatv.us"></channel>
+<channel Country="United States" Channel="MeTV New Jersey US" EPG_ID="metvwjlp.us"></channel>
+<channel Country="United States" Channel="Mexicanal US" EPG_ID="mexicanal.us"></channel>
+<channel Country="United States" Channel="MGM US" EPG_ID="mgm.us"></channel>
+<channel Country="United States" Channel="Military History US" EPG_ID="militaryhistory.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 720 US" EPG_ID="mlbextrainnings720.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 721 US" EPG_ID="mlbextrainnings721.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 722 US" EPG_ID="mlbextrainnings722.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 723 US" EPG_ID="mlbextrainnings723.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 724 US" EPG_ID="mlbextrainnings724.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 725 US" EPG_ID="mlbextrainnings725.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 726 US" EPG_ID="mlbextrainnings726.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 727 US" EPG_ID="mlbextrainnings727.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 728 US" EPG_ID="mlbextrainnings728.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 729 US" EPG_ID="mlbextrainnings729.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 731 US" EPG_ID="mlbextrainnings730.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 731 US" EPG_ID="mlbextrainnings731.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 732 US" EPG_ID="mlbextrainnings732.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 733 US" EPG_ID="mlbextrainnings733.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 734 US" EPG_ID="mlbextrainnings734.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 735 US" EPG_ID="mlbextrainnings735.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 736 US" EPG_ID="mlbextrainnings736.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 737 US" EPG_ID="mlbextrainnings737.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 738 US" EPG_ID="mlbextrainnings738.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 739 US" EPG_ID="mlbextrainnings739.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 740 US" EPG_ID="mlbextrainnings740.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 741 US" EPG_ID="mlbextrainnings741.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 742 US" EPG_ID="mlbextrainnings742.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 743 US" EPG_ID="mlbextrainnings743.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 744 US" EPG_ID="mlbextrainnings744.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 745 US" EPG_ID="mlbextrainnings745.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 746 US" EPG_ID="mlbextrainnings746.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 747 US" EPG_ID="mlbextrainnings747.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 748 US" EPG_ID="mlbextrainnings748.us"></channel>
+<channel Country="United States" Channel="MLB Extra Innings 749 US" EPG_ID="mlbextrainnings749.us"></channel>
+<channel Country="United States" Channel="MLB Network US" EPG_ID="mlbnetwork.us"></channel>
+<channel Country="United States" Channel="More Max US" EPG_ID="moremax.us"></channel>
+<channel Country="United States" Channel="Motor Trend US" EPG_ID="motortrend.us"></channel>
+<channel Country="United States" Channel="MOVIEMAX US" EPG_ID="moviemax.us"></channel>
+<channel Country="United States" Channel="MoviePlex US" EPG_ID="movieplex.us"></channel>
+<channel Country="United States" Channel="MSNBC US" EPG_ID="msnbc.us"></channel>
+<channel Country="United States" Channel="MTV US" EPG_ID="mtv.us"></channel>
+<channel Country="United States" Channel="MTV2 US" EPG_ID="mtv2.us"></channel>
+<channel Country="United States" Channel="MTV Classic US" EPG_ID="mtvclassic.us"></channel>
+<channel Country="United States" Channel="MTV Live US" EPG_ID="mtvlive.us"></channel>
+<channel Country="United States" Channel="MY13 Los Angeles US" EPG_ID="my13kcop.us"></channel>
+<channel Country="United States" Channel="MY20 Houston US" EPG_ID="my20ktxh.us"></channel>
+<channel Country="United States" Channel="MY 24 Milwaukee US" EPG_ID="my24wvtv.us"></channel>
+<channel Country="United States" Channel="My38 Boston US" EPG_ID="my38wsbk.us"></channel>
+<channel Country="United States" Channel="MY65 Orlando US" EPG_ID="my65wrbw.us"></channel>
+<channel Country="United States" Channel="My9 New York US" EPG_ID="my9wwor.us"></channel>
+<channel Country="United States" Channel="NASA Channel US" EPG_ID="nasachannel.us"></channel>
+<channel Country="United States" Channel="National Geographic Wild US" EPG_ID="natgeowild.us"></channel>
+<channel Country="United States" Channel="National Geographic US" EPG_ID="natgeo.us"></channel>
+<channel Country="United States" Channel="NatGeo Mundo US" EPG_ID="natgeomundo.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 1 US" EPG_ID="nbaleaguepass1.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 2 US" EPG_ID="nbaleaguepass2.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 3 US" EPG_ID="nbaleaguepass3.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 4 US" EPG_ID="nbaleaguepass4.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 5 US" EPG_ID="nbaleaguepass5.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 6 US" EPG_ID="nbaleaguepass6.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 7 US" EPG_ID="nbaleaguepass7.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 8 US" EPG_ID="nbaleaguepass8.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 9 US" EPG_ID="nbaleaguepass9.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 10 US" EPG_ID="nbaleaguepass10.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 750 US" EPG_ID="nbaleaguepass750.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 751 US" EPG_ID="nbaleaguepass751.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 752 US" EPG_ID="nbaleaguepass752.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 753 US" EPG_ID="nbaleaguepass753.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 754 US" EPG_ID="nbaleaguepass754.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 755 US" EPG_ID="nbaleaguepass755.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 756 US" EPG_ID="nbaleaguepass756.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 757 US" EPG_ID="nbaleaguepass757.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 758 US" EPG_ID="nbaleaguepass758.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 759 US" EPG_ID="nbaleaguepass759.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 760 US" EPG_ID="nbaleaguepass760.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 761 US" EPG_ID="nbaleaguepass761.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 762 US" EPG_ID="nbaleaguepass762.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 763 US" EPG_ID="nbaleaguepass763.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 764 US" EPG_ID="nbaleaguepass764.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 765 US" EPG_ID="nbaleaguepass765.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 766 US" EPG_ID="nbaleaguepass766.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 767 US" EPG_ID="nbaleaguepass767.us"></channel>
+<channel Country="United States" Channel="NBA League Pass 768 US" EPG_ID="nbaleaguepass768.us"></channel>
+<channel Country="United States" Channel="NBA TV US" EPG_ID="nbatv.us"></channel>
+<channel Country="United States" Channel="NBC 10 Philadelphia US" EPG_ID="nbc10wcau.us"></channel>
+<channel Country="United States" Channel="NBC 15 Madison US" EPG_ID="nbc15wmtv.us"></channel>
+<channel Country="United States" Channel="NBC 2 Alaska US" EPG_ID="nbc2ktuu.us"></channel>
+<channel Country="United States" Channel="NBC 41 Kansas City US" EPG_ID="nbc41kshb.us"></channel>
+<channel Country="United States" Channel="NBC 4 LA US" EPG_ID="nbc4knbc.us"></channel>
+<channel Country="United States" Channel="NBC 4 Columbus US" EPG_ID="nbc4wcmh.us"></channel>
+<channel Country="United States" Channel="NBC 5 St. Louis US" EPG_ID="nbc5ksdk.us"></channel>
+<channel Country="United States" Channel="NBC 5 Chicago US" EPG_ID="nbc5wmaq.us"></channel>
+<channel Country="United States" Channel="NBC 6 Miami US" EPG_ID="nbc6wtvj.us"></channel>
+<channel Country="United States" Channel="NBC 9 Denver US" EPG_ID="nbc9kusa.us"></channel>
+<channel Country="United States" Channel="NBC Boston US" EPG_ID="nbcwbts.us"></channel>
+<channel Country="United States" Channel="NBC Kare 11 Minneapolis US" EPG_ID="nbckare.us"></channel>
+<channel Country="United States" Channel="NBC Sacramento US" EPG_ID="nbckcra.us"></channel>
+<channel Country="United States" Channel="CBS Honolulu US" EPG_ID="nbckhnl.us"></channel>
+<channel Country="United States" Channel="NBC Seattle US" EPG_ID="nbcking.us"></channel>
+<channel Country="United States" Channel="NBC Tulsa US" EPG_ID="nbckjrh.us"></channel>
+<channel Country="United States" Channel="NBC Grand Junction US" EPG_ID="nbckkco.us"></channel>
+<channel Country="United States" Channel="NBC San Diego US" EPG_ID="nbcknsd.us"></channel>
+<channel Country="United States" Channel="NBC Houston US" EPG_ID="nbckprc.us"></channel>
+<channel Country="United States" Channel="NBC Las Vegas US" EPG_ID="nbcksnv.us"></channel>
+<channel Country="United States" Channel="NBC Fort Worth US" EPG_ID="nbckxas.us"></channel>
+<channel Country="United States" Channel="NBCSN Washington US" EPG_ID="nbcsnwashington.us"></channel>
+<channel Country="United States" Channel="NBC Sports Bay Area US" EPG_ID="nbcsportsbayarea.us"></channel>
+<channel Country="United States" Channel="NBC Sports Boston US" EPG_ID="nbcsportsboston.us"></channel>
+<channel Country="United States" Channel="NBC Sports California US" EPG_ID="nbcsportscalifornia.us"></channel>
+<channel Country="United States" Channel="NBC Sports Chicago US" EPG_ID="nbcsportschicago.us"></channel>
+<channel Country="United States" Channel="NBC Sports Chicago Plus US" EPG_ID="nbcsportschicagoplus.us"></channel>
+<channel Country="United States" Channel="NBC Sports Network US" EPG_ID="nbcsportsnetwork.us"></channel>
+<channel Country="United States" Channel="NBC Sports Northwest US" EPG_ID="nbcsportsnorthwest.us"></channel>
+<channel Country="United States" Channel="NBC Sports Philadelphia US" EPG_ID="nbcsportsphiladelphia.us"></channel>
+<channel Country="United States" Channel="NBC Sports Philadelphia Plus US" EPG_ID="nbcsportsphiladelphiaplus.us"></channel>
+<channel Country="United States" Channel="NBC Universo US" EPG_ID="nbcuniverso.us"></channel>
+<channel Country="United States" Channel="Wave 3 Louisville US" EPG_ID="nbcwave.us"></channel>
+<channel Country="United States" Channel="NBC Baltimore US" EPG_ID="nbcwbal.us"></channel>
+<channel Country="United States" Channel="NBC Charlotte US" EPG_ID="nbcwcnc.us"></channel>
+<channel Country="United States" Channel="NBC Portland US" EPG_ID="nbcwcsh.us"></channel>
+<channel Country="United States" Channel="NBC Detroit US" EPG_ID="nbcwdiv.us"></channel>
+<channel Country="United States" Channel="NBC New Orleans US" EPG_ID="nbcwdsu.us"></channel>
+<channel Country="United States" Channel="ABC Eau Claire US" EPG_ID="nbcweau.us"></channel>
+<channel Country="United States" Channel="NBC Orlando US" EPG_ID="nbcwesh.us"></channel>
+<channel Country="United States" Channel="NBC Tampa Bay US" EPG_ID="nbcwfla.us"></channel>
+<channel Country="United States" Channel="NBC Zanesville US" EPG_ID="nbcwhiz.us"></channel>
+<channel Country="United States" Channel="NBC Wausau US" EPG_ID="nbcwjfw.us"></channel>
+<channel Country="United States" Channel="NBC Cleveland US" EPG_ID="nbcwkyc.us"></channel>
+<channel Country="United States" Channel="NBC Lima US" EPG_ID="nbcwlio.us"></channel>
+<channel Country="United States" Channel="NBC Marquette US" EPG_ID="nbcwluc.us"></channel>
+<channel Country="United States" Channel="NBC NY US" EPG_ID="nbcwnbc.us"></channel>
+<channel Country="United States" Channel="NBC San Antonio US" EPG_ID="nbcwoai.us"></channel>
+<channel Country="United States" Channel="NBC Plattsburg US" EPG_ID="nbcwptz.us"></channel>
+<channel Country="United States" Channel="NBC Washington DC US" EPG_ID="nbcwrc.us"></channel>
+<channel Country="United States" Channel="NBC Huntington US" EPG_ID="nbcwsaz.us"></channel>
+<channel Country="United States" Channel="NBC Nashville US" EPG_ID="nbcwsmw.us"></channel>
+<channel Country="United States" Channel="NBC Milwaukee US" EPG_ID="nbcwtmj.us"></channel>
+<channel Country="United States" Channel="NBC Atlanta US" EPG_ID="nbcwxia.us"></channel>
+<channel Country="United States" Channel="NECN US" EPG_ID="newenglandcablenews.us"></channel>
+<channel Country="United States" Channel="New England Sports Network US" EPG_ID="newenglandsportsnetwork.us"></channel>
+<channel Country="United States" Channel="NESN+ US" EPG_ID="newenglandsportsnetworkplus.us"></channel>
+<channel Country="United States" Channel="Newsmax US" EPG_ID="newsmax.us"></channel>
+<channel Country="United States" Channel="Newsy US" EPG_ID="newsy.us"></channel>
+<channel Country="United States" Channel="NFL Fantasy Zone US" EPG_ID="nflfantasyzone.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket Mix 1 US" EPG_ID="nflsundaymixchannel.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket Mix 2 US" EPG_ID="nfl2sundaymixchannel.us"></channel>
+<channel Country="United States" Channel="NFL Network US" EPG_ID="nflnetwork.us"></channel>
+<channel Country="United States" Channel="NFL Red Zone US" EPG_ID="nflredzone.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 705 US" EPG_ID="nflsundayticket705.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 706 US" EPG_ID="nflsundayticket706.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 707 US" EPG_ID="nflsundayticket707.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 708 US" EPG_ID="nflsundayticket708.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 709 US" EPG_ID="nflsundayticket709.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 710 US" EPG_ID="nflsundayticket710.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 711 US" EPG_ID="nflsundayticket711.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 712 US" EPG_ID="nflsundayticket712.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 713 US" EPG_ID="nflsundayticket713.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 714 US" EPG_ID="nflsundayticket714.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 715 US" EPG_ID="nflsundayticket715.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 716 US" EPG_ID="nflsundayticket716.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 717 US" EPG_ID="nflsundayticket717.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 718 US" EPG_ID="nflsundayticket718.us"></channel>
+<channel Country="United States" Channel="NFL Sunday Ticket 719 US" EPG_ID="nflsundayticket719.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 1 US" EPG_ID="nhlcenterice1.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 2 US" EPG_ID="nhlcenterice2.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 3 US" EPG_ID="nhlcenterice3.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 4 US" EPG_ID="nhlcenterice4.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 5 US" EPG_ID="nhlcenterice5.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 6 US" EPG_ID="nhlcenterice6.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 7 US" EPG_ID="nhlcenterice7.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 8 US" EPG_ID="nhlcenterice8.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 9 US" EPG_ID="nhlcenterice9.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 10 US" EPG_ID="nhlcenterice10.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 11 US" EPG_ID="nhlcenterice11.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 12 US" EPG_ID="nhlcenterice12.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 13 US" EPG_ID="nhlcenterice13.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 14 US" EPG_ID="nhlcenterice14.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 769 US" EPG_ID="nhlcenterice769.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 770 US" EPG_ID="nhlcenterice770.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 771 US" EPG_ID="nhlcenterice771.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 772 US" EPG_ID="nhlcenterice772.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 773 US" EPG_ID="nhlcenterice773.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 774 US" EPG_ID="nhlcenterice774.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 775 US" EPG_ID="nhlcenterice775.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 776 US" EPG_ID="nhlcenterice776.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 777 US" EPG_ID="nhlcenterice777.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 778 US" EPG_ID="nhlcenterice778.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 779 US" EPG_ID="nhlcenterice779.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 780 US" EPG_ID="nhlcenterice780.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 781 US" EPG_ID="nhlcenterice781.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 782 US" EPG_ID="nhlcenterice782.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 783 US" EPG_ID="nhlcenterice783.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 784 US" EPG_ID="nhlcenterice784.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 785 US" EPG_ID="nhlcenterice785.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 786 US" EPG_ID="nhlcenterice786.us"></channel>
+<channel Country="United States" Channel="NHL Center Ice 787 US" EPG_ID="nhlcenterice787.us"></channel>
+<channel Country="United States" Channel="NHL Network US" EPG_ID="nhlnetwork.us"></channel>
+<channel Country="United States" Channel="Nickelodeon US" EPG_ID="nickelodeon.us"></channel>
+<channel Country="United States" Channel="Nick Jr. US" EPG_ID="nickjr.us"></channel>
+<channel Country="United States" Channel="Nicktoons US" EPG_ID="nicktoons.us"></channel>
+<channel Country="United States" Channel="NickMusic US" EPG_ID="nickmusic.us"></channel>
+<channel Country="United States" Channel="NYC Life US" EPG_ID="nyclifewnye.us"></channel>
+<channel Country="United States" Channel="Olympic Channel US" EPG_ID="olympicchannel.us"></channel>
+<channel Country="United States" Channel="One America News US" EPG_ID="oneamericanews.us"></channel>
+<channel Country="United States" Channel="The Oprah Winfrey Network US" EPG_ID="oprahwinfreynetwork.us"></channel>
+<channel Country="United States" Channel="Outdoor Channel US" EPG_ID="outdoorchannel.us"></channel>
+<channel Country="United States" Channel="Outer Max US" EPG_ID="outermax.us"></channel>
+<channel Country="United States" Channel="OutsideTV US" EPG_ID="outsidetv.us"></channel>
+<channel Country="United States" Channel="Ovation US" EPG_ID="ovation.us"></channel>
+<channel Country="United States" Channel="Oxygen US" EPG_ID="oxygen.us"></channel>
+<channel Country="United States" Channel="PAC-12 Bay Area US" EPG_ID="pac12bayarea.us"></channel>
+<channel Country="United States" Channel="PAC-12 Los Angeles US" EPG_ID="pac12losangeles.us"></channel>
+<channel Country="United States" Channel="PAC-12 Mountain US" EPG_ID="pac12mountain.us"></channel>
+<channel Country="United States" Channel="Pac-12 Network US" EPG_ID="pac12network.us"></channel>
+<channel Country="United States" Channel="PAC-12 Oregon US" EPG_ID="pac12oregon.us"></channel>
+<channel Country="United States" Channel="PAC-12 Washington US" EPG_ID="pac12washington.us"></channel>
+<channel Country="United States" Channel="Paramount Network US" EPG_ID="paramountnetwork.us"></channel>
+<channel Country="United States" Channel="Pasiones US" EPG_ID="pasiones.us"></channel>
+<channel Country="United States" Channel="PBS Boston US" EPG_ID="pbswgbh.us"></channel>
+<channel Country="United States" Channel="PBS Denver US" EPG_ID="pbskbdi.us"></channel>
+<channel Country="United States" Channel="PBS Seattle US" EPG_ID="pbskcts.us"></channel>
+<channel Country="United States" Channel="PBS Kids US" EPG_ID="pbskids.us"></channel>
+<channel Country="United States" Channel="PBS Las Vegas US" EPG_ID="pbsklvx.us"></channel>
+<channel Country="United States" Channel="PBS New Jersey US" EPG_ID="pbsnjtv.us"></channel>
+<channel Country="United States" Channel="PBS Thirteen US" EPG_ID="pbsthirteen.us"></channel>
+<channel Country="United States" Channel="PBS Vermont US" EPG_ID="pbsvermontvpbs.us"></channel>
+<channel Country="United States" Channel="PBS Vermont Plus US" EPG_ID="pbsvpbsdt2.us"></channel>
+<channel Country="United States" Channel="PBS Vermont US" EPG_ID="pbswetk.us"></channel>
+<channel Country="United States" Channel="PBS SW Florida US" EPG_ID="pbswgcu.us"></channel>
+<channel Country="United States" Channel="PBS Miamo FL US" EPG_ID="pbswlrn.us"></channel>
+<channel Country="United States" Channel="PBS Atlanta US" EPG_ID="pbswgtv.us"></channel>
+<channel Country="United States" Channel="PBS 21 Garden City US" EPG_ID="pbswliw21.us"></channel>
+<channel Country="United States" Channel="PBS South Florida US" EPG_ID="pbswpbt.us"></channel>
+<channel Country="United States" Channel="PBS Pennsylvania US" EPG_ID="pbswpsu.us"></channel>
+<channel Country="United States" Channel="PBS Chicago US" EPG_ID="pbswttw.us"></channel>
+<channel Country="United States" Channel="Playboy US" EPG_ID="playboy.us"></channel>
+<channel Country="United States" Channel="Playboy 2 US" EPG_ID="playboy2.us"></channel>
+<channel Country="United States" Channel="PopTV US" EPG_ID="poptv.us"></channel>
+<channel Country="United States" Channel="Premier League Extra Time 1 US" EPG_ID="premierleagueextra1.us"></channel>
+<channel Country="United States" Channel="Premier League Extra Time 2 US" EPG_ID="premierleagueextra2.us"></channel>
+<channel Country="United States" Channel="Premier League Extra Time 3 US" EPG_ID="premierleagueextra3.us"></channel>
+<channel Country="United States" Channel="Premier League Extra Time 4 US" EPG_ID="premierleagueextra4.us"></channel>
+<channel Country="United States" Channel="Premier League Extra Time 5 US" EPG_ID="premierleagueextra5.us"></channel>
+<channel Country="United States" Channel="Pursuit Channel US" EPG_ID="pursuitchannel.us"></channel>
+<channel Country="United States" Channel="QVC US" EPG_ID="qvc.us"></channel>
+<channel Country="United States" Channel="QVC Plus US" EPG_ID="qvcplus.us"></channel>
+<channel Country="United States" Channel="Reelz Channel US" EPG_ID="reelzchannel.us"></channel>
+<channel Country="United States" Channel="RetroPlex US" EPG_ID="retroplex.us"></channel>
+<channel Country="United States" Channel="Retro TV US" EPG_ID="retrotv.us"></channel>
+<channel Country="United States" Channel="Revn US" EPG_ID="revn.us"></channel>
+<channel Country="United States" Channel="RFD TV US" EPG_ID="rfdtv.us"></channel>
+<channel Country="United States" Channel="SEC Network US" EPG_ID="secnetwork.us"></channel>
+<channel Country="United States" Channel="Seven News Miami US" EPG_ID="sevennewswsvn.us"></channel>
+<channel Country="United States" Channel="Showtime US" EPG_ID="showtime.us"></channel>
+<channel Country="United States" Channel="Showtime 2 US" EPG_ID="showtime2.us"></channel>
+<channel Country="United States" Channel="Showtime Showcase US" EPG_ID="showtimeshowcase.us"></channel>
+<channel Country="United States" Channel="Showtime Extreme US" EPG_ID="showtimeextreme.us"></channel>
+<channel Country="United States" Channel="Showtime Beyond US" EPG_ID="showtimebeyond.us"></channel>
+<channel Country="United States" Channel="Showtime Next US" EPG_ID="showtimenext.us"></channel>
+<channel Country="United States" Channel="Showtime Women US" EPG_ID="showtimewomen.us"></channel>
+<channel Country="United States" Channel="Showtime Family Zone US" EPG_ID="rshowtimefamilyzone.us"></channel>
+<channel Country="United States" Channel="Smithsonian Channel US" EPG_ID="smithsonianchannel.us"></channel>
+<channel Country="United States" Channel="SonLife Network US" EPG_ID="sonlifenetwork.us"></channel>
+<channel Country="United States" Channel="Sony US" EPG_ID="sony.us"></channel>
+<channel Country="United States" Channel="Spectrum Deportes US" EPG_ID="spectrumdeportes.us"></channel>
+<channel Country="United States" Channel="Spectrum SportsNet US" EPG_ID="spectrumsportsnet.us"></channel>
+<channel Country="United States" Channel="Spectrum SportsNet LA US" EPG_ID="spectrumsportsnetla.us"></channel>
+<channel Country="United States" Channel="Sportsman Channel US" EPG_ID="sportsmanchannel.us"></channel>
+<channel Country="United States" Channel="SportsNet New York US" EPG_ID="sportsnetnewyork.us"></channel>
+<channel Country="United States" Channel="SportsTime Ohio US" EPG_ID="sportstimeohio.us"></channel>
+<channel Country="United States" Channel="Sprout US" EPG_ID="sprout.us"></channel>
+<channel Country="United States" Channel="Starz US" EPG_ID="starz.us"></channel>
+<channel Country="United States" Channel="Starz Cinema US" EPG_ID="starzcinema.us"></channel>
+<channel Country="United States" Channel="Starz Comedy US" EPG_ID="starzcomedy.us"></channel>
+<channel Country="United States" Channel="Starz Edge US" EPG_ID="starzedge.us"></channel>
+<channel Country="United States" Channel="Starz Encore US" EPG_ID="starzencore.us"></channel>
+<channel Country="United States" Channel="Starz Encore Action US" EPG_ID="starzencoreaction.us"></channel>
+<channel Country="United States" Channel="Starz Encore Black US" EPG_ID="starzencoreblack.us"></channel>
+<channel Country="United States" Channel="Starz Encore Classics US" EPG_ID="starzencoreclassics.us"></channel>
+<channel Country="United States" Channel="Starz Encore Family US" EPG_ID="starzencorefamily.us"></channel>
+<channel Country="United States" Channel="Starz Encore Suspense US" EPG_ID="starzencoresuspense.us"></channel>
+<channel Country="United States" Channel="Starz Encore Westerns US" EPG_ID="starzencorewesterns.us"></channel>
+<channel Country="United States" Channel="Starz In Black US" EPG_ID="starzinblack.us"></channel>
+<channel Country="United States" Channel="Starz Kids &amp; Family US" EPG_ID="starzkidsfamily.us"></channel>
+<channel Country="United States" Channel="Starz West US" EPG_ID="starzwest.us"></channel>
+<channel Country="United States" Channel="SundanceTV US" EPG_ID="sundancetv.us"></channel>
+<channel Country="United States" Channel="Syfy US" EPG_ID="syfy.us"></channel>
+<channel Country="United States" Channel="TBD TV US" EPG_ID="tbdtv.us"></channel>
+<channel Country="United States" Channel="TBS US" EPG_ID="tbs.us"></channel>
+<channel Country="United States" Channel="The Country Network US" EPG_ID="tcnksaodt7.us"></channel>
+<channel Country="United States" Channel="TeenNick US" EPG_ID="teennick.us"></channel>
+<channel Country="United States" Channel="Telemundo US" EPG_ID="telemundo.us"></channel>
+<channel Country="United States" Channel="Telemundo 51 US" EPG_ID="telemundo51wscv.us"></channel>
+<channel Country="United States" Channel="Telemundo San Antonio US" EPG_ID="telemundokvda.us"></channel>
+<channel Country="United States" Channel="Telemundo 52 L.A. US" EPG_ID="telemundokvea.us"></channel>
+<channel Country="United States" Channel="Tennis Channel US" EPG_ID="tennischannel.us"></channel>
+<channel Country="United States" Channel="Cowboy Channel US" EPG_ID="thecowboychannel.us"></channel>
+<channel Country="United States" Channel="The Word Network US" EPG_ID="thewordnetwork.us"></channel>
+<channel Country="United States" Channel="ThrillerMAX US" EPG_ID="thrillermax.us"></channel>
+<channel Country="United States" Channel="TLC US" EPG_ID="tlc.us"></channel>
+<channel Country="United States" Channel="The Movie Channel US" EPG_ID="tmc.us"></channel>
+<channel Country="United States" Channel="The Movie Channel Xtra US" EPG_ID="tmcxtra.us"></channel>
+<channel Country="United States" Channel="TNT US" EPG_ID="tnt.us"></channel>
+<channel Country="United States" Channel="Travel Channel US" EPG_ID="travelchannel.us"></channel>
+<channel Country="United States" Channel="Trinity Broadcasting Network US" EPG_ID="trinitybroadcastingnetwork.us"></channel>
+<channel Country="United States" Channel="truTV US" EPG_ID="trutv.us"></channel>
+<channel Country="United States" Channel="Turner Classic Movies US" EPG_ID="turnerclassicmovies.us"></channel>
+<channel Country="United States" Channel="TV5 Monde US" EPG_ID="tv5monde.us"></channel>
+<channel Country="United States" Channel="TVG US" EPG_ID="tvg.us"></channel>
+<channel Country="United States" Channel="TVG 2 US" EPG_ID="tvg2.us"></channel>
+<channel Country="United States" Channel="TV Land US" EPG_ID="tvlandeast.us"></channel>
+<channel Country="United States" Channel="TV Land West US" EPG_ID="tvlandwest.us"></channel>
+<channel Country="United States" Channel="TV One US" EPG_ID="tvone.us"></channel>
+<channel Country="United States" Channel="UniMas US" EPG_ID="unimas.us"></channel>
+<channel Country="United States" Channel="Universal Kids US" EPG_ID="universalkids.us"></channel>
+<channel Country="United States" Channel="Univisión Network US" EPG_ID="univision.us"></channel>
+<channel Country="United States" Channel="Univision 23 Miami US" EPG_ID="univision23wltv.us"></channel>
+<channel Country="United States" Channel="Univision Deportes US" EPG_ID="univisiondeportes.us"></channel>
+<channel Country="United States" Channel="Univision San Antonio US" EPG_ID="univisionkwex.us"></channel>
+<channel Country="United States" Channel="Univision Puerto Rico US" EPG_ID="univisionwlii.us"></channel>
+<channel Country="United States" Channel="Uplifting Entertainment US" EPG_ID="upliftingentertainment.us"></channel>
+<channel Country="United States" Channel="USA Network US" EPG_ID="usanetwork.us"></channel>
+<channel Country="United States" Channel="US Armenia US" EPG_ID="usarmenia.us"></channel>
+<channel Country="United States" Channel="Valu TV US" EPG_ID="valutv.us"></channel>
+<channel Country="United States" Channel="VH1 US" EPG_ID="vh1.us"></channel>
+<channel Country="United States" Channel="Viceland US" EPG_ID="viceland.us"></channel>
+<channel Country="United States" Channel="V-Me Television US" EPG_ID="vmetelevision.us"></channel>
+<channel Country="United States" Channel="WAPA 2 Deportes US" EPG_ID="wapa2deportes.us"></channel>
+<channel Country="United States" Channel="Wapa América US" EPG_ID="wapaamerica.us"></channel>
+<channel Country="United States" Channel="WAPA US" EPG_ID="wapatv.us"></channel>
+<channel Country="United States" Channel="WCIU The U Chicago US" EPG_ID="wciu.us"></channel>
+<channel Country="United States" Channel="Weather Channel US" EPG_ID="weatherchannel.us"></channel>
+<channel Country="United States" Channel="Weather Nation US" EPG_ID="weathernation.us"></channel>
+<channel Country="United States" Channel="We TV US" EPG_ID="wetv.us"></channel>
+<channel Country="United States" Channel="WGN9 Chicago US" EPG_ID="wgn9chicago.us"></channel>
+<channel Country="United States" Channel="WGN America US" EPG_ID="wgnamerica.us"></channel>
+<channel Country="United States" Channel="Willow Cricket US" EPG_ID="willowcricket.us"></channel>
+<channel Country="United States" Channel="Women\&apos;s Entertainment US" EPG_ID="womensentertainment.us"></channel>
+<channel Country="United States" Channel="WLNY TV10/55 US" EPG_ID="wlnytv1055.us"></channel>
+<channel Country="United States" Channel="WMEU The U Too Chicago US" EPG_ID="wmeuchicago.us"></channel>
+<channel Country="United States" Channel="CW 23 US" EPG_ID="wnlo.us"></channel>
+<channel Country="United States" Channel="WFN US" EPG_ID="worldfishingnetwork.us"></channel>
+<channel Country="United States" Channel="Pix 11 US" EPG_ID="wpix.us"></channel>
+<channel Country="United States" Channel="WWE US" EPG_ID="wwe.us"></channel>
+<channel Country="United States" Channel="YES Network US" EPG_ID="yesnetwork.us"></channel>
+</channels>
