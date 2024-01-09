@@ -1,0 +1,1507 @@
+<?xml version="1.0"?>
+<channels>
+<channel update="i" xmltv_id="5 Star Max US" site="5starmax.us"></channel>
+<channel update="i" xmltv_id="A&amp;E US" site="aande.us"></channel>
+<channel update="i" xmltv_id="ABC 10 Miami US" site="abc10wplg.us"></channel>
+<channel update="i" xmltv_id="ABC 11 Louisville US" site="abc11whas.us"></channel>
+<channel update="i" xmltv_id="ABC 13 Houston US" site="abc13ktrktv.us"></channel>
+<channel update="i" xmltv_id="ABC 13 Alaska US" site="abc13kyur.us"></channel>
+<channel update="i" xmltv_id="ABC Tampa Bay US" site="abc28wfts.us"></channel>
+<channel update="i" xmltv_id="ABC 5 Puerto Rico US" site="abc5wora.us"></channel>
+<channel update="i" xmltv_id="ABC 7 LA US" site="abc7kabctv.us"></channel>
+<channel update="i" xmltv_id="ABC 7 Denver US" site="abc7kmghtv.us"></channel>
+<channel update="i" xmltv_id="ABC 7 Chicago US" site="abc7wlstv.us"></channel>
+<channel update="i" xmltv_id="ABC 7 Detroit US" site="abc7wxyz.us"></channel>
+<channel update="i" xmltv_id="ABC 8 Dallas US" site="abc8wfaa.us"></channel>
+<channel update="i" xmltv_id="ABC 9 Kansas City US" site="abc9kmbc.us"></channel>
+<channel update="i" xmltv_id="ABC San Francisco US" site="abckgo.us"></channel>
+<channel update="i" xmltv_id="ABC San Diego US" site="abckgtv.us"></channel>
+<channel update="i" xmltv_id="ABC Honolulu US" site="abckitv.us"></channel>
+<channel update="i" xmltv_id="ABC Grand Junction US" site="abckjct.us"></channel>
+<channel update="i" xmltv_id="ABC Seattle US" site="abckomo.us"></channel>
+<channel update="i" xmltv_id="ABC San Antonio US" site="abcksat.us"></channel>
+<channel update="i" xmltv_id="ABC Minneapolis US" site="abckstp.us"></channel>
+<channel update="i" xmltv_id="ABC Las Vegas US" site="abcktnv.us"></channel>
+<channel update="i" xmltv_id="ABC Sacramento US" site="abckxtv.us"></channel>
+<channel update="i" xmltv_id="ABC NY US" site="abcwabc.us"></channel>
+<channel update="i" xmltv_id="ABC Green Bay US" site="abcwbay.us"></channel>
+<channel update="i" xmltv_id="ABC Bowling Green US" site="abcwbko.us"></channel>
+<channel update="i" xmltv_id="ABC Baton Rouge US" site="abcwbrz.us"></channel>
+<channel update="i" xmltv_id="ABC Cincinatti US" site="abcwcpo.us"></channel>
+<channel update="i" xmltv_id="ABC Boston US" site="abcwcvb.us"></channel>
+<channel update="i" xmltv_id="ABC Cleveland US" site="abcwews.us"></channel>
+<channel update="i" xmltv_id="ABC Orlando US" site="abcwftv.us"></channel>
+<channel update="i" xmltv_id="ABC Milwaukee US" site="abcwisn.us"></channel>
+<channel update="i" xmltv_id="ABC Washington DC US" site="abcwjla.us"></channel>
+<channel update="i" xmltv_id="ABC Nashville US" site="abcwkrn.us"></channel>
+<channel update="i" xmltv_id="ABC Baltimore US" site="abcwmar.us"></channel>
+<channel update="i" xmltv_id="ABC Auburn US" site="abcwmtw.us"></channel>
+<channel update="i" xmltv_id="ABC Philadelphia US" site="abcwpvi.us"></channel>
+<channel update="i" xmltv_id="ABC Atlanta US" site="abcwsb.us"></channel>
+<channel update="i" xmltv_id="ABC Charlotte US" site="abcwsoc.us"></channel>
+<channel update="i" xmltv_id="ABC Columbus US" site="abcwsyx.us"></channel>
+<channel update="i" xmltv_id="ABC Toledo US" site="abcwtvg.us"></channel>
+<channel update="i" xmltv_id="ABC 7 Sarasota US" site="abcwwsb.us"></channel>
+<channel update="i" xmltv_id="Action Max US" site="actionmax.us"></channel>
+<channel update="i" xmltv_id="Adult Swim US" site="adultswim.us"></channel>
+<channel update="i" xmltv_id="ALTPBA Atlanta US" site="altpbawpba.us"></channel>
+<channel update="i" xmltv_id="AMC US" site="amc.us"></channel>
+<channel update="i" xmltv_id="American Heroes Channel US" site="americanheroeschannel.us"></channel>
+<channel update="i" xmltv_id="AMG TV US" site="amgtv.us"></channel>
+<channel update="i" xmltv_id="Animal Planet US" site="animalplanet.us"></channel>
+<channel update="i" xmltv_id="AntennaTV US" site="antennatv.us"></channel>
+<channel update="i" xmltv_id="AXS UK" site="axstv.us"></channel>
+<channel update="i" xmltv_id="Azteca US" site="azteca.us"></channel>
+<channel update="i" xmltv_id="Baby First US" site="babyfirsttv.us"></channel>
+<channel update="i" xmltv_id="Bandamax US" site="bandamax.us"></channel>
+<channel update="i" xmltv_id="BBC America US" site="bbcamerica.us"></channel>
+<channel update="i" xmltv_id="Beauty IQ US" site="beautyiq.us"></channel>
+<channel update="i" xmltv_id="beIN Sport en Espanol US" site="beinsportespanol.us"></channel>
+<channel update="i" xmltv_id="beIN Sports US" site="beinsports.us"></channel>
+<channel update="i" xmltv_id="beIN Sports 2 US" site="beinsports2.us"></channel>
+<channel update="i" xmltv_id="beIN Sports 3 US" site="beinsports3.us"></channel>
+<channel update="i" xmltv_id="beIN Sports 4 US" site="beinsports4.us"></channel>
+<channel update="i" xmltv_id="beIN Sports 5 US" site="beinsports5.us"></channel>
+<channel update="i" xmltv_id="beIN Sports 6 US" site="beinsports6.us"></channel>
+<channel update="i" xmltv_id="beIN Sports 7 US" site="beinsports7.us"></channel>
+<channel update="i" xmltv_id="beIN Sports 8 US" site="beinsports8.us"></channel>
+<channel update="i" xmltv_id="beIN Sports 9 US" site="beinsports9.us"></channel>
+<channel update="i" xmltv_id="beIN Sports 10 US" site="beinsports10.us"></channel>
+<channel update="i" xmltv_id="BET US" site="bet.us"></channel>
+<channel update="i" xmltv_id="BET Her US" site="bether.us"></channel>
+<channel update="i" xmltv_id="BET Jams US" site="betjams.us"></channel>
+<channel update="i" xmltv_id="Big Ten Network US" site="bigtennetwork.us"></channel>
+<channel update="i" xmltv_id="Blaze TV US" site="blazetv.us"></channel>
+<channel update="i" xmltv_id="Bloomberg TV US" site="bloombergtv.us"></channel>
+<channel update="i" xmltv_id="Boomerang US" site="boomerang.us"></channel>
+<channel update="i" xmltv_id="Bounce TV US" site="bouncetv.us"></channel>
+<channel update="i" xmltv_id="Bravo US" site="bravo.us"></channel>
+<channel update="i" xmltv_id="KBYU Brigham Young University US" site="brighamyounguniversity.us"></channel>
+<channel update="i" xmltv_id="Buzzer TV US" site="buzzertv.us"></channel>
+<channel update="i" xmltv_id="Cartoon Network US" site="cartoonnetwork.us"></channel>
+<channel update="i" xmltv_id="Catholic TV US" site="catholictv.us"></channel>
+<channel update="i" xmltv_id="CBS 11 Alaska US" site="cbs11ktva.us"></channel>
+<channel update="i" xmltv_id="CBS 11 Toledo US" site="cbs11wtol.us"></channel>
+<channel update="i" xmltv_id="CBS 17 Carolina US" site="cbs17wncn.us"></channel>
+<channel update="i" xmltv_id="CBS 21 Central PA US" site="cbs21whp.us"></channel>
+<channel update="i" xmltv_id="CBS 2 Pittsburgh US" site="cbs2kdka.us"></channel>
+<channel update="i" xmltv_id="CBS 32 Louisville US" site="cbs32wlky.us"></channel>
+<channel update="i" xmltv_id="CBS 3 Madison US" site="cbs3wisc.us"></channel>
+<channel update="i" xmltv_id="CBS 46 Atlanta US" site="cbs46wgcltv.us"></channel>
+<channel update="i" xmltv_id="CBS 4 Denver US" site="cbs4kcnctv.us"></channel>
+<channel update="i" xmltv_id="CBS 4 New Orleans US" site="cbs4wwl.us"></channel>
+<channel update="i" xmltv_id="CBS 5 Kansas City US" site="cbs5kctv.us"></channel>
+<channel update="i" xmltv_id="CBS 62 Detroit US" site="cbs62wwjtv.us"></channel>
+<channel update="i" xmltv_id="CBS 7 Dayton US" site="cbs7whio.us"></channel>
+<channel update="i" xmltv_id="CBS LA US" site="cbskcbs.us"></channel>
+<channel update="i" xmltv_id="CBS San Diego US" site="cbskfmb.us"></channel>
+<channel update="i" xmltv_id="CBS Honolulu US" site="cbskgmb.us"></channel>
+<channel update="i" xmltv_id="CBS Houston US" site="cbskhou.us"></channel>
+<channel update="i" xmltv_id="CBS Seattle US" site="cbskiro.us"></channel>
+<channel update="i" xmltv_id="CBS Las Vegas US" site="cbsklas.us"></channel>
+<channel update="i" xmltv_id="CBS Tulsa US" site="cbskotv.us"></channel>
+<channel update="i" xmltv_id="CBS Sacramento US" site="cbskovr.us"></channel>
+<channel update="i" xmltv_id="CBS 5 Phoenix US" site="cbskpho.us"></channel>
+<channel update="i" xmltv_id="CBS Grand Junction US" site="cbskrex.us"></channel>
+<channel update="i" xmltv_id="CBS Philadelphia US" site="cbskyw.us"></channel>
+<channel update="i" xmltv_id="CBS Sports Network US" site="cbssportsnetwork.us"></channel>
+<channel update="i" xmltv_id="CBS Bangor US" site="cbswabi.us"></channel>
+<channel update="i" xmltv_id="CBS Baton Rouge US" site="cbswafb.us"></channel>
+<channel update="i" xmltv_id="CBS Chicago US" site="cbswbbmtv.us"></channel>
+<channel update="i" xmltv_id="CBS Columbus US" site="cbswbns.us"></channel>
+<channel update="i" xmltv_id="CBS Charlotte US" site="cbswbtv.us"></channel>
+<channel update="i" xmltv_id="CBS Boston US" site="cbswbz.us"></channel>
+<channel update="i" xmltv_id="CBS NY US" site="cbswcbs.us"></channel>
+<channel update="i" xmltv_id="CBS Minneapolis US" site="cbswcco.us"></channel>
+<channel update="i" xmltv_id="CBS Milwaukee US" site="cbswdjt.us"></channel>
+<channel update="i" xmltv_id="CBS Miami US" site="cbswfor.us"></channel>
+<channel update="i" xmltv_id="CBS Portland US" site="cbswgme.us"></channel>
+<channel update="i" xmltv_id="CBS Wink News US" site="cbswinknews.us"></channel>
+<channel update="i" xmltv_id="CBS Baltimore US" site="cbswjz.us"></channel>
+<channel update="i" xmltv_id="CBS Orlando US" site="cbswkmg.us"></channel>
+<channel update="i" xmltv_id="CBS Lexington US" site="cbswkyt.us"></channel>
+<channel update="i" xmltv_id="CBS Cleveland US" site="cbswoio.us"></channel>
+<channel update="i" xmltv_id="CBS Wausau US" site="cbswsaw.us"></channel>
+<channel update="i" xmltv_id="CBS Tampa Bay US" site="cbswtsp.us"></channel>
+<channel update="i" xmltv_id="CBS Nashville US" site="cbswtvf.us"></channel>
+<channel update="i" xmltv_id="CBS Washington DC US" site="cbswusa.us"></channel>
+<channel update="i" xmltv_id="CBS Hazard US" site="cbswymt.us"></channel>
+<channel update="i" xmltv_id="Cine Latino US" site="cinelatino.us"></channel>
+<channel update="i" xmltv_id="Cinema Screening Room US" site="cinemascreeningroom.us"></channel>
+<channel update="i" xmltv_id="Cinema Screening Room 100 US" site="cinemascreeningroom100.us"></channel>
+<channel update="i" xmltv_id="Cinema Screening Room 200 US" site="cinemascreeningroom200.us"></channel>
+<channel update="i" xmltv_id="Cinema Screening Room 201 US" site="cinemascreeningroom201.us"></channel>
+<channel update="i" xmltv_id="Cinemax US" site="cinemax.us"></channel>
+<channel update="i" xmltv_id="Cine Sony US" site="cinesony.us"></channel>
+<channel update="i" xmltv_id="CMT US" site="cmt.us"></channel>
+<channel update="i" xmltv_id="CNBC US" site="cnbc.us"></channel>
+<channel update="i" xmltv_id="CNBC World US" site="cnbcworld.us"></channel>
+<channel update="i" xmltv_id="CNN US" site="cnn.us"></channel>
+<channel update="i" xmltv_id="CNN Espanol US" site="cnnespanol.us"></channel>
+<channel update="i" xmltv_id="Comcast Sportsnet US" site="comcastsportsnet.us"></channel>
+<channel update="i" xmltv_id="Comcast SportsNet Bay Area US" site="comcastsportsnetbayarea.us"></channel>
+<channel update="i" xmltv_id="Comcast SportsNet California US" site="comcastsportsnetcaliforniaplus.us"></channel>
+<channel update="i" xmltv_id="Comcast SportsNet Chicago US" site="comcastsportsnetchicago.us"></channel>
+<channel update="i" xmltv_id="Comcast Sportsnet New England US" site="comcastsportsnetnewengland.us"></channel>
+<channel update="i" xmltv_id="Comcast SportsNet Philadelphia" site="comcastsportsnetphiladelphia.us"></channel>
+<channel update="i" xmltv_id="Comedy Central US" site="comedycentral.us"></channel>
+<channel update="i" xmltv_id="ComedyTV US" site="comedytv.us"></channel>
+<channel update="i" xmltv_id="Comet US" site="comet.us"></channel>
+<channel update="i" xmltv_id="Cooking Channel US" site="cookingchannel.us"></channel>
+<channel update="i" xmltv_id="Cornerstone Television US" site="cornerstonetelevision.us"></channel>
+<channel update="i" xmltv_id="Cozi TV US" site="cozitv.us"></channel>
+<channel update="i" xmltv_id="CreateTV US" site="createtv.us"></channel>
+<channel update="i" xmltv_id="Crime and Investigation US" site="crimeinvestigation.us"></channel>
+<channel update="i" xmltv_id="CSPAN US" site="cspan.us"></channel>
+<channel update="i" xmltv_id="CSPAN 2 US" site="cspan2.us"></channel>
+<channel update="i" xmltv_id="CSPAN 3 US" site="cspan3.us"></channel>
+<channel update="i" xmltv_id="CW US" site="cw.us"></channel>
+<channel update="i" xmltv_id="CW50 Chicago US" site="cw50wpwr.us"></channel>
+<channel update="i" xmltv_id="CW 57 Philadelphia US" site="cw57wpsg.us"></channel>
+<channel update="i" xmltv_id="CW Central PA US" site="cwcentralpawhp.us"></channel>
+<channel update="i" xmltv_id="CW Sacramento US" site="cwkmax.us"></channel>
+<channel update="i" xmltv_id="CW Las Vegas US" site="cwkvcw.us"></channel>
+<channel update="i" xmltv_id="CW Baltimore US" site="cwwnuv.us"></channel>
+<channel update="i" xmltv_id="Daystar US" site="daystar.us"></channel>
+<channel update="i" xmltv_id="Decades US" site="decades.us"></channel>
+<channel update="i" xmltv_id="Destination America US" site="destinationamerica.us"></channel>
+<channel update="i" xmltv_id="Discovery Channel US" site="discoverychannel.us"></channel>
+<channel update="i" xmltv_id="Discovery en Espanol US" site="discoveryespanol.us"></channel>
+<channel update="i" xmltv_id="Discovery Family Channel US" site="discoveryfamily.us"></channel>
+<channel update="i" xmltv_id="Discovery Life US" site="discoverylife.us"></channel>
+<channel update="i" xmltv_id="Discovery Science US" site="discoveryscience.us"></channel>
+<channel update="i" xmltv_id="Disney US" site="disneychannel.us"></channel>
+<channel update="i" xmltv_id="Disney Junior US" site="disneyjunior.us"></channel>
+<channel update="i" xmltv_id="Disney XD US" site="disneyxd.us"></channel>
+<channel update="i" xmltv_id="Do it Yourself Network US" site="doityourselfnetwork.us"></channel>
+<channel update="i" xmltv_id="Dog TV US" site="dogtv.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 119 US" site="dtvcinema119.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 120 US" site="dtvcinema120.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 121 US" site="dtvcinema121.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 122 US" site="dtvcinema122.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 123 US" site="dtvcinema123.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 124 US" site="dtvcinema124.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 126 US" site="dtvcinema126.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 127 US" site="dtvcinema127.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 128 US" site="dtvcinema128.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 129 US" site="dtvcinema129.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 130 US" site="dtvcinema130.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 131 US" site="dtvcinema131.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 135 US" site="dtvcinema135.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 136 US" site="dtvcinema136.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 138 US" site="dtvcinema138.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 139 US" site="dtvcinema139.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 140 US" site="dtvcinema140.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 141 US" site="dtvcinema141.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 142 US" site="dtvcinema142.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 143 US" site="dtvcinema143.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 144 US" site="dtvcinema144.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 145 US" site="dtvcinema145.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 147 US" site="dtvcinema147.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 148 US" site="dtvcinema148.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 149 US" site="dtvcinema149.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 150 US" site="dtvcinema150.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 151 US" site="dtvcinema151.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 152 US" site="dtvcinema152.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 153 US" site="dtvcinema153.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 154 US" site="dtvcinema154.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 155 US" site="dtvcinema155.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 156 US" site="dtvcinema156.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 157 US" site="dtvcinema157.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 158 US" site="dtvcinema158.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 159 US" site="dtvcinema159.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 166 US" site="dtvcinema166.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 168 US" site="dtvcinema168.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 169 US" site="dtvcinema169.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 173 US" site="dtvcinema173.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 174 US" site="dtvcinema174.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 175 US" site="dtvcinema175.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 176 US" site="dtvcinema176.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 177 US" site="dtvcinema177.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 178 US" site="dtvcinema178.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 179 US" site="dtvcinema179.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 180 US" site="dtvcinema180.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 181 US" site="dtvcinema181.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 182 US" site="dtvcinema182.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 183 US" site="dtvcinema183.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 184 US" site="dtvcinema184.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 185 US" site="dtvcinema185.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 186 US" site="dtvcinema186.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 187 US" site="dtvcinema187.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 188 US" site="dtvcinema188.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 189 US" site="dtvcinema189.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 190 US" site="dtvcinema190.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 191 US" site="dtvcinema191.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 192 US" site="dtvcinema192.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 193 US" site="dtvcinema193.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 194 US" site="dtvcinema194.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 195 US" site="dtvcinema195.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 196 US" site="dtvcinema196.us"></channel>
+<channel update="i" xmltv_id="E! Entertainment US" site="eentertainment.us"></channel>
+<channel update="i" xmltv_id="Eleven Sports US" site="elevensports.us"></channel>
+<channel update="i" xmltv_id="El Rey US" site="elrey.us"></channel>
+<channel update="i" xmltv_id="Enlace US" site="enlace.us"></channel>
+<channel update="i" xmltv_id="EPIX US" site="epix.us"></channel>
+<channel update="i" xmltv_id="EPIX2 US" site="epix2.us"></channel>
+<channel update="i" xmltv_id="EPIX Hits US" site="epixhits.us"></channel>
+<channel update="i" xmltv_id="Epix DriveIn US" site="epixdrivein.us"></channel>
+<channel update="i" xmltv_id="Escape US" site="escape.us"></channel>
+<channel update="i" xmltv_id="ESPN US" site="espn.us"></channel>
+<channel update="i" xmltv_id="ESPN2 US" site="espn2.us"></channel>
+<channel update="i" xmltv_id="ESPN Classic US" site="espnclassics.us"></channel>
+<channel update="i" xmltv_id="ESPN Deportes US" site="espndeportes.us"></channel>
+<channel update="i" xmltv_id="ESPN News US" site="espnnews.us"></channel>
+<channel update="i" xmltv_id="ESPN U US" site="espnu.us"></channel>
+<channel update="i" xmltv_id="ESPN College Extra 1 US" site="espncollegeextra1.us"></channel>
+<channel update="i" xmltv_id="ESPN College Extra 2 US" site="espncollegeextra2.us"></channel>
+<channel update="i" xmltv_id="ESPN College Extra 3 US" site="espncollegeextra3.us"></channel>
+<channel update="i" xmltv_id="ESPN College Extra 4 US" site="espncollegeextra4.us"></channel>
+<channel update="i" xmltv_id="ESPN College Extra 5 US" site="espncollegeextra5.us"></channel>
+<channel update="i" xmltv_id="ESPN College Extra 6 US" site="espncollegeextra6.us"></channel>
+<channel update="i" xmltv_id="ESPN College Extra 7 US" site="espncollegeextra7.us"></channel>
+<channel update="i" xmltv_id="ESPN College Extra 8 US" site="espncollegeextra8.us"></channel>
+<channel update="i" xmltv_id="Estrella US" site="estrella.us"></channel>
+<channel update="i" xmltv_id="EVINE US" site="evine.us"></channel>
+<channel update="i" xmltv_id="EWTN US" site="ewtn.us"></channel>
+<channel update="i" xmltv_id="EWTN Espanol US" site="ewtnespanol.us"></channel>
+<channel update="i" xmltv_id="FOX College Sports Pacific US" site="foxcollegesportspacific.us"></channel>
+<channel update="i" xmltv_id="FOX College Sports Atlantic US" site="foxcollegesportsatlantic.us"></channel>
+<channel update="i" xmltv_id="FOX College Sports Central US" site="foxcollegesportscentral.us"></channel>
+<channel update="i" xmltv_id="Flix US" site="flix.us"></channel>
+<channel update="i" xmltv_id="Food Network US" site="foodnetwork.us"></channel>
+<channel update="i" xmltv_id="Fox 10 Phoenix US" site="fox10ksaz.us"></channel>
+<channel update="i" xmltv_id="Fox 10 Extra Phoenix US" site="fox10kutp.us"></channel>
+<channel update="i" xmltv_id="Fox 11 LA US" site="fox11kttv.us"></channel>
+<channel update="i" xmltv_id="FOX 25 Boston US" site="fox25wfxt.us"></channel>
+<channel update="i" xmltv_id="Fox 28 Columbus US" site="fox28wtte.us"></channel>
+<channel update="i" xmltv_id="FOX 2 St. Louis US" site="fox2ktvi.us"></channel>
+<channel update="i" xmltv_id="Fox 30 Jacksonville US" site="fox30wfox.us"></channel>
+<channel update="i" xmltv_id="FOX 31 Denver US" site="fox31kdvr.us"></channel>
+<channel update="i" xmltv_id="FOX 32 Chicago US" site="fox32wfld.us"></channel>
+<channel update="i" xmltv_id="Fox 36 Toledo US" site="fox36wupw.us"></channel>
+<channel update="i" xmltv_id="FOX 41 Louisville US" site="fox41wdrb.us"></channel>
+<channel update="i" xmltv_id="Fox 4 Alaska US" site="fox4ktby.us"></channel>
+<channel update="i" xmltv_id="FOX 4 Kansas City US" site="fox4wdaf.us"></channel>
+<channel update="i" xmltv_id="FOX NY US" site="fox.us"></channel>
+<channel update="i" xmltv_id="Fox Business US" site="foxbusiness.us"></channel>
+<channel update="i" xmltv_id="Fox Deportes Espanol US" site="foxdeportes.us"></channel>
+<channel update="i" xmltv_id="Fox San Antonio US" site="foxkabb.us"></channel>
+<channel update="i" xmltv_id="FOX Tacoma US" site="foxkcpq.us"></channel>
+<channel update="i" xmltv_id="FOX Dallas US" site="foxkdfw.us"></channel>
+<channel update="i" xmltv_id="FOX Grand Junction US" site="foxkfqx.us"></channel>
+<channel update="i" xmltv_id="FOX Cedar Rapids US" site="foxkfxa.us"></channel>
+<channel update="i" xmltv_id="FOX Honolulu US" site="foxkhon.us"></channel>
+<channel update="i" xmltv_id="FOX 9 Minneapolis US" site="foxkmsp.us"></channel>
+<channel update="i" xmltv_id="Fox Tulsa US" site="foxkoki.us"></channel>
+<channel update="i" xmltv_id="FOX Houston US" site="foxkriv.us"></channel>
+<channel update="i" xmltv_id="FOX San Diego US" site="foxkswb.us"></channel>
+<channel update="i" xmltv_id="FOX Sacramento US" site="foxktxl.us"></channel>
+<channel update="i" xmltv_id="FOX Las Vegas US" site="foxkvvu.us"></channel>
+<channel update="i" xmltv_id="Fox Life US" site="foxlife.us"></channel>
+<channel update="i" xmltv_id="FOX Sports Midwest Kansas City US" site="foxmidwestkansascity.us"></channel>
+<channel update="i" xmltv_id="Fox News US" site="foxnews.us"></channel>
+<channel update="i" xmltv_id="Fox Soccer Plus US" site="foxsoccerplus.us"></channel>
+<channel update="i" xmltv_id="Fox Sports West US" site="foxsportswest.us"></channel>
+<channel update="i" xmltv_id="Fox Sports 1 US" site="foxsports1.us"></channel>
+<channel update="i" xmltv_id="Fox Sports 2 US" site="foxsports2.us"></channel>
+<channel update="i" xmltv_id="Fox Sports Arizona US" site="foxsportsarizona.us"></channel>
+<channel update="i" xmltv_id="FOX Sports South Carolinas US" site="foxsportscarolinas.us"></channel>
+<channel update="i" xmltv_id="Fox Sports Detroit US" site="foxsportsdetroit.us"></channel>
+<channel update="i" xmltv_id="Fox Sports Florida US" site="foxsportsflorida.us"></channel>
+<channel update="i" xmltv_id="FOX Sports Indiana US" site="foxsportsindiana.us"></channel>
+<channel update="i" xmltv_id="Fox Sports Midwest US" site="foxsportsmidwest.us"></channel>
+<channel update="i" xmltv_id="FOX Sports Midwest Indiana US" site="foxsportsmidwestindiana.us"></channel>
+<channel update="i" xmltv_id="FOX Sports Midwest St. Louis US" site="foxsportsmidweststlouis.us"></channel>
+<channel update="i" xmltv_id="FOX Sports New Orleans US" site="foxsportsneworleans.us"></channel>
+<channel update="i" xmltv_id="Fox Sports North US" site="foxsportsnorth.us"></channel>
+<channel update="i" xmltv_id="Fox Sports Cincinnati US" site="foxsportsohiocincinnati.us"></channel>
+<channel update="i" xmltv_id="Fox Sports Cleveland US" site="foxsportsohiocleveland.us"></channel>
+<channel update="i" xmltv_id="FOX Sports Oklahoma US" site="foxsportsoklahoma.us"></channel>
+<channel update="i" xmltv_id="Fox Sports Prime Ticket US" site="foxsportsprimeticket.us"></channel>
+<channel update="i" xmltv_id="Fox Sports San Diego US" site="foxsportssandiego.us"></channel>
+<channel update="i" xmltv_id="Fox Sports South US" site="foxsportssouth.us"></channel>
+<channel update="i" xmltv_id="Fox Sports Southeast US" site="foxsportssoutheast.us"></channel>
+<channel update="i" xmltv_id="FOX Sports South Nashville US" site="foxsportssouthnashville.us"></channel>
+<channel update="i" xmltv_id="Fox Sports Southwest US" site="foxsportssouthwest.us"></channel>
+<channel update="i" xmltv_id="Fox Sports Sun US" site="foxsportssun.us"></channel>
+<channel update="i" xmltv_id="Fox Sports Wisconsin US" site="foxsportswisconsin.us"></channel>
+<channel update="i" xmltv_id="FOX Atlanta US" site="foxwaga.us"></channel>
+<channel update="i" xmltv_id="FOX Baltimore US" site="foxwbff.us"></channel>
+<channel update="i" xmltv_id="FOX Milwaukee US" site="foxwiti.us"></channel>
+<channel update="i" xmltv_id="Fox 2 Detroit US" site="foxwjbk.us"></channel>
+<channel update="i" xmltv_id="FOX 8 Cleveland US" site="foxwjw.us"></channel>
+<channel update="i" xmltv_id="FOX Charlotte US" site="foxwjzy.us"></channel>
+<channel update="i" xmltv_id="FOX NY US" site="foxwnyw.us"></channel>
+<channel update="i" xmltv_id="FOX Orlando US" site="foxwofl.us"></channel>
+<channel update="i" xmltv_id="FOX Washington DC US" site="foxwttg.us"></channel>
+<channel update="i" xmltv_id="FOX Tampa Bay US" site="foxwtvt.us"></channel>
+<channel update="i" xmltv_id="Fox Philadelphia US" site="foxwtxf.us"></channel>
+<channel update="i" xmltv_id="Fox Bangor US" site="foxwvii.us"></channel>
+<channel update="i" xmltv_id="Fox New Orleans US" site="foxwvue.us"></channel>
+<channel update="i" xmltv_id="Fox Cincinnaty US" site="foxwxix.us"></channel>
+<channel update="i" xmltv_id="FOX Nashville US" site="foxwztv.us"></channel>
+<channel update="i" xmltv_id="Freeform US" site="freeform.us"></channel>
+<channel update="i" xmltv_id="Fuse US" site="fusetv.us"></channel>
+<channel update="i" xmltv_id="Fusion US" site="fusion.us"></channel>
+<channel update="i" xmltv_id="FX US" site="fx.us"></channel>
+<channel update="i" xmltv_id="FX Movie Channel US" site="fxmoviechannel.us"></channel>
+<channel update="i" xmltv_id="FXX US" site="fxx.us"></channel>
+<channel update="i" xmltv_id="FYI US" site="fyi.us"></channel>
+<channel update="i" xmltv_id="Galavision US" site="galavision.us"></channel>
+<channel update="i" xmltv_id="Game Show Network US" site="gameshownetwork.us"></channel>
+<channel update="i" xmltv_id="Gem Shopping Network US" site="gemshoppingnetwork.us"></channel>
+<channel update="i" xmltv_id="Get TV US" site="gettv.us"></channel>
+<channel update="i" xmltv_id="God\&apos;s Learning Channel US" site="godslearningchannel.us"></channel>
+<channel update="i" xmltv_id="God TV US" site="godtv.us"></channel>
+<channel update="i" xmltv_id="The Golf Channel US" site="golfchannel.us"></channel>
+<channel update="i" xmltv_id="Gol TV US" site="goltv.us"></channel>
+<channel update="i" xmltv_id="Gol TV ES US" site="goltvspanish.us"></channel>
+<channel update="i" xmltv_id="Great American Country US" site="greatamericancountry.us"></channel>
+<channel update="i" xmltv_id="Grit US" site="grit.us"></channel>
+<channel update="i" xmltv_id="Hallmark Channel US" site="hallmark.us"></channel>
+<channel update="i" xmltv_id="Hallmark Drama US" site="hallmarkdrama.us"></channel>
+<channel update="i" xmltv_id="Hallmark Movies and Mysteries US" site="hallmarkmoviesmysteries.us"></channel>
+<channel update="i" xmltv_id="HBO US" site="hbo.us"></channel>
+<channel update="i" xmltv_id="HBO 2 US" site="hbo2.us"></channel>
+<channel update="i" xmltv_id="HBO Comedy US" site="hbocomedy.us"></channel>
+<channel update="i" xmltv_id="HBO Family US" site="hbofamily.us"></channel>
+<channel update="i" xmltv_id="HBO Latino US" site="hbolatino.us"></channel>
+<channel update="i" xmltv_id="HBO Max US" site="hbomax.us"></channel>
+<channel update="i" xmltv_id="HBO Max Prime US" site="hbomaxprime.us"></channel>
+<channel update="i" xmltv_id="HBO Max Up US" site="hbomaxup.us"></channel>
+<channel update="i" xmltv_id="HBO Signature US" site="hbosignature.us"></channel>
+<channel update="i" xmltv_id="HBO Zone US" site="hbozone.us"></channel>
+<channel update="i" xmltv_id="HDNet Movies US" site="hdnetmovies.us"></channel>
+<channel update="i" xmltv_id="Heroes And Icons TV US" site="heroesandiconstv.us"></channel>
+<channel update="i" xmltv_id="HGTV US" site="hgtv.us"></channel>
+<channel update="i" xmltv_id="Hillsong US" site="hillsong.us"></channel>
+<channel update="i" xmltv_id="History Channel US" site="historychannel.us"></channel>
+<channel update="i" xmltv_id="History en Espanol US" site="historyenespanol.us"></channel>
+<channel update="i" xmltv_id="HLN US" site="hln.us"></channel>
+<channel update="i" xmltv_id="Hola TV US" site="holatv.us"></channel>
+<channel update="i" xmltv_id="Home Shopping Network US" site="homeshoppingnetwork.us"></channel>
+<channel update="i" xmltv_id="Hope Channel US" site="hopechannel.us"></channel>
+<channel update="i" xmltv_id="HSN2 US" site="hsn2.us"></channel>
+<channel update="i" xmltv_id="IMPACT US" site="impact.us"></channel>
+<channel update="i" xmltv_id="Independent Film Channel US" site="independentfilmchannel.us"></channel>
+<channel update="i" xmltv_id="IndiePlex US" site="indieplex.us"></channel>
+<channel update="i" xmltv_id="INSP US" site="insp.us"></channel>
+<channel update="i" xmltv_id="Investigation Discovery US" site="investigationdiscovery.us"></channel>
+<channel update="i" xmltv_id="ION US" site="ion.us"></channel>
+<channel update="i" xmltv_id="ION Life US" site="ionlife.us"></channel>
+<channel update="i" xmltv_id="Jewelry Television US" site="jewelrytelevision.us"></channel>
+<channel update="i" xmltv_id="Jewish Life US" site="jewishlifetv.us"></channel>
+<channel update="i" xmltv_id="Justice Central US" site="justicecentral.us"></channel>
+<channel update="i" xmltv_id="KCAL US" site="kcal.us"></channel>
+<channel update="i" xmltv_id="KCET US" site="kcet.us"></channel>
+<channel update="i" xmltv_id="KTLA US" site="ktla.us"></channel>
+<channel update="i" xmltv_id="KGBY Cozi US" site="kgbycozi.us"></channel>
+<channel update="i" xmltv_id="KUBE Houston US" site="kube.us"></channel>
+<channel update="i" xmltv_id="Laff TV US" site="lafftv.us"></channel>
+<channel update="i" xmltv_id="Lifetime Movies US" site="lifetimemovies.us"></channel>
+<channel update="i" xmltv_id="Lifetime Network US" site="lifetimenetwork.us"></channel>
+<channel update="i" xmltv_id="LMN US" site="lmn.us"></channel>
+<channel update="i" xmltv_id="LOGO US" site="logo.us"></channel>
+<channel update="i" xmltv_id="Longhorn Network US" site="thelonghonrnetwork.us"></channel>
+<channel update="i" xmltv_id="MSG US" site="madisonsquaregarden.us"></channel>
+<channel update="i" xmltv_id="MSG Plus US" site="madisonsquaregardenplus.us"></channel>
+<channel update="i" xmltv_id="MavTV US" site="mavtv.us"></channel>
+<channel update="i" xmltv_id="Mega TV US" site="megatv.us"></channel>
+<channel update="i" xmltv_id="MeTV New Jersey US" site="metvwjlp.us"></channel>
+<channel update="i" xmltv_id="Mexicanal US" site="mexicanal.us"></channel>
+<channel update="i" xmltv_id="MGM US" site="mgm.us"></channel>
+<channel update="i" xmltv_id="Military History US" site="militaryhistory.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 720 US" site="mlbextrainnings720.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 721 US" site="mlbextrainnings721.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 722 US" site="mlbextrainnings722.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 723 US" site="mlbextrainnings723.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 724 US" site="mlbextrainnings724.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 725 US" site="mlbextrainnings725.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 726 US" site="mlbextrainnings726.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 727 US" site="mlbextrainnings727.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 728 US" site="mlbextrainnings728.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 729 US" site="mlbextrainnings729.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 731 US" site="mlbextrainnings730.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 731 US" site="mlbextrainnings731.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 732 US" site="mlbextrainnings732.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 733 US" site="mlbextrainnings733.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 734 US" site="mlbextrainnings734.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 735 US" site="mlbextrainnings735.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 736 US" site="mlbextrainnings736.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 737 US" site="mlbextrainnings737.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 738 US" site="mlbextrainnings738.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 739 US" site="mlbextrainnings739.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 740 US" site="mlbextrainnings740.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 741 US" site="mlbextrainnings741.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 742 US" site="mlbextrainnings742.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 743 US" site="mlbextrainnings743.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 744 US" site="mlbextrainnings744.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 745 US" site="mlbextrainnings745.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 746 US" site="mlbextrainnings746.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 747 US" site="mlbextrainnings747.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 748 US" site="mlbextrainnings748.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 749 US" site="mlbextrainnings749.us"></channel>
+<channel update="i" xmltv_id="MLB Network US" site="mlbnetwork.us"></channel>
+<channel update="i" xmltv_id="More Max US" site="moremax.us"></channel>
+<channel update="i" xmltv_id="Motor Trend US" site="motortrend.us"></channel>
+<channel update="i" xmltv_id="MOVIEMAX US" site="moviemax.us"></channel>
+<channel update="i" xmltv_id="MoviePlex US" site="movieplex.us"></channel>
+<channel update="i" xmltv_id="MSNBC US" site="msnbc.us"></channel>
+<channel update="i" xmltv_id="MTV US" site="mtv.us"></channel>
+<channel update="i" xmltv_id="MTV2 US" site="mtv2.us"></channel>
+<channel update="i" xmltv_id="MTV Classic US" site="mtvclassic.us"></channel>
+<channel update="i" xmltv_id="MTV Live US" site="mtvlive.us"></channel>
+<channel update="i" xmltv_id="MY13 Los Angeles US" site="my13kcop.us"></channel>
+<channel update="i" xmltv_id="MY20 Houston US" site="my20ktxh.us"></channel>
+<channel update="i" xmltv_id="MY 24 Milwaukee US" site="my24wvtv.us"></channel>
+<channel update="i" xmltv_id="My38 Boston US" site="my38wsbk.us"></channel>
+<channel update="i" xmltv_id="MY65 Orlando US" site="my65wrbw.us"></channel>
+<channel update="i" xmltv_id="My9 New York US" site="my9wwor.us"></channel>
+<channel update="i" xmltv_id="NASA Channel US" site="nasachannel.us"></channel>
+<channel update="i" xmltv_id="National Geographic Wild US" site="natgeowild.us"></channel>
+<channel update="i" xmltv_id="National Geographic US" site="natgeo.us"></channel>
+<channel update="i" xmltv_id="NatGeo Mundo US" site="natgeomundo.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 1 US" site="nbaleaguepass1.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 2 US" site="nbaleaguepass2.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 3 US" site="nbaleaguepass3.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 4 US" site="nbaleaguepass4.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 5 US" site="nbaleaguepass5.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 6 US" site="nbaleaguepass6.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 7 US" site="nbaleaguepass7.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 8 US" site="nbaleaguepass8.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 9 US" site="nbaleaguepass9.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 10 US" site="nbaleaguepass10.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 750 US" site="nbaleaguepass750.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 751 US" site="nbaleaguepass751.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 752 US" site="nbaleaguepass752.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 753 US" site="nbaleaguepass753.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 754 US" site="nbaleaguepass754.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 755 US" site="nbaleaguepass755.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 756 US" site="nbaleaguepass756.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 757 US" site="nbaleaguepass757.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 758 US" site="nbaleaguepass758.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 759 US" site="nbaleaguepass759.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 760 US" site="nbaleaguepass760.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 761 US" site="nbaleaguepass761.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 762 US" site="nbaleaguepass762.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 763 US" site="nbaleaguepass763.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 764 US" site="nbaleaguepass764.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 765 US" site="nbaleaguepass765.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 766 US" site="nbaleaguepass766.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 767 US" site="nbaleaguepass767.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 768 US" site="nbaleaguepass768.us"></channel>
+<channel update="i" xmltv_id="NBA TV US" site="nbatv.us"></channel>
+<channel update="i" xmltv_id="NBC 10 Philadelphia US" site="nbc10wcau.us"></channel>
+<channel update="i" xmltv_id="NBC 15 Madison US" site="nbc15wmtv.us"></channel>
+<channel update="i" xmltv_id="NBC 2 Alaska US" site="nbc2ktuu.us"></channel>
+<channel update="i" xmltv_id="NBC 41 Kansas City US" site="nbc41kshb.us"></channel>
+<channel update="i" xmltv_id="NBC 4 LA US" site="nbc4knbc.us"></channel>
+<channel update="i" xmltv_id="NBC 4 Columbus US" site="nbc4wcmh.us"></channel>
+<channel update="i" xmltv_id="NBC 5 St. Louis US" site="nbc5ksdk.us"></channel>
+<channel update="i" xmltv_id="NBC 5 Chicago US" site="nbc5wmaq.us"></channel>
+<channel update="i" xmltv_id="NBC 6 Miami US" site="nbc6wtvj.us"></channel>
+<channel update="i" xmltv_id="NBC 9 Denver US" site="nbc9kusa.us"></channel>
+<channel update="i" xmltv_id="NBC Boston US" site="nbcwbts.us"></channel>
+<channel update="i" xmltv_id="NBC Kare 11 Minneapolis US" site="nbckare.us"></channel>
+<channel update="i" xmltv_id="NBC Sacramento US" site="nbckcra.us"></channel>
+<channel update="i" xmltv_id="CBS Honolulu US" site="nbckhnl.us"></channel>
+<channel update="i" xmltv_id="NBC Seattle US" site="nbcking.us"></channel>
+<channel update="i" xmltv_id="NBC Tulsa US" site="nbckjrh.us"></channel>
+<channel update="i" xmltv_id="NBC Grand Junction US" site="nbckkco.us"></channel>
+<channel update="i" xmltv_id="NBC San Diego US" site="nbcknsd.us"></channel>
+<channel update="i" xmltv_id="NBC Houston US" site="nbckprc.us"></channel>
+<channel update="i" xmltv_id="NBC Las Vegas US" site="nbcksnv.us"></channel>
+<channel update="i" xmltv_id="NBC Fort Worth US" site="nbckxas.us"></channel>
+<channel update="i" xmltv_id="NBCSN Washington US" site="nbcsnwashington.us"></channel>
+<channel update="i" xmltv_id="NBC Sports Bay Area US" site="nbcsportsbayarea.us"></channel>
+<channel update="i" xmltv_id="NBC Sports Boston US" site="nbcsportsboston.us"></channel>
+<channel update="i" xmltv_id="NBC Sports California US" site="nbcsportscalifornia.us"></channel>
+<channel update="i" xmltv_id="NBC Sports Chicago US" site="nbcsportschicago.us"></channel>
+<channel update="i" xmltv_id="NBC Sports Chicago Plus US" site="nbcsportschicagoplus.us"></channel>
+<channel update="i" xmltv_id="NBC Sports Network US" site="nbcsportsnetwork.us"></channel>
+<channel update="i" xmltv_id="NBC Sports Northwest US" site="nbcsportsnorthwest.us"></channel>
+<channel update="i" xmltv_id="NBC Sports Philadelphia US" site="nbcsportsphiladelphia.us"></channel>
+<channel update="i" xmltv_id="NBC Sports Philadelphia Plus US" site="nbcsportsphiladelphiaplus.us"></channel>
+<channel update="i" xmltv_id="NBC Universo US" site="nbcuniverso.us"></channel>
+<channel update="i" xmltv_id="Wave 3 Louisville US" site="nbcwave.us"></channel>
+<channel update="i" xmltv_id="NBC Baltimore US" site="nbcwbal.us"></channel>
+<channel update="i" xmltv_id="NBC Charlotte US" site="nbcwcnc.us"></channel>
+<channel update="i" xmltv_id="NBC Portland US" site="nbcwcsh.us"></channel>
+<channel update="i" xmltv_id="NBC Detroit US" site="nbcwdiv.us"></channel>
+<channel update="i" xmltv_id="NBC New Orleans US" site="nbcwdsu.us"></channel>
+<channel update="i" xmltv_id="ABC Eau Claire US" site="nbcweau.us"></channel>
+<channel update="i" xmltv_id="NBC Orlando US" site="nbcwesh.us"></channel>
+<channel update="i" xmltv_id="NBC Tampa Bay US" site="nbcwfla.us"></channel>
+<channel update="i" xmltv_id="NBC Zanesville US" site="nbcwhiz.us"></channel>
+<channel update="i" xmltv_id="NBC Wausau US" site="nbcwjfw.us"></channel>
+<channel update="i" xmltv_id="NBC Cleveland US" site="nbcwkyc.us"></channel>
+<channel update="i" xmltv_id="NBC Lima US" site="nbcwlio.us"></channel>
+<channel update="i" xmltv_id="NBC Marquette US" site="nbcwluc.us"></channel>
+<channel update="i" xmltv_id="NBC NY US" site="nbcwnbc.us"></channel>
+<channel update="i" xmltv_id="NBC San Antonio US" site="nbcwoai.us"></channel>
+<channel update="i" xmltv_id="NBC Plattsburg US" site="nbcwptz.us"></channel>
+<channel update="i" xmltv_id="NBC Washington DC US" site="nbcwrc.us"></channel>
+<channel update="i" xmltv_id="NBC Huntington US" site="nbcwsaz.us"></channel>
+<channel update="i" xmltv_id="NBC Nashville US" site="nbcwsmw.us"></channel>
+<channel update="i" xmltv_id="NBC Milwaukee US" site="nbcwtmj.us"></channel>
+<channel update="i" xmltv_id="NBC Atlanta US" site="nbcwxia.us"></channel>
+<channel update="i" xmltv_id="NECN US" site="newenglandcablenews.us"></channel>
+<channel update="i" xmltv_id="New England Sports Network US" site="newenglandsportsnetwork.us"></channel>
+<channel update="i" xmltv_id="NESN+ US" site="newenglandsportsnetworkplus.us"></channel>
+<channel update="i" xmltv_id="Newsmax US" site="newsmax.us"></channel>
+<channel update="i" xmltv_id="Newsy US" site="newsy.us"></channel>
+<channel update="i" xmltv_id="NFL Fantasy Zone US" site="nflfantasyzone.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket Mix 1 US" site="nflsundaymixchannel.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket Mix 2 US" site="nfl2sundaymixchannel.us"></channel>
+<channel update="i" xmltv_id="NFL Network US" site="nflnetwork.us"></channel>
+<channel update="i" xmltv_id="NFL Red Zone US" site="nflredzone.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 705 US" site="nflsundayticket705.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 706 US" site="nflsundayticket706.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 707 US" site="nflsundayticket707.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 708 US" site="nflsundayticket708.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 709 US" site="nflsundayticket709.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 710 US" site="nflsundayticket710.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 711 US" site="nflsundayticket711.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 712 US" site="nflsundayticket712.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 713 US" site="nflsundayticket713.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 714 US" site="nflsundayticket714.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 715 US" site="nflsundayticket715.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 716 US" site="nflsundayticket716.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 717 US" site="nflsundayticket717.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 718 US" site="nflsundayticket718.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 719 US" site="nflsundayticket719.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 1 US" site="nhlcenterice1.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 2 US" site="nhlcenterice2.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 3 US" site="nhlcenterice3.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 4 US" site="nhlcenterice4.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 5 US" site="nhlcenterice5.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 6 US" site="nhlcenterice6.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 7 US" site="nhlcenterice7.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 8 US" site="nhlcenterice8.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 9 US" site="nhlcenterice9.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 10 US" site="nhlcenterice10.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 11 US" site="nhlcenterice11.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 12 US" site="nhlcenterice12.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 13 US" site="nhlcenterice13.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 14 US" site="nhlcenterice14.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 769 US" site="nhlcenterice769.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 770 US" site="nhlcenterice770.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 771 US" site="nhlcenterice771.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 772 US" site="nhlcenterice772.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 773 US" site="nhlcenterice773.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 774 US" site="nhlcenterice774.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 775 US" site="nhlcenterice775.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 776 US" site="nhlcenterice776.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 777 US" site="nhlcenterice777.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 778 US" site="nhlcenterice778.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 779 US" site="nhlcenterice779.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 780 US" site="nhlcenterice780.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 781 US" site="nhlcenterice781.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 782 US" site="nhlcenterice782.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 783 US" site="nhlcenterice783.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 784 US" site="nhlcenterice784.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 785 US" site="nhlcenterice785.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 786 US" site="nhlcenterice786.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 787 US" site="nhlcenterice787.us"></channel>
+<channel update="i" xmltv_id="NHL Network US" site="nhlnetwork.us"></channel>
+<channel update="i" xmltv_id="Nickelodeon US" site="nickelodeon.us"></channel>
+<channel update="i" xmltv_id="Nick Jr. US" site="nickjr.us"></channel>
+<channel update="i" xmltv_id="Nicktoons US" site="nicktoons.us"></channel>
+<channel update="i" xmltv_id="NickMusic US" site="nickmusic.us"></channel>
+<channel update="i" xmltv_id="NYC Life US" site="nyclifewnye.us"></channel>
+<channel update="i" xmltv_id="Olympic Channel US" site="olympicchannel.us"></channel>
+<channel update="i" xmltv_id="One America News US" site="oneamericanews.us"></channel>
+<channel update="i" xmltv_id="The Oprah Winfrey Network US" site="oprahwinfreynetwork.us"></channel>
+<channel update="i" xmltv_id="Outdoor Channel US" site="outdoorchannel.us"></channel>
+<channel update="i" xmltv_id="Outer Max US" site="outermax.us"></channel>
+<channel update="i" xmltv_id="OutsideTV US" site="outsidetv.us"></channel>
+<channel update="i" xmltv_id="Ovation US" site="ovation.us"></channel>
+<channel update="i" xmltv_id="Oxygen US" site="oxygen.us"></channel>
+<channel update="i" xmltv_id="PAC-12 Bay Area US" site="pac12bayarea.us"></channel>
+<channel update="i" xmltv_id="PAC-12 Los Angeles US" site="pac12losangeles.us"></channel>
+<channel update="i" xmltv_id="PAC-12 Mountain US" site="pac12mountain.us"></channel>
+<channel update="i" xmltv_id="Pac-12 Network US" site="pac12network.us"></channel>
+<channel update="i" xmltv_id="PAC-12 Oregon US" site="pac12oregon.us"></channel>
+<channel update="i" xmltv_id="PAC-12 Washington US" site="pac12washington.us"></channel>
+<channel update="i" xmltv_id="Paramount Network US" site="paramountnetwork.us"></channel>
+<channel update="i" xmltv_id="Pasiones US" site="pasiones.us"></channel>
+<channel update="i" xmltv_id="PBS Boston US" site="pbswgbh.us"></channel>
+<channel update="i" xmltv_id="PBS Denver US" site="pbskbdi.us"></channel>
+<channel update="i" xmltv_id="PBS Seattle US" site="pbskcts.us"></channel>
+<channel update="i" xmltv_id="PBS Kids US" site="pbskids.us"></channel>
+<channel update="i" xmltv_id="PBS Las Vegas US" site="pbsklvx.us"></channel>
+<channel update="i" xmltv_id="PBS New Jersey US" site="pbsnjtv.us"></channel>
+<channel update="i" xmltv_id="PBS Thirteen US" site="pbsthirteen.us"></channel>
+<channel update="i" xmltv_id="PBS Vermont US" site="pbsvermontvpbs.us"></channel>
+<channel update="i" xmltv_id="PBS Vermont Plus US" site="pbsvpbsdt2.us"></channel>
+<channel update="i" xmltv_id="PBS Vermont US" site="pbswetk.us"></channel>
+<channel update="i" xmltv_id="PBS SW Florida US" site="pbswgcu.us"></channel>
+<channel update="i" xmltv_id="PBS Miamo FL US" site="pbswlrn.us"></channel>
+<channel update="i" xmltv_id="PBS Atlanta US" site="pbswgtv.us"></channel>
+<channel update="i" xmltv_id="PBS 21 Garden City US" site="pbswliw21.us"></channel>
+<channel update="i" xmltv_id="PBS South Florida US" site="pbswpbt.us"></channel>
+<channel update="i" xmltv_id="PBS Pennsylvania US" site="pbswpsu.us"></channel>
+<channel update="i" xmltv_id="PBS Chicago US" site="pbswttw.us"></channel>
+<channel update="i" xmltv_id="Playboy US" site="playboy.us"></channel>
+<channel update="i" xmltv_id="Playboy 2 US" site="playboy2.us"></channel>
+<channel update="i" xmltv_id="PopTV US" site="poptv.us"></channel>
+<channel update="i" xmltv_id="Premier League Extra Time 1 US" site="premierleagueextra1.us"></channel>
+<channel update="i" xmltv_id="Premier League Extra Time 2 US" site="premierleagueextra2.us"></channel>
+<channel update="i" xmltv_id="Premier League Extra Time 3 US" site="premierleagueextra3.us"></channel>
+<channel update="i" xmltv_id="Premier League Extra Time 4 US" site="premierleagueextra4.us"></channel>
+<channel update="i" xmltv_id="Premier League Extra Time 5 US" site="premierleagueextra5.us"></channel>
+<channel update="i" xmltv_id="Pursuit Channel US" site="pursuitchannel.us"></channel>
+<channel update="i" xmltv_id="QVC US" site="qvc.us"></channel>
+<channel update="i" xmltv_id="QVC Plus US" site="qvcplus.us"></channel>
+<channel update="i" xmltv_id="Reelz Channel US" site="reelzchannel.us"></channel>
+<channel update="i" xmltv_id="RetroPlex US" site="retroplex.us"></channel>
+<channel update="i" xmltv_id="Retro TV US" site="retrotv.us"></channel>
+<channel update="i" xmltv_id="Revn US" site="revn.us"></channel>
+<channel update="i" xmltv_id="RFD TV US" site="rfdtv.us"></channel>
+<channel update="i" xmltv_id="SEC Network US" site="secnetwork.us"></channel>
+<channel update="i" xmltv_id="Seven News Miami US" site="sevennewswsvn.us"></channel>
+<channel update="i" xmltv_id="Showtime US" site="showtime.us"></channel>
+<channel update="i" xmltv_id="Showtime 2 US" site="showtime2.us"></channel>
+<channel update="i" xmltv_id="Showtime Showcase US" site="showtimeshowcase.us"></channel>
+<channel update="i" xmltv_id="Showtime Extreme US" site="showtimeextreme.us"></channel>
+<channel update="i" xmltv_id="Showtime Beyond US" site="showtimebeyond.us"></channel>
+<channel update="i" xmltv_id="Showtime Next US" site="showtimenext.us"></channel>
+<channel update="i" xmltv_id="Showtime Women US" site="showtimewomen.us"></channel>
+<channel update="i" xmltv_id="Showtime Family Zone US" site="rshowtimefamilyzone.us"></channel>
+<channel update="i" xmltv_id="Smithsonian Channel US" site="smithsonianchannel.us"></channel>
+<channel update="i" xmltv_id="SonLife Network US" site="sonlifenetwork.us"></channel>
+<channel update="i" xmltv_id="Sony US" site="sony.us"></channel>
+<channel update="i" xmltv_id="Spectrum Deportes US" site="spectrumdeportes.us"></channel>
+<channel update="i" xmltv_id="Spectrum SportsNet US" site="spectrumsportsnet.us"></channel>
+<channel update="i" xmltv_id="Spectrum SportsNet LA US" site="spectrumsportsnetla.us"></channel>
+<channel update="i" xmltv_id="Sportsman Channel US" site="sportsmanchannel.us"></channel>
+<channel update="i" xmltv_id="SportsNet New York US" site="sportsnetnewyork.us"></channel>
+<channel update="i" xmltv_id="SportsTime Ohio US" site="sportstimeohio.us"></channel>
+<channel update="i" xmltv_id="Sprout US" site="sprout.us"></channel>
+<channel update="i" xmltv_id="Starz US" site="starz.us"></channel>
+<channel update="i" xmltv_id="Starz Cinema US" site="starzcinema.us"></channel>
+<channel update="i" xmltv_id="Starz Comedy US" site="starzcomedy.us"></channel>
+<channel update="i" xmltv_id="Starz Edge US" site="starzedge.us"></channel>
+<channel update="i" xmltv_id="Starz Encore US" site="starzencore.us"></channel>
+<channel update="i" xmltv_id="Starz Encore Action US" site="starzencoreaction.us"></channel>
+<channel update="i" xmltv_id="Starz Encore Black US" site="starzencoreblack.us"></channel>
+<channel update="i" xmltv_id="Starz Encore Classics US" site="starzencoreclassics.us"></channel>
+<channel update="i" xmltv_id="Starz Encore Family US" site="starzencorefamily.us"></channel>
+<channel update="i" xmltv_id="Starz Encore Suspense US" site="starzencoresuspense.us"></channel>
+<channel update="i" xmltv_id="Starz Encore Westerns US" site="starzencorewesterns.us"></channel>
+<channel update="i" xmltv_id="Starz In Black US" site="starzinblack.us"></channel>
+<channel update="i" xmltv_id="Starz Kids &amp; Family US" site="starzkidsfamily.us"></channel>
+<channel update="i" xmltv_id="Starz West US" site="starzwest.us"></channel>
+<channel update="i" xmltv_id="SundanceTV US" site="sundancetv.us"></channel>
+<channel update="i" xmltv_id="Syfy US" site="syfy.us"></channel>
+<channel update="i" xmltv_id="TBD TV US" site="tbdtv.us"></channel>
+<channel update="i" xmltv_id="TBS US" site="tbs.us"></channel>
+<channel update="i" xmltv_id="The Country Network US" site="tcnksaodt7.us"></channel>
+<channel update="i" xmltv_id="TeenNick US" site="teennick.us"></channel>
+<channel update="i" xmltv_id="Telemundo US" site="telemundo.us"></channel>
+<channel update="i" xmltv_id="Telemundo 51 US" site="telemundo51wscv.us"></channel>
+<channel update="i" xmltv_id="Telemundo San Antonio US" site="telemundokvda.us"></channel>
+<channel update="i" xmltv_id="Telemundo 52 L.A. US" site="telemundokvea.us"></channel>
+<channel update="i" xmltv_id="Tennis Channel US" site="tennischannel.us"></channel>
+<channel update="i" xmltv_id="Cowboy Channel US" site="thecowboychannel.us"></channel>
+<channel update="i" xmltv_id="The Word Network US" site="thewordnetwork.us"></channel>
+<channel update="i" xmltv_id="ThrillerMAX US" site="thrillermax.us"></channel>
+<channel update="i" xmltv_id="TLC US" site="tlc.us"></channel>
+<channel update="i" xmltv_id="The Movie Channel US" site="tmc.us"></channel>
+<channel update="i" xmltv_id="The Movie Channel Xtra US" site="tmcxtra.us"></channel>
+<channel update="i" xmltv_id="TNT US" site="tnt.us"></channel>
+<channel update="i" xmltv_id="Travel Channel US" site="travelchannel.us"></channel>
+<channel update="i" xmltv_id="Trinity Broadcasting Network US" site="trinitybroadcastingnetwork.us"></channel>
+<channel update="i" xmltv_id="truTV US" site="trutv.us"></channel>
+<channel update="i" xmltv_id="Turner Classic Movies US" site="turnerclassicmovies.us"></channel>
+<channel update="i" xmltv_id="TV5 Monde US" site="tv5monde.us"></channel>
+<channel update="i" xmltv_id="TVG US" site="tvg.us"></channel>
+<channel update="i" xmltv_id="TVG 2 US" site="tvg2.us"></channel>
+<channel update="i" xmltv_id="TV Land US" site="tvlandeast.us"></channel>
+<channel update="i" xmltv_id="TV Land West US" site="tvlandwest.us"></channel>
+<channel update="i" xmltv_id="TV One US" site="tvone.us"></channel>
+<channel update="i" xmltv_id="UniMas US" site="unimas.us"></channel>
+<channel update="i" xmltv_id="Universal Kids US" site="universalkids.us"></channel>
+<channel update="i" xmltv_id="UnivisiÃ³n Network US" site="univision.us"></channel>
+<channel update="i" xmltv_id="Univision 23 Miami US" site="univision23wltv.us"></channel>
+<channel update="i" xmltv_id="Univision Deportes US" site="univisiondeportes.us"></channel>
+<channel update="i" xmltv_id="Univision San Antonio US" site="univisionkwex.us"></channel>
+<channel update="i" xmltv_id="Univision Puerto Rico US" site="univisionwlii.us"></channel>
+<channel update="i" xmltv_id="Uplifting Entertainment US" site="upliftingentertainment.us"></channel>
+<channel update="i" xmltv_id="USA Network US" site="usanetwork.us"></channel>
+<channel update="i" xmltv_id="US Armenia US" site="usarmenia.us"></channel>
+<channel update="i" xmltv_id="Valu TV US" site="valutv.us"></channel>
+<channel update="i" xmltv_id="VH1 US" site="vh1.us"></channel>
+<channel update="i" xmltv_id="Viceland US" site="viceland.us"></channel>
+<channel update="i" xmltv_id="V-Me Television US" site="vmetelevision.us"></channel>
+<channel update="i" xmltv_id="WAPA 2 Deportes US" site="wapa2deportes.us"></channel>
+<channel update="i" xmltv_id="Wapa AmÃ©rica US" site="wapaamerica.us"></channel>
+<channel update="i" xmltv_id="WAPA US" site="wapatv.us"></channel>
+<channel update="i" xmltv_id="WCIU The U Chicago US" site="wciu.us"></channel>
+<channel update="i" xmltv_id="Weather Channel US" site="weatherchannel.us"></channel>
+<channel update="i" xmltv_id="Weather Nation US" site="weathernation.us"></channel>
+<channel update="i" xmltv_id="We TV US" site="wetv.us"></channel>
+<channel update="i" xmltv_id="WGN9 Chicago US" site="wgn9chicago.us"></channel>
+<channel update="i" xmltv_id="WGN America US" site="wgnamerica.us"></channel>
+<channel update="i" xmltv_id="Willow Cricket US" site="willowcricket.us"></channel>
+<channel update="i" xmltv_id="Women\&apos;s Entertainment US" site="womensentertainment.us"></channel>
+<channel update="i" xmltv_id="WLNY TV10/55 US" site="wlnytv1055.us"></channel>
+<channel update="i" xmltv_id="WMEU The U Too Chicago US" site="wmeuchicago.us"></channel>
+<channel update="i" xmltv_id="CW 23 US" site="wnlo.us"></channel>
+<channel update="i" xmltv_id="WFN US" site="worldfishingnetwork.us"></channel>
+<channel update="i" xmltv_id="Pix 11 US" site="wpix.us"></channel>
+<channel update="i" xmltv_id="WWE US" site="wwe.us"></channel>
+<channel update="i" xmltv_id="YES Network US" site="yesnetwork.us"></channel>
+<channel update="i" xmltv_id="5 Star Max US" site="5starmax.us"></channel>
+<channel update="i" xmltv_id="A&amp;E US" site="aande.us"></channel>
+<channel update="i" xmltv_id="ABC 10 Miami US" site="abc10wplg.us"></channel>
+<channel update="i" xmltv_id="ABC 11 Louisville US" site="abc11whas.us"></channel>
+<channel update="i" xmltv_id="ABC 13 Houston US" site="abc13ktrktv.us"></channel>
+<channel update="i" xmltv_id="ABC 13 Alaska US" site="abc13kyur.us"></channel>
+<channel update="i" xmltv_id="ABC Tampa Bay US" site="abc28wfts.us"></channel>
+<channel update="i" xmltv_id="ABC 5 Puerto Rico US" site="abc5wora.us"></channel>
+<channel update="i" xmltv_id="ABC 7 LA US" site="abc7kabctv.us"></channel>
+<channel update="i" xmltv_id="ABC 7 Denver US" site="abc7kmghtv.us"></channel>
+<channel update="i" xmltv_id="ABC 7 Chicago US" site="abc7wlstv.us"></channel>
+<channel update="i" xmltv_id="ABC 7 Detroit US" site="abc7wxyz.us"></channel>
+<channel update="i" xmltv_id="ABC 8 Dallas US" site="abc8wfaa.us"></channel>
+<channel update="i" xmltv_id="ABC 9 Kansas City US" site="abc9kmbc.us"></channel>
+<channel update="i" xmltv_id="ABC San Francisco US" site="abckgo.us"></channel>
+<channel update="i" xmltv_id="ABC San Diego US" site="abckgtv.us"></channel>
+<channel update="i" xmltv_id="ABC Honolulu US" site="abckitv.us"></channel>
+<channel update="i" xmltv_id="ABC Grand Junction US" site="abckjct.us"></channel>
+<channel update="i" xmltv_id="ABC Seattle US" site="abckomo.us"></channel>
+<channel update="i" xmltv_id="ABC San Antonio US" site="abcksat.us"></channel>
+<channel update="i" xmltv_id="ABC Minneapolis US" site="abckstp.us"></channel>
+<channel update="i" xmltv_id="ABC Las Vegas US" site="abcktnv.us"></channel>
+<channel update="i" xmltv_id="ABC Sacramento US" site="abckxtv.us"></channel>
+<channel update="i" xmltv_id="ABC NY US" site="abcwabc.us"></channel>
+<channel update="i" xmltv_id="ABC Green Bay US" site="abcwbay.us"></channel>
+<channel update="i" xmltv_id="ABC Bowling Green US" site="abcwbko.us"></channel>
+<channel update="i" xmltv_id="ABC Baton Rouge US" site="abcwbrz.us"></channel>
+<channel update="i" xmltv_id="ABC Cincinatti US" site="abcwcpo.us"></channel>
+<channel update="i" xmltv_id="ABC Boston US" site="abcwcvb.us"></channel>
+<channel update="i" xmltv_id="ABC Cleveland US" site="abcwews.us"></channel>
+<channel update="i" xmltv_id="ABC Orlando US" site="abcwftv.us"></channel>
+<channel update="i" xmltv_id="ABC Milwaukee US" site="abcwisn.us"></channel>
+<channel update="i" xmltv_id="ABC Washington DC US" site="abcwjla.us"></channel>
+<channel update="i" xmltv_id="ABC Nashville US" site="abcwkrn.us"></channel>
+<channel update="i" xmltv_id="ABC Baltimore US" site="abcwmar.us"></channel>
+<channel update="i" xmltv_id="ABC Auburn US" site="abcwmtw.us"></channel>
+<channel update="i" xmltv_id="ABC Philadelphia US" site="abcwpvi.us"></channel>
+<channel update="i" xmltv_id="ABC Atlanta US" site="abcwsb.us"></channel>
+<channel update="i" xmltv_id="ABC Charlotte US" site="abcwsoc.us"></channel>
+<channel update="i" xmltv_id="ABC Columbus US" site="abcwsyx.us"></channel>
+<channel update="i" xmltv_id="ABC Toledo US" site="abcwtvg.us"></channel>
+<channel update="i" xmltv_id="ABC 7 Sarasota US" site="abcwwsb.us"></channel>
+<channel update="i" xmltv_id="Action Max US" site="actionmax.us"></channel>
+<channel update="i" xmltv_id="Adult Swim US" site="adultswim.us"></channel>
+<channel update="i" xmltv_id="ALTPBA Atlanta US" site="altpbawpba.us"></channel>
+<channel update="i" xmltv_id="AMC US" site="amc.us"></channel>
+<channel update="i" xmltv_id="American Heroes Channel US" site="americanheroeschannel.us"></channel>
+<channel update="i" xmltv_id="AMG TV US" site="amgtv.us"></channel>
+<channel update="i" xmltv_id="Animal Planet US" site="animalplanet.us"></channel>
+<channel update="i" xmltv_id="AntennaTV US" site="antennatv.us"></channel>
+<channel update="i" xmltv_id="AXS UK" site="axstv.us"></channel>
+<channel update="i" xmltv_id="Azteca US" site="azteca.us"></channel>
+<channel update="i" xmltv_id="Baby First US" site="babyfirsttv.us"></channel>
+<channel update="i" xmltv_id="Bandamax US" site="bandamax.us"></channel>
+<channel update="i" xmltv_id="BBC America US" site="bbcamerica.us"></channel>
+<channel update="i" xmltv_id="Beauty IQ US" site="beautyiq.us"></channel>
+<channel update="i" xmltv_id="beIN Sport en Espanol US" site="beinsportespanol.us"></channel>
+<channel update="i" xmltv_id="beIN Sports US" site="beinsports.us"></channel>
+<channel update="i" xmltv_id="beIN Sports 2 US" site="beinsports2.us"></channel>
+<channel update="i" xmltv_id="beIN Sports 3 US" site="beinsports3.us"></channel>
+<channel update="i" xmltv_id="beIN Sports 4 US" site="beinsports4.us"></channel>
+<channel update="i" xmltv_id="beIN Sports 5 US" site="beinsports5.us"></channel>
+<channel update="i" xmltv_id="beIN Sports 6 US" site="beinsports6.us"></channel>
+<channel update="i" xmltv_id="beIN Sports 7 US" site="beinsports7.us"></channel>
+<channel update="i" xmltv_id="beIN Sports 8 US" site="beinsports8.us"></channel>
+<channel update="i" xmltv_id="beIN Sports 9 US" site="beinsports9.us"></channel>
+<channel update="i" xmltv_id="beIN Sports 10 US" site="beinsports10.us"></channel>
+<channel update="i" xmltv_id="BET US" site="bet.us"></channel>
+<channel update="i" xmltv_id="BET Her US" site="bether.us"></channel>
+<channel update="i" xmltv_id="BET Jams US" site="betjams.us"></channel>
+<channel update="i" xmltv_id="Big Ten Network US" site="bigtennetwork.us"></channel>
+<channel update="i" xmltv_id="Blaze TV US" site="blazetv.us"></channel>
+<channel update="i" xmltv_id="Bloomberg TV US" site="bloombergtv.us"></channel>
+<channel update="i" xmltv_id="Boomerang US" site="boomerang.us"></channel>
+<channel update="i" xmltv_id="Bounce TV US" site="bouncetv.us"></channel>
+<channel update="i" xmltv_id="Bravo US" site="bravo.us"></channel>
+<channel update="i" xmltv_id="KBYU Brigham Young University US" site="brighamyounguniversity.us"></channel>
+<channel update="i" xmltv_id="Buzzer TV US" site="buzzertv.us"></channel>
+<channel update="i" xmltv_id="Cartoon Network US" site="cartoonnetwork.us"></channel>
+<channel update="i" xmltv_id="Catholic TV US" site="catholictv.us"></channel>
+<channel update="i" xmltv_id="CBS 11 Alaska US" site="cbs11ktva.us"></channel>
+<channel update="i" xmltv_id="CBS 11 Toledo US" site="cbs11wtol.us"></channel>
+<channel update="i" xmltv_id="CBS 17 Carolina US" site="cbs17wncn.us"></channel>
+<channel update="i" xmltv_id="CBS 21 Central PA US" site="cbs21whp.us"></channel>
+<channel update="i" xmltv_id="CBS 2 Pittsburgh US" site="cbs2kdka.us"></channel>
+<channel update="i" xmltv_id="CBS 32 Louisville US" site="cbs32wlky.us"></channel>
+<channel update="i" xmltv_id="CBS 3 Madison US" site="cbs3wisc.us"></channel>
+<channel update="i" xmltv_id="CBS 46 Atlanta US" site="cbs46wgcltv.us"></channel>
+<channel update="i" xmltv_id="CBS 4 Denver US" site="cbs4kcnctv.us"></channel>
+<channel update="i" xmltv_id="CBS 4 New Orleans US" site="cbs4wwl.us"></channel>
+<channel update="i" xmltv_id="CBS 5 Kansas City US" site="cbs5kctv.us"></channel>
+<channel update="i" xmltv_id="CBS 62 Detroit US" site="cbs62wwjtv.us"></channel>
+<channel update="i" xmltv_id="CBS 7 Dayton US" site="cbs7whio.us"></channel>
+<channel update="i" xmltv_id="CBS LA US" site="cbskcbs.us"></channel>
+<channel update="i" xmltv_id="CBS San Diego US" site="cbskfmb.us"></channel>
+<channel update="i" xmltv_id="CBS Honolulu US" site="cbskgmb.us"></channel>
+<channel update="i" xmltv_id="CBS Houston US" site="cbskhou.us"></channel>
+<channel update="i" xmltv_id="CBS Seattle US" site="cbskiro.us"></channel>
+<channel update="i" xmltv_id="CBS Las Vegas US" site="cbsklas.us"></channel>
+<channel update="i" xmltv_id="CBS Tulsa US" site="cbskotv.us"></channel>
+<channel update="i" xmltv_id="CBS Sacramento US" site="cbskovr.us"></channel>
+<channel update="i" xmltv_id="CBS 5 Phoenix US" site="cbskpho.us"></channel>
+<channel update="i" xmltv_id="CBS Grand Junction US" site="cbskrex.us"></channel>
+<channel update="i" xmltv_id="CBS Philadelphia US" site="cbskyw.us"></channel>
+<channel update="i" xmltv_id="CBS Sports Network US" site="cbssportsnetwork.us"></channel>
+<channel update="i" xmltv_id="CBS Bangor US" site="cbswabi.us"></channel>
+<channel update="i" xmltv_id="CBS Baton Rouge US" site="cbswafb.us"></channel>
+<channel update="i" xmltv_id="CBS Chicago US" site="cbswbbmtv.us"></channel>
+<channel update="i" xmltv_id="CBS Columbus US" site="cbswbns.us"></channel>
+<channel update="i" xmltv_id="CBS Charlotte US" site="cbswbtv.us"></channel>
+<channel update="i" xmltv_id="CBS Boston US" site="cbswbz.us"></channel>
+<channel update="i" xmltv_id="CBS NY US" site="cbswcbs.us"></channel>
+<channel update="i" xmltv_id="CBS Minneapolis US" site="cbswcco.us"></channel>
+<channel update="i" xmltv_id="CBS Milwaukee US" site="cbswdjt.us"></channel>
+<channel update="i" xmltv_id="CBS Miami US" site="cbswfor.us"></channel>
+<channel update="i" xmltv_id="CBS Portland US" site="cbswgme.us"></channel>
+<channel update="i" xmltv_id="CBS Wink News US" site="cbswinknews.us"></channel>
+<channel update="i" xmltv_id="CBS Baltimore US" site="cbswjz.us"></channel>
+<channel update="i" xmltv_id="CBS Orlando US" site="cbswkmg.us"></channel>
+<channel update="i" xmltv_id="CBS Lexington US" site="cbswkyt.us"></channel>
+<channel update="i" xmltv_id="CBS Cleveland US" site="cbswoio.us"></channel>
+<channel update="i" xmltv_id="CBS Wausau US" site="cbswsaw.us"></channel>
+<channel update="i" xmltv_id="CBS Tampa Bay US" site="cbswtsp.us"></channel>
+<channel update="i" xmltv_id="CBS Nashville US" site="cbswtvf.us"></channel>
+<channel update="i" xmltv_id="CBS Washington DC US" site="cbswusa.us"></channel>
+<channel update="i" xmltv_id="CBS Hazard US" site="cbswymt.us"></channel>
+<channel update="i" xmltv_id="Cine Latino US" site="cinelatino.us"></channel>
+<channel update="i" xmltv_id="Cinema Screening Room US" site="cinemascreeningroom.us"></channel>
+<channel update="i" xmltv_id="Cinema Screening Room 100 US" site="cinemascreeningroom100.us"></channel>
+<channel update="i" xmltv_id="Cinema Screening Room 200 US" site="cinemascreeningroom200.us"></channel>
+<channel update="i" xmltv_id="Cinema Screening Room 201 US" site="cinemascreeningroom201.us"></channel>
+<channel update="i" xmltv_id="Cinemax US" site="cinemax.us"></channel>
+<channel update="i" xmltv_id="Cine Sony US" site="cinesony.us"></channel>
+<channel update="i" xmltv_id="CMT US" site="cmt.us"></channel>
+<channel update="i" xmltv_id="CNBC US" site="cnbc.us"></channel>
+<channel update="i" xmltv_id="CNBC World US" site="cnbcworld.us"></channel>
+<channel update="i" xmltv_id="CNN US" site="cnn.us"></channel>
+<channel update="i" xmltv_id="CNN Espanol US" site="cnnespanol.us"></channel>
+<channel update="i" xmltv_id="Comcast Sportsnet US" site="comcastsportsnet.us"></channel>
+<channel update="i" xmltv_id="Comcast SportsNet Bay Area US" site="comcastsportsnetbayarea.us"></channel>
+<channel update="i" xmltv_id="Comcast SportsNet California US" site="comcastsportsnetcaliforniaplus.us"></channel>
+<channel update="i" xmltv_id="Comcast SportsNet Chicago US" site="comcastsportsnetchicago.us"></channel>
+<channel update="i" xmltv_id="Comcast Sportsnet New England US" site="comcastsportsnetnewengland.us"></channel>
+<channel update="i" xmltv_id="Comcast SportsNet Philadelphia" site="comcastsportsnetphiladelphia.us"></channel>
+<channel update="i" xmltv_id="Comedy Central US" site="comedycentral.us"></channel>
+<channel update="i" xmltv_id="ComedyTV US" site="comedytv.us"></channel>
+<channel update="i" xmltv_id="Comet US" site="comet.us"></channel>
+<channel update="i" xmltv_id="Cooking Channel US" site="cookingchannel.us"></channel>
+<channel update="i" xmltv_id="Cornerstone Television US" site="cornerstonetelevision.us"></channel>
+<channel update="i" xmltv_id="Cozi TV US" site="cozitv.us"></channel>
+<channel update="i" xmltv_id="CreateTV US" site="createtv.us"></channel>
+<channel update="i" xmltv_id="Crime and Investigation US" site="crimeinvestigation.us"></channel>
+<channel update="i" xmltv_id="CSPAN US" site="cspan.us"></channel>
+<channel update="i" xmltv_id="CSPAN 2 US" site="cspan2.us"></channel>
+<channel update="i" xmltv_id="CSPAN 3 US" site="cspan3.us"></channel>
+<channel update="i" xmltv_id="CW US" site="cw.us"></channel>
+<channel update="i" xmltv_id="CW50 Chicago US" site="cw50wpwr.us"></channel>
+<channel update="i" xmltv_id="CW 57 Philadelphia US" site="cw57wpsg.us"></channel>
+<channel update="i" xmltv_id="CW Central PA US" site="cwcentralpawhp.us"></channel>
+<channel update="i" xmltv_id="CW Sacramento US" site="cwkmax.us"></channel>
+<channel update="i" xmltv_id="CW Las Vegas US" site="cwkvcw.us"></channel>
+<channel update="i" xmltv_id="CW Baltimore US" site="cwwnuv.us"></channel>
+<channel update="i" xmltv_id="Daystar US" site="daystar.us"></channel>
+<channel update="i" xmltv_id="Decades US" site="decades.us"></channel>
+<channel update="i" xmltv_id="Destination America US" site="destinationamerica.us"></channel>
+<channel update="i" xmltv_id="Discovery Channel US" site="discoverychannel.us"></channel>
+<channel update="i" xmltv_id="Discovery en Espanol US" site="discoveryespanol.us"></channel>
+<channel update="i" xmltv_id="Discovery Family Channel US" site="discoveryfamily.us"></channel>
+<channel update="i" xmltv_id="Discovery Life US" site="discoverylife.us"></channel>
+<channel update="i" xmltv_id="Discovery Science US" site="discoveryscience.us"></channel>
+<channel update="i" xmltv_id="Disney US" site="disneychannel.us"></channel>
+<channel update="i" xmltv_id="Disney Junior US" site="disneyjunior.us"></channel>
+<channel update="i" xmltv_id="Disney XD US" site="disneyxd.us"></channel>
+<channel update="i" xmltv_id="Do it Yourself Network US" site="doityourselfnetwork.us"></channel>
+<channel update="i" xmltv_id="Dog TV US" site="dogtv.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 119 US" site="dtvcinema119.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 120 US" site="dtvcinema120.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 121 US" site="dtvcinema121.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 122 US" site="dtvcinema122.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 123 US" site="dtvcinema123.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 124 US" site="dtvcinema124.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 126 US" site="dtvcinema126.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 127 US" site="dtvcinema127.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 128 US" site="dtvcinema128.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 129 US" site="dtvcinema129.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 130 US" site="dtvcinema130.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 131 US" site="dtvcinema131.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 135 US" site="dtvcinema135.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 136 US" site="dtvcinema136.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 138 US" site="dtvcinema138.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 139 US" site="dtvcinema139.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 140 US" site="dtvcinema140.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 141 US" site="dtvcinema141.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 142 US" site="dtvcinema142.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 143 US" site="dtvcinema143.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 144 US" site="dtvcinema144.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 145 US" site="dtvcinema145.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 147 US" site="dtvcinema147.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 148 US" site="dtvcinema148.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 149 US" site="dtvcinema149.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 150 US" site="dtvcinema150.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 151 US" site="dtvcinema151.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 152 US" site="dtvcinema152.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 153 US" site="dtvcinema153.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 154 US" site="dtvcinema154.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 155 US" site="dtvcinema155.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 156 US" site="dtvcinema156.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 157 US" site="dtvcinema157.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 158 US" site="dtvcinema158.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 159 US" site="dtvcinema159.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 166 US" site="dtvcinema166.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 168 US" site="dtvcinema168.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 169 US" site="dtvcinema169.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 173 US" site="dtvcinema173.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 174 US" site="dtvcinema174.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 175 US" site="dtvcinema175.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 176 US" site="dtvcinema176.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 177 US" site="dtvcinema177.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 178 US" site="dtvcinema178.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 179 US" site="dtvcinema179.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 180 US" site="dtvcinema180.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 181 US" site="dtvcinema181.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 182 US" site="dtvcinema182.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 183 US" site="dtvcinema183.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 184 US" site="dtvcinema184.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 185 US" site="dtvcinema185.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 186 US" site="dtvcinema186.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 187 US" site="dtvcinema187.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 188 US" site="dtvcinema188.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 189 US" site="dtvcinema189.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 190 US" site="dtvcinema190.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 191 US" site="dtvcinema191.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 192 US" site="dtvcinema192.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 193 US" site="dtvcinema193.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 194 US" site="dtvcinema194.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 195 US" site="dtvcinema195.us"></channel>
+<channel update="i" xmltv_id="DTV Cinema 196 US" site="dtvcinema196.us"></channel>
+<channel update="i" xmltv_id="E! Entertainment US" site="eentertainment.us"></channel>
+<channel update="i" xmltv_id="Eleven Sports US" site="elevensports.us"></channel>
+<channel update="i" xmltv_id="El Rey US" site="elrey.us"></channel>
+<channel update="i" xmltv_id="Enlace US" site="enlace.us"></channel>
+<channel update="i" xmltv_id="EPIX US" site="epix.us"></channel>
+<channel update="i" xmltv_id="EPIX2 US" site="epix2.us"></channel>
+<channel update="i" xmltv_id="EPIX Hits US" site="epixhits.us"></channel>
+<channel update="i" xmltv_id="Epix DriveIn US" site="epixdrivein.us"></channel>
+<channel update="i" xmltv_id="Escape US" site="escape.us"></channel>
+<channel update="i" xmltv_id="ESPN US" site="espn.us"></channel>
+<channel update="i" xmltv_id="ESPN2 US" site="espn2.us"></channel>
+<channel update="i" xmltv_id="ESPN Classic US" site="espnclassics.us"></channel>
+<channel update="i" xmltv_id="ESPN Deportes US" site="espndeportes.us"></channel>
+<channel update="i" xmltv_id="ESPN News US" site="espnnews.us"></channel>
+<channel update="i" xmltv_id="ESPN U US" site="espnu.us"></channel>
+<channel update="i" xmltv_id="ESPN College Extra 1 US" site="espncollegeextra1.us"></channel>
+<channel update="i" xmltv_id="ESPN College Extra 2 US" site="espncollegeextra2.us"></channel>
+<channel update="i" xmltv_id="ESPN College Extra 3 US" site="espncollegeextra3.us"></channel>
+<channel update="i" xmltv_id="ESPN College Extra 4 US" site="espncollegeextra4.us"></channel>
+<channel update="i" xmltv_id="ESPN College Extra 5 US" site="espncollegeextra5.us"></channel>
+<channel update="i" xmltv_id="ESPN College Extra 6 US" site="espncollegeextra6.us"></channel>
+<channel update="i" xmltv_id="ESPN College Extra 7 US" site="espncollegeextra7.us"></channel>
+<channel update="i" xmltv_id="ESPN College Extra 8 US" site="espncollegeextra8.us"></channel>
+<channel update="i" xmltv_id="Estrella US" site="estrella.us"></channel>
+<channel update="i" xmltv_id="EVINE US" site="evine.us"></channel>
+<channel update="i" xmltv_id="EWTN US" site="ewtn.us"></channel>
+<channel update="i" xmltv_id="EWTN Espanol US" site="ewtnespanol.us"></channel>
+<channel update="i" xmltv_id="FOX College Sports Pacific US" site="foxcollegesportspacific.us"></channel>
+<channel update="i" xmltv_id="FOX College Sports Atlantic US" site="foxcollegesportsatlantic.us"></channel>
+<channel update="i" xmltv_id="FOX College Sports Central US" site="foxcollegesportscentral.us"></channel>
+<channel update="i" xmltv_id="Flix US" site="flix.us"></channel>
+<channel update="i" xmltv_id="Food Network US" site="foodnetwork.us"></channel>
+<channel update="i" xmltv_id="Fox 10 Phoenix US" site="fox10ksaz.us"></channel>
+<channel update="i" xmltv_id="Fox 10 Extra Phoenix US" site="fox10kutp.us"></channel>
+<channel update="i" xmltv_id="Fox 11 LA US" site="fox11kttv.us"></channel>
+<channel update="i" xmltv_id="FOX 25 Boston US" site="fox25wfxt.us"></channel>
+<channel update="i" xmltv_id="Fox 28 Columbus US" site="fox28wtte.us"></channel>
+<channel update="i" xmltv_id="FOX 2 St. Louis US" site="fox2ktvi.us"></channel>
+<channel update="i" xmltv_id="Fox 30 Jacksonville US" site="fox30wfox.us"></channel>
+<channel update="i" xmltv_id="FOX 31 Denver US" site="fox31kdvr.us"></channel>
+<channel update="i" xmltv_id="FOX 32 Chicago US" site="fox32wfld.us"></channel>
+<channel update="i" xmltv_id="Fox 36 Toledo US" site="fox36wupw.us"></channel>
+<channel update="i" xmltv_id="FOX 41 Louisville US" site="fox41wdrb.us"></channel>
+<channel update="i" xmltv_id="Fox 4 Alaska US" site="fox4ktby.us"></channel>
+<channel update="i" xmltv_id="FOX 4 Kansas City US" site="fox4wdaf.us"></channel>
+<channel update="i" xmltv_id="FOX NY US" site="fox.us"></channel>
+<channel update="i" xmltv_id="Fox Business US" site="foxbusiness.us"></channel>
+<channel update="i" xmltv_id="Fox Deportes Espanol US" site="foxdeportes.us"></channel>
+<channel update="i" xmltv_id="Fox San Antonio US" site="foxkabb.us"></channel>
+<channel update="i" xmltv_id="FOX Tacoma US" site="foxkcpq.us"></channel>
+<channel update="i" xmltv_id="FOX Dallas US" site="foxkdfw.us"></channel>
+<channel update="i" xmltv_id="FOX Grand Junction US" site="foxkfqx.us"></channel>
+<channel update="i" xmltv_id="FOX Cedar Rapids US" site="foxkfxa.us"></channel>
+<channel update="i" xmltv_id="FOX Honolulu US" site="foxkhon.us"></channel>
+<channel update="i" xmltv_id="FOX 9 Minneapolis US" site="foxkmsp.us"></channel>
+<channel update="i" xmltv_id="Fox Tulsa US" site="foxkoki.us"></channel>
+<channel update="i" xmltv_id="FOX Houston US" site="foxkriv.us"></channel>
+<channel update="i" xmltv_id="FOX San Diego US" site="foxkswb.us"></channel>
+<channel update="i" xmltv_id="FOX Sacramento US" site="foxktxl.us"></channel>
+<channel update="i" xmltv_id="FOX Las Vegas US" site="foxkvvu.us"></channel>
+<channel update="i" xmltv_id="Fox Life US" site="foxlife.us"></channel>
+<channel update="i" xmltv_id="FOX Sports Midwest Kansas City US" site="foxmidwestkansascity.us"></channel>
+<channel update="i" xmltv_id="Fox News US" site="foxnews.us"></channel>
+<channel update="i" xmltv_id="Fox Soccer Plus US" site="foxsoccerplus.us"></channel>
+<channel update="i" xmltv_id="Fox Sports West US" site="foxsportswest.us"></channel>
+<channel update="i" xmltv_id="Fox Sports 1 US" site="foxsports1.us"></channel>
+<channel update="i" xmltv_id="Fox Sports 2 US" site="foxsports2.us"></channel>
+<channel update="i" xmltv_id="Fox Sports Arizona US" site="foxsportsarizona.us"></channel>
+<channel update="i" xmltv_id="FOX Sports South Carolinas US" site="foxsportscarolinas.us"></channel>
+<channel update="i" xmltv_id="Fox Sports Detroit US" site="foxsportsdetroit.us"></channel>
+<channel update="i" xmltv_id="Fox Sports Florida US" site="foxsportsflorida.us"></channel>
+<channel update="i" xmltv_id="FOX Sports Indiana US" site="foxsportsindiana.us"></channel>
+<channel update="i" xmltv_id="Fox Sports Midwest US" site="foxsportsmidwest.us"></channel>
+<channel update="i" xmltv_id="FOX Sports Midwest Indiana US" site="foxsportsmidwestindiana.us"></channel>
+<channel update="i" xmltv_id="FOX Sports Midwest St. Louis US" site="foxsportsmidweststlouis.us"></channel>
+<channel update="i" xmltv_id="FOX Sports New Orleans US" site="foxsportsneworleans.us"></channel>
+<channel update="i" xmltv_id="Fox Sports North US" site="foxsportsnorth.us"></channel>
+<channel update="i" xmltv_id="Fox Sports Cincinnati US" site="foxsportsohiocincinnati.us"></channel>
+<channel update="i" xmltv_id="Fox Sports Cleveland US" site="foxsportsohiocleveland.us"></channel>
+<channel update="i" xmltv_id="FOX Sports Oklahoma US" site="foxsportsoklahoma.us"></channel>
+<channel update="i" xmltv_id="Fox Sports Prime Ticket US" site="foxsportsprimeticket.us"></channel>
+<channel update="i" xmltv_id="Fox Sports San Diego US" site="foxsportssandiego.us"></channel>
+<channel update="i" xmltv_id="Fox Sports South US" site="foxsportssouth.us"></channel>
+<channel update="i" xmltv_id="Fox Sports Southeast US" site="foxsportssoutheast.us"></channel>
+<channel update="i" xmltv_id="FOX Sports South Nashville US" site="foxsportssouthnashville.us"></channel>
+<channel update="i" xmltv_id="Fox Sports Southwest US" site="foxsportssouthwest.us"></channel>
+<channel update="i" xmltv_id="Fox Sports Sun US" site="foxsportssun.us"></channel>
+<channel update="i" xmltv_id="Fox Sports Wisconsin US" site="foxsportswisconsin.us"></channel>
+<channel update="i" xmltv_id="FOX Atlanta US" site="foxwaga.us"></channel>
+<channel update="i" xmltv_id="FOX Baltimore US" site="foxwbff.us"></channel>
+<channel update="i" xmltv_id="FOX Milwaukee US" site="foxwiti.us"></channel>
+<channel update="i" xmltv_id="Fox 2 Detroit US" site="foxwjbk.us"></channel>
+<channel update="i" xmltv_id="FOX 8 Cleveland US" site="foxwjw.us"></channel>
+<channel update="i" xmltv_id="FOX Charlotte US" site="foxwjzy.us"></channel>
+<channel update="i" xmltv_id="FOX NY US" site="foxwnyw.us"></channel>
+<channel update="i" xmltv_id="FOX Orlando US" site="foxwofl.us"></channel>
+<channel update="i" xmltv_id="FOX Washington DC US" site="foxwttg.us"></channel>
+<channel update="i" xmltv_id="FOX Tampa Bay US" site="foxwtvt.us"></channel>
+<channel update="i" xmltv_id="Fox Philadelphia US" site="foxwtxf.us"></channel>
+<channel update="i" xmltv_id="Fox Bangor US" site="foxwvii.us"></channel>
+<channel update="i" xmltv_id="Fox New Orleans US" site="foxwvue.us"></channel>
+<channel update="i" xmltv_id="Fox Cincinnaty US" site="foxwxix.us"></channel>
+<channel update="i" xmltv_id="FOX Nashville US" site="foxwztv.us"></channel>
+<channel update="i" xmltv_id="Freeform US" site="freeform.us"></channel>
+<channel update="i" xmltv_id="Fuse US" site="fusetv.us"></channel>
+<channel update="i" xmltv_id="Fusion US" site="fusion.us"></channel>
+<channel update="i" xmltv_id="FX US" site="fx.us"></channel>
+<channel update="i" xmltv_id="FX Movie Channel US" site="fxmoviechannel.us"></channel>
+<channel update="i" xmltv_id="FXX US" site="fxx.us"></channel>
+<channel update="i" xmltv_id="FYI US" site="fyi.us"></channel>
+<channel update="i" xmltv_id="Galavision US" site="galavision.us"></channel>
+<channel update="i" xmltv_id="Game Show Network US" site="gameshownetwork.us"></channel>
+<channel update="i" xmltv_id="Gem Shopping Network US" site="gemshoppingnetwork.us"></channel>
+<channel update="i" xmltv_id="Get TV US" site="gettv.us"></channel>
+<channel update="i" xmltv_id="God\&apos;s Learning Channel US" site="godslearningchannel.us"></channel>
+<channel update="i" xmltv_id="God TV US" site="godtv.us"></channel>
+<channel update="i" xmltv_id="The Golf Channel US" site="golfchannel.us"></channel>
+<channel update="i" xmltv_id="Gol TV US" site="goltv.us"></channel>
+<channel update="i" xmltv_id="Gol TV ES US" site="goltvspanish.us"></channel>
+<channel update="i" xmltv_id="Great American Country US" site="greatamericancountry.us"></channel>
+<channel update="i" xmltv_id="Grit US" site="grit.us"></channel>
+<channel update="i" xmltv_id="Hallmark Channel US" site="hallmark.us"></channel>
+<channel update="i" xmltv_id="Hallmark Drama US" site="hallmarkdrama.us"></channel>
+<channel update="i" xmltv_id="Hallmark Movies and Mysteries US" site="hallmarkmoviesmysteries.us"></channel>
+<channel update="i" xmltv_id="HBO US" site="hbo.us"></channel>
+<channel update="i" xmltv_id="HBO 2 US" site="hbo2.us"></channel>
+<channel update="i" xmltv_id="HBO Comedy US" site="hbocomedy.us"></channel>
+<channel update="i" xmltv_id="HBO Family US" site="hbofamily.us"></channel>
+<channel update="i" xmltv_id="HBO Latino US" site="hbolatino.us"></channel>
+<channel update="i" xmltv_id="HBO Max US" site="hbomax.us"></channel>
+<channel update="i" xmltv_id="HBO Max Prime US" site="hbomaxprime.us"></channel>
+<channel update="i" xmltv_id="HBO Max Up US" site="hbomaxup.us"></channel>
+<channel update="i" xmltv_id="HBO Signature US" site="hbosignature.us"></channel>
+<channel update="i" xmltv_id="HBO Zone US" site="hbozone.us"></channel>
+<channel update="i" xmltv_id="HDNet Movies US" site="hdnetmovies.us"></channel>
+<channel update="i" xmltv_id="Heroes And Icons TV US" site="heroesandiconstv.us"></channel>
+<channel update="i" xmltv_id="HGTV US" site="hgtv.us"></channel>
+<channel update="i" xmltv_id="Hillsong US" site="hillsong.us"></channel>
+<channel update="i" xmltv_id="History Channel US" site="historychannel.us"></channel>
+<channel update="i" xmltv_id="History en Espanol US" site="historyenespanol.us"></channel>
+<channel update="i" xmltv_id="HLN US" site="hln.us"></channel>
+<channel update="i" xmltv_id="Hola TV US" site="holatv.us"></channel>
+<channel update="i" xmltv_id="Home Shopping Network US" site="homeshoppingnetwork.us"></channel>
+<channel update="i" xmltv_id="Hope Channel US" site="hopechannel.us"></channel>
+<channel update="i" xmltv_id="HSN2 US" site="hsn2.us"></channel>
+<channel update="i" xmltv_id="IMPACT US" site="impact.us"></channel>
+<channel update="i" xmltv_id="Independent Film Channel US" site="independentfilmchannel.us"></channel>
+<channel update="i" xmltv_id="IndiePlex US" site="indieplex.us"></channel>
+<channel update="i" xmltv_id="INSP US" site="insp.us"></channel>
+<channel update="i" xmltv_id="Investigation Discovery US" site="investigationdiscovery.us"></channel>
+<channel update="i" xmltv_id="ION US" site="ion.us"></channel>
+<channel update="i" xmltv_id="ION Life US" site="ionlife.us"></channel>
+<channel update="i" xmltv_id="Jewelry Television US" site="jewelrytelevision.us"></channel>
+<channel update="i" xmltv_id="Jewish Life US" site="jewishlifetv.us"></channel>
+<channel update="i" xmltv_id="Justice Central US" site="justicecentral.us"></channel>
+<channel update="i" xmltv_id="KCAL US" site="kcal.us"></channel>
+<channel update="i" xmltv_id="KCET US" site="kcet.us"></channel>
+<channel update="i" xmltv_id="KTLA US" site="ktla.us"></channel>
+<channel update="i" xmltv_id="KGBY Cozi US" site="kgbycozi.us"></channel>
+<channel update="i" xmltv_id="KUBE Houston US" site="kube.us"></channel>
+<channel update="i" xmltv_id="Laff TV US" site="lafftv.us"></channel>
+<channel update="i" xmltv_id="Lifetime Movies US" site="lifetimemovies.us"></channel>
+<channel update="i" xmltv_id="Lifetime Network US" site="lifetimenetwork.us"></channel>
+<channel update="i" xmltv_id="LMN US" site="lmn.us"></channel>
+<channel update="i" xmltv_id="LOGO US" site="logo.us"></channel>
+<channel update="i" xmltv_id="Longhorn Network US" site="thelonghonrnetwork.us"></channel>
+<channel update="i" xmltv_id="MSG US" site="madisonsquaregarden.us"></channel>
+<channel update="i" xmltv_id="MSG Plus US" site="madisonsquaregardenplus.us"></channel>
+<channel update="i" xmltv_id="MavTV US" site="mavtv.us"></channel>
+<channel update="i" xmltv_id="Mega TV US" site="megatv.us"></channel>
+<channel update="i" xmltv_id="MeTV New Jersey US" site="metvwjlp.us"></channel>
+<channel update="i" xmltv_id="Mexicanal US" site="mexicanal.us"></channel>
+<channel update="i" xmltv_id="MGM US" site="mgm.us"></channel>
+<channel update="i" xmltv_id="Military History US" site="militaryhistory.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 720 US" site="mlbextrainnings720.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 721 US" site="mlbextrainnings721.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 722 US" site="mlbextrainnings722.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 723 US" site="mlbextrainnings723.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 724 US" site="mlbextrainnings724.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 725 US" site="mlbextrainnings725.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 726 US" site="mlbextrainnings726.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 727 US" site="mlbextrainnings727.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 728 US" site="mlbextrainnings728.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 729 US" site="mlbextrainnings729.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 731 US" site="mlbextrainnings730.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 731 US" site="mlbextrainnings731.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 732 US" site="mlbextrainnings732.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 733 US" site="mlbextrainnings733.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 734 US" site="mlbextrainnings734.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 735 US" site="mlbextrainnings735.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 736 US" site="mlbextrainnings736.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 737 US" site="mlbextrainnings737.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 738 US" site="mlbextrainnings738.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 739 US" site="mlbextrainnings739.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 740 US" site="mlbextrainnings740.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 741 US" site="mlbextrainnings741.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 742 US" site="mlbextrainnings742.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 743 US" site="mlbextrainnings743.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 744 US" site="mlbextrainnings744.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 745 US" site="mlbextrainnings745.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 746 US" site="mlbextrainnings746.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 747 US" site="mlbextrainnings747.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 748 US" site="mlbextrainnings748.us"></channel>
+<channel update="i" xmltv_id="MLB Extra Innings 749 US" site="mlbextrainnings749.us"></channel>
+<channel update="i" xmltv_id="MLB Network US" site="mlbnetwork.us"></channel>
+<channel update="i" xmltv_id="More Max US" site="moremax.us"></channel>
+<channel update="i" xmltv_id="Motor Trend US" site="motortrend.us"></channel>
+<channel update="i" xmltv_id="MOVIEMAX US" site="moviemax.us"></channel>
+<channel update="i" xmltv_id="MoviePlex US" site="movieplex.us"></channel>
+<channel update="i" xmltv_id="MSNBC US" site="msnbc.us"></channel>
+<channel update="i" xmltv_id="MTV US" site="mtv.us"></channel>
+<channel update="i" xmltv_id="MTV2 US" site="mtv2.us"></channel>
+<channel update="i" xmltv_id="MTV Classic US" site="mtvclassic.us"></channel>
+<channel update="i" xmltv_id="MTV Live US" site="mtvlive.us"></channel>
+<channel update="i" xmltv_id="MY13 Los Angeles US" site="my13kcop.us"></channel>
+<channel update="i" xmltv_id="MY20 Houston US" site="my20ktxh.us"></channel>
+<channel update="i" xmltv_id="MY 24 Milwaukee US" site="my24wvtv.us"></channel>
+<channel update="i" xmltv_id="My38 Boston US" site="my38wsbk.us"></channel>
+<channel update="i" xmltv_id="MY65 Orlando US" site="my65wrbw.us"></channel>
+<channel update="i" xmltv_id="My9 New York US" site="my9wwor.us"></channel>
+<channel update="i" xmltv_id="NASA Channel US" site="nasachannel.us"></channel>
+<channel update="i" xmltv_id="National Geographic Wild US" site="natgeowild.us"></channel>
+<channel update="i" xmltv_id="National Geographic US" site="natgeo.us"></channel>
+<channel update="i" xmltv_id="NatGeo Mundo US" site="natgeomundo.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 1 US" site="nbaleaguepass1.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 2 US" site="nbaleaguepass2.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 3 US" site="nbaleaguepass3.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 4 US" site="nbaleaguepass4.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 5 US" site="nbaleaguepass5.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 6 US" site="nbaleaguepass6.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 7 US" site="nbaleaguepass7.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 8 US" site="nbaleaguepass8.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 9 US" site="nbaleaguepass9.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 10 US" site="nbaleaguepass10.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 750 US" site="nbaleaguepass750.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 751 US" site="nbaleaguepass751.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 752 US" site="nbaleaguepass752.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 753 US" site="nbaleaguepass753.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 754 US" site="nbaleaguepass754.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 755 US" site="nbaleaguepass755.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 756 US" site="nbaleaguepass756.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 757 US" site="nbaleaguepass757.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 758 US" site="nbaleaguepass758.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 759 US" site="nbaleaguepass759.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 760 US" site="nbaleaguepass760.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 761 US" site="nbaleaguepass761.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 762 US" site="nbaleaguepass762.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 763 US" site="nbaleaguepass763.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 764 US" site="nbaleaguepass764.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 765 US" site="nbaleaguepass765.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 766 US" site="nbaleaguepass766.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 767 US" site="nbaleaguepass767.us"></channel>
+<channel update="i" xmltv_id="NBA League Pass 768 US" site="nbaleaguepass768.us"></channel>
+<channel update="i" xmltv_id="NBA TV US" site="nbatv.us"></channel>
+<channel update="i" xmltv_id="NBC 10 Philadelphia US" site="nbc10wcau.us"></channel>
+<channel update="i" xmltv_id="NBC 15 Madison US" site="nbc15wmtv.us"></channel>
+<channel update="i" xmltv_id="NBC 2 Alaska US" site="nbc2ktuu.us"></channel>
+<channel update="i" xmltv_id="NBC 41 Kansas City US" site="nbc41kshb.us"></channel>
+<channel update="i" xmltv_id="NBC 4 LA US" site="nbc4knbc.us"></channel>
+<channel update="i" xmltv_id="NBC 4 Columbus US" site="nbc4wcmh.us"></channel>
+<channel update="i" xmltv_id="NBC 5 St. Louis US" site="nbc5ksdk.us"></channel>
+<channel update="i" xmltv_id="NBC 5 Chicago US" site="nbc5wmaq.us"></channel>
+<channel update="i" xmltv_id="NBC 6 Miami US" site="nbc6wtvj.us"></channel>
+<channel update="i" xmltv_id="NBC 9 Denver US" site="nbc9kusa.us"></channel>
+<channel update="i" xmltv_id="NBC Boston US" site="nbcwbts.us"></channel>
+<channel update="i" xmltv_id="NBC Kare 11 Minneapolis US" site="nbckare.us"></channel>
+<channel update="i" xmltv_id="NBC Sacramento US" site="nbckcra.us"></channel>
+<channel update="i" xmltv_id="CBS Honolulu US" site="nbckhnl.us"></channel>
+<channel update="i" xmltv_id="NBC Seattle US" site="nbcking.us"></channel>
+<channel update="i" xmltv_id="NBC Tulsa US" site="nbckjrh.us"></channel>
+<channel update="i" xmltv_id="NBC Grand Junction US" site="nbckkco.us"></channel>
+<channel update="i" xmltv_id="NBC San Diego US" site="nbcknsd.us"></channel>
+<channel update="i" xmltv_id="NBC Houston US" site="nbckprc.us"></channel>
+<channel update="i" xmltv_id="NBC Las Vegas US" site="nbcksnv.us"></channel>
+<channel update="i" xmltv_id="NBC Fort Worth US" site="nbckxas.us"></channel>
+<channel update="i" xmltv_id="NBCSN Washington US" site="nbcsnwashington.us"></channel>
+<channel update="i" xmltv_id="NBC Sports Bay Area US" site="nbcsportsbayarea.us"></channel>
+<channel update="i" xmltv_id="NBC Sports Boston US" site="nbcsportsboston.us"></channel>
+<channel update="i" xmltv_id="NBC Sports California US" site="nbcsportscalifornia.us"></channel>
+<channel update="i" xmltv_id="NBC Sports Chicago US" site="nbcsportschicago.us"></channel>
+<channel update="i" xmltv_id="NBC Sports Chicago Plus US" site="nbcsportschicagoplus.us"></channel>
+<channel update="i" xmltv_id="NBC Sports Network US" site="nbcsportsnetwork.us"></channel>
+<channel update="i" xmltv_id="NBC Sports Northwest US" site="nbcsportsnorthwest.us"></channel>
+<channel update="i" xmltv_id="NBC Sports Philadelphia US" site="nbcsportsphiladelphia.us"></channel>
+<channel update="i" xmltv_id="NBC Sports Philadelphia Plus US" site="nbcsportsphiladelphiaplus.us"></channel>
+<channel update="i" xmltv_id="NBC Universo US" site="nbcuniverso.us"></channel>
+<channel update="i" xmltv_id="Wave 3 Louisville US" site="nbcwave.us"></channel>
+<channel update="i" xmltv_id="NBC Baltimore US" site="nbcwbal.us"></channel>
+<channel update="i" xmltv_id="NBC Charlotte US" site="nbcwcnc.us"></channel>
+<channel update="i" xmltv_id="NBC Portland US" site="nbcwcsh.us"></channel>
+<channel update="i" xmltv_id="NBC Detroit US" site="nbcwdiv.us"></channel>
+<channel update="i" xmltv_id="NBC New Orleans US" site="nbcwdsu.us"></channel>
+<channel update="i" xmltv_id="ABC Eau Claire US" site="nbcweau.us"></channel>
+<channel update="i" xmltv_id="NBC Orlando US" site="nbcwesh.us"></channel>
+<channel update="i" xmltv_id="NBC Tampa Bay US" site="nbcwfla.us"></channel>
+<channel update="i" xmltv_id="NBC Zanesville US" site="nbcwhiz.us"></channel>
+<channel update="i" xmltv_id="NBC Wausau US" site="nbcwjfw.us"></channel>
+<channel update="i" xmltv_id="NBC Cleveland US" site="nbcwkyc.us"></channel>
+<channel update="i" xmltv_id="NBC Lima US" site="nbcwlio.us"></channel>
+<channel update="i" xmltv_id="NBC Marquette US" site="nbcwluc.us"></channel>
+<channel update="i" xmltv_id="NBC NY US" site="nbcwnbc.us"></channel>
+<channel update="i" xmltv_id="NBC San Antonio US" site="nbcwoai.us"></channel>
+<channel update="i" xmltv_id="NBC Plattsburg US" site="nbcwptz.us"></channel>
+<channel update="i" xmltv_id="NBC Washington DC US" site="nbcwrc.us"></channel>
+<channel update="i" xmltv_id="NBC Huntington US" site="nbcwsaz.us"></channel>
+<channel update="i" xmltv_id="NBC Nashville US" site="nbcwsmw.us"></channel>
+<channel update="i" xmltv_id="NBC Milwaukee US" site="nbcwtmj.us"></channel>
+<channel update="i" xmltv_id="NBC Atlanta US" site="nbcwxia.us"></channel>
+<channel update="i" xmltv_id="NECN US" site="newenglandcablenews.us"></channel>
+<channel update="i" xmltv_id="New England Sports Network US" site="newenglandsportsnetwork.us"></channel>
+<channel update="i" xmltv_id="NESN+ US" site="newenglandsportsnetworkplus.us"></channel>
+<channel update="i" xmltv_id="Newsmax US" site="newsmax.us"></channel>
+<channel update="i" xmltv_id="Newsy US" site="newsy.us"></channel>
+<channel update="i" xmltv_id="NFL Fantasy Zone US" site="nflfantasyzone.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket Mix 1 US" site="nflsundaymixchannel.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket Mix 2 US" site="nfl2sundaymixchannel.us"></channel>
+<channel update="i" xmltv_id="NFL Network US" site="nflnetwork.us"></channel>
+<channel update="i" xmltv_id="NFL Red Zone US" site="nflredzone.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 705 US" site="nflsundayticket705.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 706 US" site="nflsundayticket706.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 707 US" site="nflsundayticket707.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 708 US" site="nflsundayticket708.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 709 US" site="nflsundayticket709.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 710 US" site="nflsundayticket710.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 711 US" site="nflsundayticket711.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 712 US" site="nflsundayticket712.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 713 US" site="nflsundayticket713.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 714 US" site="nflsundayticket714.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 715 US" site="nflsundayticket715.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 716 US" site="nflsundayticket716.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 717 US" site="nflsundayticket717.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 718 US" site="nflsundayticket718.us"></channel>
+<channel update="i" xmltv_id="NFL Sunday Ticket 719 US" site="nflsundayticket719.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 1 US" site="nhlcenterice1.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 2 US" site="nhlcenterice2.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 3 US" site="nhlcenterice3.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 4 US" site="nhlcenterice4.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 5 US" site="nhlcenterice5.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 6 US" site="nhlcenterice6.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 7 US" site="nhlcenterice7.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 8 US" site="nhlcenterice8.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 9 US" site="nhlcenterice9.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 10 US" site="nhlcenterice10.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 11 US" site="nhlcenterice11.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 12 US" site="nhlcenterice12.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 13 US" site="nhlcenterice13.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 14 US" site="nhlcenterice14.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 769 US" site="nhlcenterice769.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 770 US" site="nhlcenterice770.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 771 US" site="nhlcenterice771.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 772 US" site="nhlcenterice772.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 773 US" site="nhlcenterice773.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 774 US" site="nhlcenterice774.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 775 US" site="nhlcenterice775.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 776 US" site="nhlcenterice776.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 777 US" site="nhlcenterice777.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 778 US" site="nhlcenterice778.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 779 US" site="nhlcenterice779.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 780 US" site="nhlcenterice780.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 781 US" site="nhlcenterice781.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 782 US" site="nhlcenterice782.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 783 US" site="nhlcenterice783.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 784 US" site="nhlcenterice784.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 785 US" site="nhlcenterice785.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 786 US" site="nhlcenterice786.us"></channel>
+<channel update="i" xmltv_id="NHL Center Ice 787 US" site="nhlcenterice787.us"></channel>
+<channel update="i" xmltv_id="NHL Network US" site="nhlnetwork.us"></channel>
+<channel update="i" xmltv_id="Nickelodeon US" site="nickelodeon.us"></channel>
+<channel update="i" xmltv_id="Nick Jr. US" site="nickjr.us"></channel>
+<channel update="i" xmltv_id="Nicktoons US" site="nicktoons.us"></channel>
+<channel update="i" xmltv_id="NickMusic US" site="nickmusic.us"></channel>
+<channel update="i" xmltv_id="NYC Life US" site="nyclifewnye.us"></channel>
+<channel update="i" xmltv_id="Olympic Channel US" site="olympicchannel.us"></channel>
+<channel update="i" xmltv_id="One America News US" site="oneamericanews.us"></channel>
+<channel update="i" xmltv_id="The Oprah Winfrey Network US" site="oprahwinfreynetwork.us"></channel>
+<channel update="i" xmltv_id="Outdoor Channel US" site="outdoorchannel.us"></channel>
+<channel update="i" xmltv_id="Outer Max US" site="outermax.us"></channel>
+<channel update="i" xmltv_id="OutsideTV US" site="outsidetv.us"></channel>
+<channel update="i" xmltv_id="Ovation US" site="ovation.us"></channel>
+<channel update="i" xmltv_id="Oxygen US" site="oxygen.us"></channel>
+<channel update="i" xmltv_id="PAC-12 Bay Area US" site="pac12bayarea.us"></channel>
+<channel update="i" xmltv_id="PAC-12 Los Angeles US" site="pac12losangeles.us"></channel>
+<channel update="i" xmltv_id="PAC-12 Mountain US" site="pac12mountain.us"></channel>
+<channel update="i" xmltv_id="Pac-12 Network US" site="pac12network.us"></channel>
+<channel update="i" xmltv_id="PAC-12 Oregon US" site="pac12oregon.us"></channel>
+<channel update="i" xmltv_id="PAC-12 Washington US" site="pac12washington.us"></channel>
+<channel update="i" xmltv_id="Paramount Network US" site="paramountnetwork.us"></channel>
+<channel update="i" xmltv_id="Pasiones US" site="pasiones.us"></channel>
+<channel update="i" xmltv_id="PBS Boston US" site="pbswgbh.us"></channel>
+<channel update="i" xmltv_id="PBS Denver US" site="pbskbdi.us"></channel>
+<channel update="i" xmltv_id="PBS Seattle US" site="pbskcts.us"></channel>
+<channel update="i" xmltv_id="PBS Kids US" site="pbskids.us"></channel>
+<channel update="i" xmltv_id="PBS Las Vegas US" site="pbsklvx.us"></channel>
+<channel update="i" xmltv_id="PBS New Jersey US" site="pbsnjtv.us"></channel>
+<channel update="i" xmltv_id="PBS Thirteen US" site="pbsthirteen.us"></channel>
+<channel update="i" xmltv_id="PBS Vermont US" site="pbsvermontvpbs.us"></channel>
+<channel update="i" xmltv_id="PBS Vermont Plus US" site="pbsvpbsdt2.us"></channel>
+<channel update="i" xmltv_id="PBS Vermont US" site="pbswetk.us"></channel>
+<channel update="i" xmltv_id="PBS SW Florida US" site="pbswgcu.us"></channel>
+<channel update="i" xmltv_id="PBS Miamo FL US" site="pbswlrn.us"></channel>
+<channel update="i" xmltv_id="PBS Atlanta US" site="pbswgtv.us"></channel>
+<channel update="i" xmltv_id="PBS 21 Garden City US" site="pbswliw21.us"></channel>
+<channel update="i" xmltv_id="PBS South Florida US" site="pbswpbt.us"></channel>
+<channel update="i" xmltv_id="PBS Pennsylvania US" site="pbswpsu.us"></channel>
+<channel update="i" xmltv_id="PBS Chicago US" site="pbswttw.us"></channel>
+<channel update="i" xmltv_id="Playboy US" site="playboy.us"></channel>
+<channel update="i" xmltv_id="Playboy 2 US" site="playboy2.us"></channel>
+<channel update="i" xmltv_id="PopTV US" site="poptv.us"></channel>
+<channel update="i" xmltv_id="Premier League Extra Time 1 US" site="premierleagueextra1.us"></channel>
+<channel update="i" xmltv_id="Premier League Extra Time 2 US" site="premierleagueextra2.us"></channel>
+<channel update="i" xmltv_id="Premier League Extra Time 3 US" site="premierleagueextra3.us"></channel>
+<channel update="i" xmltv_id="Premier League Extra Time 4 US" site="premierleagueextra4.us"></channel>
+<channel update="i" xmltv_id="Premier League Extra Time 5 US" site="premierleagueextra5.us"></channel>
+<channel update="i" xmltv_id="Pursuit Channel US" site="pursuitchannel.us"></channel>
+<channel update="i" xmltv_id="QVC US" site="qvc.us"></channel>
+<channel update="i" xmltv_id="QVC Plus US" site="qvcplus.us"></channel>
+<channel update="i" xmltv_id="Reelz Channel US" site="reelzchannel.us"></channel>
+<channel update="i" xmltv_id="RetroPlex US" site="retroplex.us"></channel>
+<channel update="i" xmltv_id="Retro TV US" site="retrotv.us"></channel>
+<channel update="i" xmltv_id="Revn US" site="revn.us"></channel>
+<channel update="i" xmltv_id="RFD TV US" site="rfdtv.us"></channel>
+<channel update="i" xmltv_id="SEC Network US" site="secnetwork.us"></channel>
+<channel update="i" xmltv_id="Seven News Miami US" site="sevennewswsvn.us"></channel>
+<channel update="i" xmltv_id="Showtime US" site="showtime.us"></channel>
+<channel update="i" xmltv_id="Showtime 2 US" site="showtime2.us"></channel>
+<channel update="i" xmltv_id="Showtime Showcase US" site="showtimeshowcase.us"></channel>
+<channel update="i" xmltv_id="Showtime Extreme US" site="showtimeextreme.us"></channel>
+<channel update="i" xmltv_id="Showtime Beyond US" site="showtimebeyond.us"></channel>
+<channel update="i" xmltv_id="Showtime Next US" site="showtimenext.us"></channel>
+<channel update="i" xmltv_id="Showtime Women US" site="showtimewomen.us"></channel>
+<channel update="i" xmltv_id="Showtime Family Zone US" site="rshowtimefamilyzone.us"></channel>
+<channel update="i" xmltv_id="Smithsonian Channel US" site="smithsonianchannel.us"></channel>
+<channel update="i" xmltv_id="SonLife Network US" site="sonlifenetwork.us"></channel>
+<channel update="i" xmltv_id="Sony US" site="sony.us"></channel>
+<channel update="i" xmltv_id="Spectrum Deportes US" site="spectrumdeportes.us"></channel>
+<channel update="i" xmltv_id="Spectrum SportsNet US" site="spectrumsportsnet.us"></channel>
+<channel update="i" xmltv_id="Spectrum SportsNet LA US" site="spectrumsportsnetla.us"></channel>
+<channel update="i" xmltv_id="Sportsman Channel US" site="sportsmanchannel.us"></channel>
+<channel update="i" xmltv_id="SportsNet New York US" site="sportsnetnewyork.us"></channel>
+<channel update="i" xmltv_id="SportsTime Ohio US" site="sportstimeohio.us"></channel>
+<channel update="i" xmltv_id="Sprout US" site="sprout.us"></channel>
+<channel update="i" xmltv_id="Starz US" site="starz.us"></channel>
+<channel update="i" xmltv_id="Starz Cinema US" site="starzcinema.us"></channel>
+<channel update="i" xmltv_id="Starz Comedy US" site="starzcomedy.us"></channel>
+<channel update="i" xmltv_id="Starz Edge US" site="starzedge.us"></channel>
+<channel update="i" xmltv_id="Starz Encore US" site="starzencore.us"></channel>
+<channel update="i" xmltv_id="Starz Encore Action US" site="starzencoreaction.us"></channel>
+<channel update="i" xmltv_id="Starz Encore Black US" site="starzencoreblack.us"></channel>
+<channel update="i" xmltv_id="Starz Encore Classics US" site="starzencoreclassics.us"></channel>
+<channel update="i" xmltv_id="Starz Encore Family US" site="starzencorefamily.us"></channel>
+<channel update="i" xmltv_id="Starz Encore Suspense US" site="starzencoresuspense.us"></channel>
+<channel update="i" xmltv_id="Starz Encore Westerns US" site="starzencorewesterns.us"></channel>
+<channel update="i" xmltv_id="Starz In Black US" site="starzinblack.us"></channel>
+<channel update="i" xmltv_id="Starz Kids &amp; Family US" site="starzkidsfamily.us"></channel>
+<channel update="i" xmltv_id="Starz West US" site="starzwest.us"></channel>
+<channel update="i" xmltv_id="SundanceTV US" site="sundancetv.us"></channel>
+<channel update="i" xmltv_id="Syfy US" site="syfy.us"></channel>
+<channel update="i" xmltv_id="TBD TV US" site="tbdtv.us"></channel>
+<channel update="i" xmltv_id="TBS US" site="tbs.us"></channel>
+<channel update="i" xmltv_id="The Country Network US" site="tcnksaodt7.us"></channel>
+<channel update="i" xmltv_id="TeenNick US" site="teennick.us"></channel>
+<channel update="i" xmltv_id="Telemundo US" site="telemundo.us"></channel>
+<channel update="i" xmltv_id="Telemundo 51 US" site="telemundo51wscv.us"></channel>
+<channel update="i" xmltv_id="Telemundo San Antonio US" site="telemundokvda.us"></channel>
+<channel update="i" xmltv_id="Telemundo 52 L.A. US" site="telemundokvea.us"></channel>
+<channel update="i" xmltv_id="Tennis Channel US" site="tennischannel.us"></channel>
+<channel update="i" xmltv_id="Cowboy Channel US" site="thecowboychannel.us"></channel>
+<channel update="i" xmltv_id="The Word Network US" site="thewordnetwork.us"></channel>
+<channel update="i" xmltv_id="ThrillerMAX US" site="thrillermax.us"></channel>
+<channel update="i" xmltv_id="TLC US" site="tlc.us"></channel>
+<channel update="i" xmltv_id="The Movie Channel US" site="tmc.us"></channel>
+<channel update="i" xmltv_id="The Movie Channel Xtra US" site="tmcxtra.us"></channel>
+<channel update="i" xmltv_id="TNT US" site="tnt.us"></channel>
+<channel update="i" xmltv_id="Travel Channel US" site="travelchannel.us"></channel>
+<channel update="i" xmltv_id="Trinity Broadcasting Network US" site="trinitybroadcastingnetwork.us"></channel>
+<channel update="i" xmltv_id="truTV US" site="trutv.us"></channel>
+<channel update="i" xmltv_id="Turner Classic Movies US" site="turnerclassicmovies.us"></channel>
+<channel update="i" xmltv_id="TV5 Monde US" site="tv5monde.us"></channel>
+<channel update="i" xmltv_id="TVG US" site="tvg.us"></channel>
+<channel update="i" xmltv_id="TVG 2 US" site="tvg2.us"></channel>
+<channel update="i" xmltv_id="TV Land US" site="tvlandeast.us"></channel>
+<channel update="i" xmltv_id="TV Land West US" site="tvlandwest.us"></channel>
+<channel update="i" xmltv_id="TV One US" site="tvone.us"></channel>
+<channel update="i" xmltv_id="UniMas US" site="unimas.us"></channel>
+<channel update="i" xmltv_id="Universal Kids US" site="universalkids.us"></channel>
+<channel update="i" xmltv_id="UnivisiÃ³n Network US" site="univision.us"></channel>
+<channel update="i" xmltv_id="Univision 23 Miami US" site="univision23wltv.us"></channel>
+<channel update="i" xmltv_id="Univision Deportes US" site="univisiondeportes.us"></channel>
+<channel update="i" xmltv_id="Univision San Antonio US" site="univisionkwex.us"></channel>
+<channel update="i" xmltv_id="Univision Puerto Rico US" site="univisionwlii.us"></channel>
+<channel update="i" xmltv_id="Uplifting Entertainment US" site="upliftingentertainment.us"></channel>
+<channel update="i" xmltv_id="USA Network US" site="usanetwork.us"></channel>
+<channel update="i" xmltv_id="US Armenia US" site="usarmenia.us"></channel>
+<channel update="i" xmltv_id="Valu TV US" site="valutv.us"></channel>
+<channel update="i" xmltv_id="VH1 US" site="vh1.us"></channel>
+<channel update="i" xmltv_id="Viceland US" site="viceland.us"></channel>
+<channel update="i" xmltv_id="V-Me Television US" site="vmetelevision.us"></channel>
+<channel update="i" xmltv_id="WAPA 2 Deportes US" site="wapa2deportes.us"></channel>
+<channel update="i" xmltv_id="Wapa AmÃ©rica US" site="wapaamerica.us"></channel>
+<channel update="i" xmltv_id="WAPA US" site="wapatv.us"></channel>
+<channel update="i" xmltv_id="WCIU The U Chicago US" site="wciu.us"></channel>
+<channel update="i" xmltv_id="Weather Channel US" site="weatherchannel.us"></channel>
+<channel update="i" xmltv_id="Weather Nation US" site="weathernation.us"></channel>
+<channel update="i" xmltv_id="We TV US" site="wetv.us"></channel>
+<channel update="i" xmltv_id="WGN9 Chicago US" site="wgn9chicago.us"></channel>
+<channel update="i" xmltv_id="WGN America US" site="wgnamerica.us"></channel>
+<channel update="i" xmltv_id="Willow Cricket US" site="willowcricket.us"></channel>
+<channel update="i" xmltv_id="Women\&apos;s Entertainment US" site="womensentertainment.us"></channel>
+<channel update="i" xmltv_id="WLNY TV10/55 US" site="wlnytv1055.us"></channel>
+<channel update="i" xmltv_id="WMEU The U Too Chicago US" site="wmeuchicago.us"></channel>
+<channel update="i" xmltv_id="CW 23 US" site="wnlo.us"></channel>
+<channel update="i" xmltv_id="WFN US" site="worldfishingnetwork.us"></channel>
+<channel update="i" xmltv_id="Pix 11 US" site="wpix.us"></channel>
+<channel update="i" xmltv_id="WWE US" site="wwe.us"></channel>
+<channel update="i" xmltv_id="YES Network US" site="yesnetwork.us"></channel>
+</channels>
